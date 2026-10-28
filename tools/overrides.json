@@ -1,0 +1,14 @@
+{
+  "comment": "Manual join rules used by tools/build_mapping.py. 'lawnicons_to_simpleicons': map a Lawnicons drawable name to a Simple Icons slug when the automatic name match fails or is wrong. 'simpleicons_license_allowlist': slugs with explicit per-icon licenses that you have reviewed and approved for commercial serving.",
+  "lawnicons_to_simpleicons": {
+    "spotify": "spotify",
+    "telegram": "telegram",
+    "whatsapp": "whatsapp",
+    "youtube": "youtube",
+    "github": "github",
+    "instagram": "instagram",
+    "netflix": "netflix",
+    "lawnicons": "simpleicons"
+  },
+  "simpleicons_license_allowlist": []
+}

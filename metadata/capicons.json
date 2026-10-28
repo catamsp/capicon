@@ -1,0 +1,4 @@
+{
+  "comment": "Your custom icons. Each entry: name (display), svg (path relative to repo root, must live under icons/capicons/svg/), components (Android 'package/activity' IDs, optional), packages (Android package names, optional), color (hex without #, optional), license (SPDX id or {type, url}, optional). The file name stem of the svg becomes the mapping key.",
+  "icons": []
+}

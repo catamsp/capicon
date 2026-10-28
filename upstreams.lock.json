@@ -1,0 +1,12 @@
+{
+  "lawnicons": {
+    "url": "https://github.com/LawnchairLauncher/lawnicons",
+    "branch": "develop",
+    "commit": "TBD"
+  },
+  "simple-icons": {
+    "url": "https://github.com/simple-icons/simple-icons",
+    "branch": "develop",
+    "commit": "TBD"
+  }
+}

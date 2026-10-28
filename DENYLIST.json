@@ -1,0 +1,4 @@
+{
+  "comment": "Icon keys that must NEVER be served. Enforced by tools/build_mapping.py and tools/validate.py on every sync. Add an entry per brand removal request.",
+  "icons": []
+}
