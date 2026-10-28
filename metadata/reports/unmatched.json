@@ -9627,12 +9627,12 @@
     "zzzfun"
   ],
   "counts": {
-    "mapping_total": 13102,
+    "mapping_total": 13103,
     "lawnicons_drawables": 10280,
-    "simpleicons_slugs": 3466,
+    "simpleicons_slugs": 3467,
     "capicons": 0,
     "matched_lawnicons_to_simpleicons": 644,
     "unmatched_lawnicons": 9625,
-    "simpleicons_standalone": 2822
+    "simpleicons_standalone": 2823
   }
 }

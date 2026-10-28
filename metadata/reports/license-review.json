@@ -1,5 +1,5 @@
 {
-  "comment": "Icons carrying explicit per-icon license data from Simple Icons. Review before commercial serving; block via tools/overrides.json simpleicons_license_allowlist is the opposite (allow) - use DENYLIST.json to block.",
+  "comment": "Icons carrying explicit per-icon license data from Simple Icons. These are NOT CC0 - review each before commercial serving. Allow a reviewed icon via tools/overrides.json 'simpleicons_license_allowlist'; block it via DENYLIST.json. validate.py --strict fails on any flagged icon that is not allowlisted.",
   "icons": [
     {
       "key": "30secondsofcode",
@@ -366,7 +366,7 @@
       }
     },
     {
-      "key": "backbonejs",
+      "key": "backbonedotjs",
       "title": "Backbone.js",
       "license": {
         "type": "MIT"
@@ -518,6 +518,13 @@
       }
     },
     {
+      "key": "dotnet",
+      "title": ".NET",
+      "license": {
+        "type": "CC0-1.0"
+      }
+    },
+    {
       "key": "douban",
       "title": "豆瓣 ~~ Douban",
       "license": {
@@ -630,7 +637,7 @@
       }
     },
     {
-      "key": "freedesktoporg",
+      "key": "freedesktopdotorg",
       "title": "freedesktop.org",
       "license": {
         "type": "GPL-2.0-or-later"
@@ -1084,13 +1091,6 @@
       }
     },
     {
-      "key": "net",
-      "title": ".NET",
-      "license": {
-        "type": "CC0-1.0"
-      }
-    },
-    {
       "key": "ngrx",
       "title": "NgRx",
       "license": {
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "key": "softcatal",
+      "key": "softcatala",
       "title": "Softcatalà",
       "license": {
         "type": "CC-BY-SA-4.0"
@@ -1522,7 +1522,7 @@
       }
     },
     {
-      "key": "vuejs",
+      "key": "vuedotjs",
       "title": "Vue.js",
       "license": {
         "type": "CC-BY-NC-SA-4.0"

@@ -23,6 +23,13 @@ SIZES = ("48", "96", "192", "432")
 
 
 def main() -> None:
+    # Icon names include CJK and other non-cp1252 characters; don't crash the CI
+    # gate on Windows consoles.
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
     strict = "--strict" in sys.argv
     errors: list[str] = []
     warnings: list[str] = []
@@ -82,6 +89,23 @@ def main() -> None:
             errors.append(f"appfilter.xml stale item: {extra}")
 
     # 4. orphan SVGs
+    # Dynamic-calendar assets are referenced only by drawableIgnore items /
+    # <calendar> prefixes upstream; they are launcher-interpolated, not static
+    # mapping entries, so they are exempt.
+    dynamic: set[str] = set()
+    dynamic_prefixes: list[str] = []
+    upstream_af = ROOT / "third_party" / "lawnicons" / "app" / "assets" / "appfilter.xml"
+    if upstream_af.is_file():
+        try:
+            up_root = ET.parse(upstream_af).getroot()
+            for it in up_root.findall("item"):
+                if it.get("drawableIgnore") == "true" and it.get("drawable"):
+                    dynamic.add(it.get("drawable"))
+            for cal in up_root.findall("calendar"):
+                if cal.get("prefix"):
+                    dynamic_prefixes.append(cal.get("prefix"))
+        except ET.ParseError:
+            pass
     referenced = set()
     for meta in icons.values():
         for rel in meta["files"]["svg"].values():
@@ -91,6 +115,13 @@ def main() -> None:
         if not svg_dir.is_dir():
             continue
         for svg in svg_dir.glob("*.svg"):
+            if svg.stem in dynamic:
+                continue
+            if any(
+                svg.stem.startswith(p) and svg.stem[len(p):].isdigit()
+                for p in dynamic_prefixes
+            ):
+                continue
             if svg.name not in referenced:
                 warnings.append(f"orphan svg (not in mapping): icons/{source}/svg/{svg.name}")
 

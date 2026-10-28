@@ -27,7 +27,7 @@
         }
       }
     },
-    "11": {
+    "1and1": {
       "name": "1&1",
       "sources": [
         "simpleicons"
@@ -36,16 +36,16 @@
       "packages": [],
       "color": "003D8F",
       "license": null,
-      "simpleicons_slug": "11",
+      "simpleicons_slug": "1and1",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/11.svg"
+          "simpleicons": "icons/simpleicons/svg/1and1.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/11.png",
-          "simpleicons/96": "png/simpleicons/96/11.png",
-          "simpleicons/192": "png/simpleicons/192/11.png",
-          "simpleicons/432": "png/simpleicons/432/11.png"
+          "simpleicons/48": "png/simpleicons/48/1and1.png",
+          "simpleicons/96": "png/simpleicons/96/1and1.png",
+          "simpleicons/192": "png/simpleicons/192/1and1.png",
+          "simpleicons/432": "png/simpleicons/432/1and1.png"
         }
       }
     },
@@ -441,21 +441,21 @@
       ],
       "color": "221E68",
       "license": null,
-      "simpleicons_slug": "1111",
+      "simpleicons_slug": "1dot1dot1dot1",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/_1111.svg",
-          "simpleicons": "icons/simpleicons/svg/1111.svg"
+          "simpleicons": "icons/simpleicons/svg/1dot1dot1dot1.svg"
         },
         "png": {
           "48": "png/lawnicons/48/_1111.png",
           "96": "png/lawnicons/96/_1111.png",
           "192": "png/lawnicons/192/_1111.png",
           "432": "png/lawnicons/432/_1111.png",
-          "simpleicons/48": "png/simpleicons/48/1111.png",
-          "simpleicons/96": "png/simpleicons/96/1111.png",
-          "simpleicons/192": "png/simpleicons/192/1111.png",
-          "simpleicons/432": "png/simpleicons/432/1111.png"
+          "simpleicons/48": "png/simpleicons/48/1dot1dot1dot1.png",
+          "simpleicons/96": "png/simpleicons/96/1dot1dot1dot1.png",
+          "simpleicons/192": "png/simpleicons/192/1dot1dot1dot1.png",
+          "simpleicons/432": "png/simpleicons/432/1dot1dot1dot1.png"
         }
       }
     },
@@ -3219,28 +3219,6 @@
         }
       }
     },
-    "abka": {
-      "name": "Żabka",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "006420",
-      "license": null,
-      "simpleicons_slug": "abka",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/abka.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/abka.png",
-          "simpleicons/96": "png/simpleicons/96/abka.png",
-          "simpleicons/192": "png/simpleicons/192/abka.png",
-          "simpleicons/432": "png/simpleicons/432/abka.png"
-        }
-      }
-    },
     "abn_amro": {
       "name": "ABN AMRO",
       "sources": [
@@ -3294,7 +3272,7 @@
         }
       }
     },
-    "aboutme": {
+    "aboutdotme": {
       "name": "about.me",
       "sources": [
         "simpleicons"
@@ -3303,16 +3281,16 @@
       "packages": [],
       "color": "333333",
       "license": null,
-      "simpleicons_slug": "aboutme",
+      "simpleicons_slug": "aboutdotme",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/aboutme.svg"
+          "simpleicons": "icons/simpleicons/svg/aboutdotme.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/aboutme.png",
-          "simpleicons/96": "png/simpleicons/96/aboutme.png",
-          "simpleicons/192": "png/simpleicons/192/aboutme.png",
-          "simpleicons/432": "png/simpleicons/432/aboutme.png"
+          "simpleicons/48": "png/simpleicons/48/aboutdotme.png",
+          "simpleicons/96": "png/simpleicons/96/aboutdotme.png",
+          "simpleicons/192": "png/simpleicons/192/aboutdotme.png",
+          "simpleicons/432": "png/simpleicons/432/aboutdotme.png"
         }
       }
     },
@@ -3446,7 +3424,7 @@
         }
       }
     },
-    "abusech": {
+    "abusedotch": {
       "name": "abuse.ch",
       "sources": [
         "simpleicons"
@@ -3455,16 +3433,16 @@
       "packages": [],
       "color": "00465B",
       "license": null,
-      "simpleicons_slug": "abusech",
+      "simpleicons_slug": "abusedotch",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/abusech.svg"
+          "simpleicons": "icons/simpleicons/svg/abusedotch.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/abusech.png",
-          "simpleicons/96": "png/simpleicons/96/abusech.png",
-          "simpleicons/192": "png/simpleicons/192/abusech.png",
-          "simpleicons/432": "png/simpleicons/432/abusech.png"
+          "simpleicons/48": "png/simpleicons/48/abusedotch.png",
+          "simpleicons/96": "png/simpleicons/96/abusedotch.png",
+          "simpleicons/192": "png/simpleicons/192/abusedotch.png",
+          "simpleicons/432": "png/simpleicons/432/abusedotch.png"
         }
       }
     },
@@ -4828,21 +4806,21 @@
       ],
       "color": "19216C",
       "license": null,
-      "simpleicons_slug": "addyio",
+      "simpleicons_slug": "addydotio",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/addy_io.svg",
-          "simpleicons": "icons/simpleicons/svg/addyio.svg"
+          "simpleicons": "icons/simpleicons/svg/addydotio.svg"
         },
         "png": {
           "48": "png/lawnicons/48/addy_io.png",
           "96": "png/lawnicons/96/addy_io.png",
           "192": "png/lawnicons/192/addy_io.png",
           "432": "png/lawnicons/432/addy_io.png",
-          "simpleicons/48": "png/simpleicons/48/addyio.png",
-          "simpleicons/96": "png/simpleicons/96/addyio.png",
-          "simpleicons/192": "png/simpleicons/192/addyio.png",
-          "simpleicons/432": "png/simpleicons/432/addyio.png"
+          "simpleicons/48": "png/simpleicons/48/addydotio.png",
+          "simpleicons/96": "png/simpleicons/96/addydotio.png",
+          "simpleicons/192": "png/simpleicons/192/addydotio.png",
+          "simpleicons/432": "png/simpleicons/432/addydotio.png"
         }
       }
     },
@@ -5914,7 +5892,7 @@
         }
       }
     },
-    "aeromxico": {
+    "aeromexico": {
       "name": "Aeroméxico",
       "sources": [
         "simpleicons"
@@ -5923,16 +5901,16 @@
       "packages": [],
       "color": "0B2343",
       "license": null,
-      "simpleicons_slug": "aeromxico",
+      "simpleicons_slug": "aeromexico",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/aeromxico.svg"
+          "simpleicons": "icons/simpleicons/svg/aeromexico.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/aeromxico.png",
-          "simpleicons/96": "png/simpleicons/96/aeromxico.png",
-          "simpleicons/192": "png/simpleicons/192/aeromxico.png",
-          "simpleicons/432": "png/simpleicons/432/aeromxico.png"
+          "simpleicons/48": "png/simpleicons/48/aeromexico.png",
+          "simpleicons/96": "png/simpleicons/96/aeromexico.png",
+          "simpleicons/192": "png/simpleicons/192/aeromexico.png",
+          "simpleicons/432": "png/simpleicons/432/aeromexico.png"
         }
       }
     },
@@ -9317,7 +9295,7 @@
         }
       }
     },
-    "aldisd": {
+    "aldisud": {
       "name": "Aldi Süd",
       "sources": [
         "simpleicons"
@@ -9326,16 +9304,16 @@
       "packages": [],
       "color": "00005F",
       "license": null,
-      "simpleicons_slug": "aldisd",
+      "simpleicons_slug": "aldisud",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/aldisd.svg"
+          "simpleicons": "icons/simpleicons/svg/aldisud.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/aldisd.png",
-          "simpleicons/96": "png/simpleicons/96/aldisd.png",
-          "simpleicons/192": "png/simpleicons/192/aldisd.png",
-          "simpleicons/432": "png/simpleicons/432/aldisd.png"
+          "simpleicons/48": "png/simpleicons/48/aldisud.png",
+          "simpleicons/96": "png/simpleicons/96/aldisud.png",
+          "simpleicons/192": "png/simpleicons/192/aldisud.png",
+          "simpleicons/432": "png/simpleicons/432/aldisud.png"
         }
       }
     },
@@ -9794,21 +9772,21 @@
       ],
       "color": "FF6A00",
       "license": null,
-      "simpleicons_slug": "alibabacom",
+      "simpleicons_slug": "alibabadotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/alibaba_com.svg",
-          "simpleicons": "icons/simpleicons/svg/alibabacom.svg"
+          "simpleicons": "icons/simpleicons/svg/alibabadotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/alibaba_com.png",
           "96": "png/lawnicons/96/alibaba_com.png",
           "192": "png/lawnicons/192/alibaba_com.png",
           "432": "png/lawnicons/432/alibaba_com.png",
-          "simpleicons/48": "png/simpleicons/48/alibabacom.png",
-          "simpleicons/96": "png/simpleicons/96/alibabacom.png",
-          "simpleicons/192": "png/simpleicons/192/alibabacom.png",
-          "simpleicons/432": "png/simpleicons/432/alibabacom.png"
+          "simpleicons/48": "png/simpleicons/48/alibabadotcom.png",
+          "simpleicons/96": "png/simpleicons/96/alibabadotcom.png",
+          "simpleicons/192": "png/simpleicons/192/alibabadotcom.png",
+          "simpleicons/432": "png/simpleicons/432/alibabadotcom.png"
         }
       }
     },
@@ -11091,7 +11069,7 @@
         }
       }
     },
-    "alpinejs": {
+    "alpinedotjs": {
       "name": "Alpine.js",
       "sources": [
         "simpleicons"
@@ -11100,16 +11078,16 @@
       "packages": [],
       "color": "8BC0D0",
       "license": null,
-      "simpleicons_slug": "alpinejs",
+      "simpleicons_slug": "alpinedotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/alpinejs.svg"
+          "simpleicons": "icons/simpleicons/svg/alpinedotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/alpinejs.png",
-          "simpleicons/96": "png/simpleicons/96/alpinejs.png",
-          "simpleicons/192": "png/simpleicons/192/alpinejs.png",
-          "simpleicons/432": "png/simpleicons/432/alpinejs.png"
+          "simpleicons/48": "png/simpleicons/48/alpinedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/alpinedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/alpinedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/alpinedotjs.png"
         }
       }
     },
@@ -14417,6 +14395,28 @@
         }
       }
     },
+    "animedotjs": {
+      "name": "Anime.js",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "000000",
+      "license": null,
+      "simpleicons_slug": "animedotjs",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/animedotjs.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/animedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/animedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/animedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/animedotjs.png"
+        }
+      }
+    },
     "animefy": {
       "name": "Animefy",
       "sources": [
@@ -14468,28 +14468,6 @@
           "96": "png/lawnicons/96/animeindo.png",
           "192": "png/lawnicons/192/animeindo.png",
           "432": "png/lawnicons/432/animeindo.png"
-        }
-      }
-    },
-    "animejs": {
-      "name": "Anime.js",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": null,
-      "simpleicons_slug": "animejs",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/animejs.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/animejs.png",
-          "simpleicons/96": "png/simpleicons/96/animejs.png",
-          "simpleicons/192": "png/simpleicons/192/animejs.png",
-          "simpleicons/432": "png/simpleicons/432/animejs.png"
         }
       }
     },
@@ -22537,21 +22515,21 @@
       ],
       "color": "009FDB",
       "license": null,
-      "simpleicons_slug": "att",
+      "simpleicons_slug": "atandt",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/at_and_t.svg",
-          "simpleicons": "icons/simpleicons/svg/att.svg"
+          "simpleicons": "icons/simpleicons/svg/atandt.svg"
         },
         "png": {
           "48": "png/lawnicons/48/at_and_t.png",
           "96": "png/lawnicons/96/at_and_t.png",
           "192": "png/lawnicons/192/at_and_t.png",
           "432": "png/lawnicons/432/at_and_t.png",
-          "simpleicons/48": "png/simpleicons/48/att.png",
-          "simpleicons/96": "png/simpleicons/96/att.png",
-          "simpleicons/192": "png/simpleicons/192/att.png",
-          "simpleicons/432": "png/simpleicons/432/att.png"
+          "simpleicons/48": "png/simpleicons/48/atandt.png",
+          "simpleicons/96": "png/simpleicons/96/atandt.png",
+          "simpleicons/192": "png/simpleicons/192/atandt.png",
+          "simpleicons/432": "png/simpleicons/432/atandt.png"
         }
       }
     },
@@ -27259,7 +27237,7 @@
         }
       }
     },
-    "babylonjs": {
+    "babylondotjs": {
       "name": "Babylon.js",
       "sources": [
         "simpleicons"
@@ -27268,16 +27246,16 @@
       "packages": [],
       "color": "BB464B",
       "license": null,
-      "simpleicons_slug": "babylonjs",
+      "simpleicons_slug": "babylondotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/babylonjs.svg"
+          "simpleicons": "icons/simpleicons/svg/babylondotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/babylonjs.png",
-          "simpleicons/96": "png/simpleicons/96/babylonjs.png",
-          "simpleicons/192": "png/simpleicons/192/babylonjs.png",
-          "simpleicons/432": "png/simpleicons/432/babylonjs.png"
+          "simpleicons/48": "png/simpleicons/48/babylondotjs.png",
+          "simpleicons/96": "png/simpleicons/96/babylondotjs.png",
+          "simpleicons/192": "png/simpleicons/192/babylondotjs.png",
+          "simpleicons/432": "png/simpleicons/432/babylondotjs.png"
         }
       }
     },
@@ -27362,7 +27340,7 @@
         }
       }
     },
-    "backbonejs": {
+    "backbonedotjs": {
       "name": "Backbone.js",
       "sources": [
         "simpleicons"
@@ -27373,16 +27351,16 @@
       "license": {
         "type": "MIT"
       },
-      "simpleicons_slug": "backbonejs",
+      "simpleicons_slug": "backbonedotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/backbonejs.svg"
+          "simpleicons": "icons/simpleicons/svg/backbonedotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/backbonejs.png",
-          "simpleicons/96": "png/simpleicons/96/backbonejs.png",
-          "simpleicons/192": "png/simpleicons/192/backbonejs.png",
-          "simpleicons/432": "png/simpleicons/432/backbonejs.png"
+          "simpleicons/48": "png/simpleicons/48/backbonedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/backbonedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/backbonedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/backbonedotjs.png"
         }
       }
     },
@@ -28010,21 +27988,21 @@
       ],
       "color": "00A2E2",
       "license": null,
-      "simpleicons_slug": "bakali",
+      "simpleicons_slug": "bakalari",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/bakalari.svg",
-          "simpleicons": "icons/simpleicons/svg/bakali.svg"
+          "simpleicons": "icons/simpleicons/svg/bakalari.svg"
         },
         "png": {
           "48": "png/lawnicons/48/bakalari.png",
           "96": "png/lawnicons/96/bakalari.png",
           "192": "png/lawnicons/192/bakalari.png",
           "432": "png/lawnicons/432/bakalari.png",
-          "simpleicons/48": "png/simpleicons/48/bakali.png",
-          "simpleicons/96": "png/simpleicons/96/bakali.png",
-          "simpleicons/192": "png/simpleicons/192/bakali.png",
-          "simpleicons/432": "png/simpleicons/432/bakali.png"
+          "simpleicons/48": "png/simpleicons/48/bakalari.png",
+          "simpleicons/96": "png/simpleicons/96/bakalari.png",
+          "simpleicons/192": "png/simpleicons/192/bakalari.png",
+          "simpleicons/432": "png/simpleicons/432/bakalari.png"
         }
       }
     },
@@ -29089,6 +29067,28 @@
           "96": "png/lawnicons/96/bandplay.png",
           "192": "png/lawnicons/192/bandplay.png",
           "432": "png/lawnicons/432/bandplay.png"
+        }
+      }
+    },
+    "bandrautomation": {
+      "name": "B&R Automation",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "FF8800",
+      "license": null,
+      "simpleicons_slug": "bandrautomation",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/bandrautomation.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/bandrautomation.png",
+          "simpleicons/96": "png/simpleicons/96/bandrautomation.png",
+          "simpleicons/192": "png/simpleicons/192/bandrautomation.png",
+          "simpleicons/432": "png/simpleicons/432/bandrautomation.png"
         }
       }
     },
@@ -30832,21 +30832,21 @@
       ],
       "color": "4381C3",
       "license": null,
-      "simpleicons_slug": "battlenet",
+      "simpleicons_slug": "battledotnet",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/battle_net.svg",
-          "simpleicons": "icons/simpleicons/svg/battlenet.svg"
+          "simpleicons": "icons/simpleicons/svg/battledotnet.svg"
         },
         "png": {
           "48": "png/lawnicons/48/battle_net.png",
           "96": "png/lawnicons/96/battle_net.png",
           "192": "png/lawnicons/192/battle_net.png",
           "432": "png/lawnicons/432/battle_net.png",
-          "simpleicons/48": "png/simpleicons/48/battlenet.png",
-          "simpleicons/96": "png/simpleicons/96/battlenet.png",
-          "simpleicons/192": "png/simpleicons/192/battlenet.png",
-          "simpleicons/432": "png/simpleicons/432/battlenet.png"
+          "simpleicons/48": "png/simpleicons/48/battledotnet.png",
+          "simpleicons/96": "png/simpleicons/96/battledotnet.png",
+          "simpleicons/192": "png/simpleicons/192/battledotnet.png",
+          "simpleicons/432": "png/simpleicons/432/battledotnet.png"
         }
       }
     },
@@ -31082,28 +31082,6 @@
           "96": "png/lawnicons/96/bazos.png",
           "192": "png/lawnicons/192/bazos.png",
           "432": "png/lawnicons/432/bazos.png"
-        }
-      }
-    },
-    "bb": {
-      "name": "ÖBB",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "E40327",
-      "license": null,
-      "simpleicons_slug": "bb",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/bb.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/bb.png",
-          "simpleicons/96": "png/simpleicons/96/bb.png",
-          "simpleicons/192": "png/simpleicons/192/bb.png",
-          "simpleicons/432": "png/simpleicons/432/bb.png"
         }
       }
     },
@@ -38244,21 +38222,21 @@
       ],
       "color": "121D33",
       "license": null,
-      "simpleicons_slug": "blockchaincom",
+      "simpleicons_slug": "blockchaindotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/blockchain_com.svg",
-          "simpleicons": "icons/simpleicons/svg/blockchaincom.svg"
+          "simpleicons": "icons/simpleicons/svg/blockchaindotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/blockchain_com.png",
           "96": "png/lawnicons/96/blockchain_com.png",
           "192": "png/lawnicons/192/blockchain_com.png",
           "432": "png/lawnicons/432/blockchain_com.png",
-          "simpleicons/48": "png/simpleicons/48/blockchaincom.png",
-          "simpleicons/96": "png/simpleicons/96/blockchaincom.png",
-          "simpleicons/192": "png/simpleicons/192/blockchaincom.png",
-          "simpleicons/432": "png/simpleicons/432/blockchaincom.png"
+          "simpleicons/48": "png/simpleicons/48/blockchaindotcom.png",
+          "simpleicons/96": "png/simpleicons/96/blockchaindotcom.png",
+          "simpleicons/192": "png/simpleicons/192/blockchaindotcom.png",
+          "simpleicons/432": "png/simpleicons/432/blockchaindotcom.png"
         }
       }
     },
@@ -40795,7 +40773,7 @@
         }
       }
     },
-    "bookingcom": {
+    "bookingdotcom": {
       "name": "Booking.com",
       "sources": [
         "simpleicons"
@@ -40804,16 +40782,16 @@
       "packages": [],
       "color": "003A9A",
       "license": null,
-      "simpleicons_slug": "bookingcom",
+      "simpleicons_slug": "bookingdotcom",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/bookingcom.svg"
+          "simpleicons": "icons/simpleicons/svg/bookingdotcom.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/bookingcom.png",
-          "simpleicons/96": "png/simpleicons/96/bookingcom.png",
-          "simpleicons/192": "png/simpleicons/192/bookingcom.png",
-          "simpleicons/432": "png/simpleicons/432/bookingcom.png"
+          "simpleicons/48": "png/simpleicons/48/bookingdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/bookingdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/bookingdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/bookingdotcom.png"
         }
       }
     },
@@ -43082,28 +43060,6 @@
           "simpleicons/96": "png/simpleicons/96/brandfolder.png",
           "simpleicons/192": "png/simpleicons/192/brandfolder.png",
           "simpleicons/432": "png/simpleicons/432/brandfolder.png"
-        }
-      }
-    },
-    "brautomation": {
-      "name": "B&R Automation",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "FF8800",
-      "license": null,
-      "simpleicons_slug": "brautomation",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/brautomation.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/brautomation.png",
-          "simpleicons/96": "png/simpleicons/96/brautomation.png",
-          "simpleicons/192": "png/simpleicons/192/brautomation.png",
-          "simpleicons/432": "png/simpleicons/432/brautomation.png"
         }
       }
     },
@@ -45569,7 +45525,7 @@
         }
       }
     },
-    "bunnynet": {
+    "bunnydotnet": {
       "name": "bunny.net",
       "sources": [
         "simpleicons"
@@ -45578,16 +45534,16 @@
       "packages": [],
       "color": "FFAA49",
       "license": null,
-      "simpleicons_slug": "bunnynet",
+      "simpleicons_slug": "bunnydotnet",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/bunnynet.svg"
+          "simpleicons": "icons/simpleicons/svg/bunnydotnet.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/bunnynet.png",
-          "simpleicons/96": "png/simpleicons/96/bunnynet.png",
-          "simpleicons/192": "png/simpleicons/192/bunnynet.png",
-          "simpleicons/432": "png/simpleicons/432/bunnynet.png"
+          "simpleicons/48": "png/simpleicons/48/bunnydotnet.png",
+          "simpleicons/96": "png/simpleicons/96/bunnydotnet.png",
+          "simpleicons/192": "png/simpleicons/192/bunnydotnet.png",
+          "simpleicons/432": "png/simpleicons/432/bunnydotnet.png"
         }
       }
     },
@@ -46967,13 +46923,13 @@
       }
     },
     "c": {
-      "name": "C++",
+      "name": "C",
       "sources": [
         "simpleicons"
       ],
       "components": [],
       "packages": [],
-      "color": "00599C",
+      "color": "A8B9CC",
       "license": null,
       "simpleicons_slug": "c",
       "files": {
@@ -47845,21 +47801,21 @@
       ],
       "color": "292929",
       "license": null,
-      "simpleicons_slug": "calcom",
+      "simpleicons_slug": "caldotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/calcom.svg",
-          "simpleicons": "icons/simpleicons/svg/calcom.svg"
+          "simpleicons": "icons/simpleicons/svg/caldotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/calcom.png",
           "96": "png/lawnicons/96/calcom.png",
           "192": "png/lawnicons/192/calcom.png",
           "432": "png/lawnicons/432/calcom.png",
-          "simpleicons/48": "png/simpleicons/48/calcom.png",
-          "simpleicons/96": "png/simpleicons/96/calcom.png",
-          "simpleicons/192": "png/simpleicons/192/calcom.png",
-          "simpleicons/432": "png/simpleicons/432/calcom.png"
+          "simpleicons/48": "png/simpleicons/48/caldotcom.png",
+          "simpleicons/96": "png/simpleicons/96/caldotcom.png",
+          "simpleicons/192": "png/simpleicons/192/caldotcom.png",
+          "simpleicons/432": "png/simpleicons/432/caldotcom.png"
         }
       }
     },
@@ -51818,28 +51774,6 @@
         }
       }
     },
-    "cbuilder": {
-      "name": "C++ Builder",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "E62431",
-      "license": null,
-      "simpleicons_slug": "cbuilder",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/cbuilder.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/cbuilder.png",
-          "simpleicons/96": "png/simpleicons/96/cbuilder.png",
-          "simpleicons/192": "png/simpleicons/192/cbuilder.png",
-          "simpleicons/432": "png/simpleicons/432/cbuilder.png"
-        }
-      }
-    },
     "ccc": {
       "name": "CCC",
       "sources": [
@@ -53350,7 +53284,7 @@
         }
       }
     },
-    "chartjs": {
+    "chartdotjs": {
       "name": "Chart.js",
       "sources": [
         "simpleicons"
@@ -53359,16 +53293,16 @@
       "packages": [],
       "color": "FF6384",
       "license": null,
-      "simpleicons_slug": "chartjs",
+      "simpleicons_slug": "chartdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/chartjs.svg"
+          "simpleicons": "icons/simpleicons/svg/chartdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/chartjs.png",
-          "simpleicons/96": "png/simpleicons/96/chartjs.png",
-          "simpleicons/192": "png/simpleicons/192/chartjs.png",
-          "simpleicons/432": "png/simpleicons/432/chartjs.png"
+          "simpleicons/48": "png/simpleicons/48/chartdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/chartdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/chartdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/chartdotjs.png"
         }
       }
     },
@@ -54332,7 +54266,7 @@
         }
       }
     },
-    "chesscom": {
+    "chessdotcom": {
       "name": "Chess.com",
       "sources": [
         "simpleicons"
@@ -54341,16 +54275,16 @@
       "packages": [],
       "color": "81B64C",
       "license": null,
-      "simpleicons_slug": "chesscom",
+      "simpleicons_slug": "chessdotcom",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/chesscom.svg"
+          "simpleicons": "icons/simpleicons/svg/chessdotcom.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/chesscom.png",
-          "simpleicons/96": "png/simpleicons/96/chesscom.png",
-          "simpleicons/192": "png/simpleicons/192/chesscom.png",
-          "simpleicons/432": "png/simpleicons/432/chesscom.png"
+          "simpleicons/48": "png/simpleicons/48/chessdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/chessdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/chessdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/chessdotcom.png"
         }
       }
     },
@@ -56732,7 +56666,7 @@
         }
       }
     },
-    "citron": {
+    "citroen": {
       "name": "Citroën",
       "sources": [
         "simpleicons"
@@ -56741,16 +56675,16 @@
       "packages": [],
       "color": "DA291C",
       "license": null,
-      "simpleicons_slug": "citron",
+      "simpleicons_slug": "citroen",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/citron.svg"
+          "simpleicons": "icons/simpleicons/svg/citroen.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/citron.png",
-          "simpleicons/96": "png/simpleicons/96/citron.png",
-          "simpleicons/192": "png/simpleicons/192/citron.png",
-          "simpleicons/432": "png/simpleicons/432/citron.png"
+          "simpleicons/48": "png/simpleicons/48/citroen.png",
+          "simpleicons/96": "png/simpleicons/96/citroen.png",
+          "simpleicons/192": "png/simpleicons/192/citroen.png",
+          "simpleicons/432": "png/simpleicons/432/citroen.png"
         }
       }
     },
@@ -65782,6 +65716,50 @@
         }
       }
     },
+    "cplusplus": {
+      "name": "C++",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "00599C",
+      "license": null,
+      "simpleicons_slug": "cplusplus",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/cplusplus.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/cplusplus.png",
+          "simpleicons/96": "png/simpleicons/96/cplusplus.png",
+          "simpleicons/192": "png/simpleicons/192/cplusplus.png",
+          "simpleicons/432": "png/simpleicons/432/cplusplus.png"
+        }
+      }
+    },
+    "cplusplusbuilder": {
+      "name": "C++ Builder",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "E62431",
+      "license": null,
+      "simpleicons_slug": "cplusplusbuilder",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/cplusplusbuilder.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/cplusplusbuilder.png",
+          "simpleicons/96": "png/simpleicons/96/cplusplusbuilder.png",
+          "simpleicons/192": "png/simpleicons/192/cplusplusbuilder.png",
+          "simpleicons/432": "png/simpleicons/432/cplusplusbuilder.png"
+        }
+      }
+    },
     "cpu_float": {
       "name": "Cpu Float",
       "sources": [
@@ -68828,7 +68806,7 @@
         }
       }
     },
-    "cytoscapejs": {
+    "cytoscapedotjs": {
       "name": "Cytoscape.js",
       "sources": [
         "simpleicons"
@@ -68837,16 +68815,16 @@
       "packages": [],
       "color": "F7DF1E",
       "license": null,
-      "simpleicons_slug": "cytoscapejs",
+      "simpleicons_slug": "cytoscapedotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/cytoscapejs.svg"
+          "simpleicons": "icons/simpleicons/svg/cytoscapedotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/cytoscapejs.png",
-          "simpleicons/96": "png/simpleicons/96/cytoscapejs.png",
-          "simpleicons/192": "png/simpleicons/192/cytoscapejs.png",
-          "simpleicons/432": "png/simpleicons/432/cytoscapejs.png"
+          "simpleicons/48": "png/simpleicons/48/cytoscapedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/cytoscapedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/cytoscapedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/cytoscapedotjs.png"
         }
       }
     },
@@ -69269,21 +69247,21 @@
       ],
       "color": "CE3DF3",
       "license": null,
-      "simpleicons_slug": "dailydev",
+      "simpleicons_slug": "dailydotdev",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/daily_dev.svg",
-          "simpleicons": "icons/simpleicons/svg/dailydev.svg"
+          "simpleicons": "icons/simpleicons/svg/dailydotdev.svg"
         },
         "png": {
           "48": "png/lawnicons/48/daily_dev.png",
           "96": "png/lawnicons/96/daily_dev.png",
           "192": "png/lawnicons/192/daily_dev.png",
           "432": "png/lawnicons/432/daily_dev.png",
-          "simpleicons/48": "png/simpleicons/48/dailydev.png",
-          "simpleicons/96": "png/simpleicons/96/dailydev.png",
-          "simpleicons/192": "png/simpleicons/192/dailydev.png",
-          "simpleicons/432": "png/simpleicons/432/dailydev.png"
+          "simpleicons/48": "png/simpleicons/48/dailydotdev.png",
+          "simpleicons/96": "png/simpleicons/96/dailydotdev.png",
+          "simpleicons/192": "png/simpleicons/192/dailydotdev.png",
+          "simpleicons/432": "png/simpleicons/432/dailydotdev.png"
         }
       }
     },
@@ -70477,7 +70455,7 @@
         }
       }
     },
-    "dassaultsystmes": {
+    "dassaultsystemes": {
       "name": "Dassault Systèmes",
       "sources": [
         "simpleicons"
@@ -70486,16 +70464,16 @@
       "packages": [],
       "color": "005386",
       "license": null,
-      "simpleicons_slug": "dassaultsystmes",
+      "simpleicons_slug": "dassaultsystemes",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/dassaultsystmes.svg"
+          "simpleicons": "icons/simpleicons/svg/dassaultsystemes.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/dassaultsystmes.png",
-          "simpleicons/96": "png/simpleicons/96/dassaultsystmes.png",
-          "simpleicons/192": "png/simpleicons/192/dassaultsystmes.png",
-          "simpleicons/432": "png/simpleicons/432/dassaultsystmes.png"
+          "simpleicons/48": "png/simpleicons/48/dassaultsystemes.png",
+          "simpleicons/96": "png/simpleicons/96/dassaultsystemes.png",
+          "simpleicons/192": "png/simpleicons/192/dassaultsystemes.png",
+          "simpleicons/432": "png/simpleicons/432/dassaultsystemes.png"
         }
       }
     },
@@ -70627,28 +70605,6 @@
           "96": "png/lawnicons/96/data_wing.png",
           "192": "png/lawnicons/192/data_wing.png",
           "432": "png/lawnicons/432/data_wing.png"
-        }
-      }
-    },
-    "dataai": {
-      "name": "data.ai",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": null,
-      "simpleicons_slug": "dataai",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/dataai.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/dataai.png",
-          "simpleicons/96": "png/simpleicons/96/dataai.png",
-          "simpleicons/192": "png/simpleicons/192/dataai.png",
-          "simpleicons/432": "png/simpleicons/432/dataai.png"
         }
       }
     },
@@ -70788,6 +70744,28 @@
           "simpleicons/96": "png/simpleicons/96/datadog.png",
           "simpleicons/192": "png/simpleicons/192/datadog.png",
           "simpleicons/432": "png/simpleicons/432/datadog.png"
+        }
+      }
+    },
+    "datadotai": {
+      "name": "data.ai",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "000000",
+      "license": null,
+      "simpleicons_slug": "datadotai",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/datadotai.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/datadotai.png",
+          "simpleicons/96": "png/simpleicons/96/datadotai.png",
+          "simpleicons/192": "png/simpleicons/192/datadotai.png",
+          "simpleicons/432": "png/simpleicons/432/datadotai.png"
         }
       }
     },
@@ -74081,6 +74059,28 @@
         }
       }
     },
+    "devdotto": {
+      "name": "dev.to",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "0A0A0A",
+      "license": null,
+      "simpleicons_slug": "devdotto",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/devdotto.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/devdotto.png",
+          "simpleicons/96": "png/simpleicons/96/devdotto.png",
+          "simpleicons/192": "png/simpleicons/192/devdotto.png",
+          "simpleicons/432": "png/simpleicons/432/devdotto.png"
+        }
+      }
+    },
     "developer_assistant": {
       "name": "Developer Assistant",
       "sources": [
@@ -74646,28 +74646,6 @@
         }
       }
     },
-    "devto": {
-      "name": "dev.to",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "0A0A0A",
-      "license": null,
-      "simpleicons_slug": "devto",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/devto.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/devto.png",
-          "simpleicons/96": "png/simpleicons/96/devto.png",
-          "simpleicons/192": "png/simpleicons/192/devto.png",
-          "simpleicons/432": "png/simpleicons/432/devto.png"
-        }
-      }
-    },
     "devuan": {
       "name": "Devuan",
       "sources": [
@@ -75177,7 +75155,7 @@
         }
       }
     },
-    "diagramsnet": {
+    "diagramsdotnet": {
       "name": "diagrams.net",
       "sources": [
         "simpleicons"
@@ -75186,16 +75164,16 @@
       "packages": [],
       "color": "F08705",
       "license": null,
-      "simpleicons_slug": "diagramsnet",
+      "simpleicons_slug": "diagramsdotnet",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/diagramsnet.svg"
+          "simpleicons": "icons/simpleicons/svg/diagramsdotnet.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/diagramsnet.png",
-          "simpleicons/96": "png/simpleicons/96/diagramsnet.png",
-          "simpleicons/192": "png/simpleicons/192/diagramsnet.png",
-          "simpleicons/432": "png/simpleicons/432/diagramsnet.png"
+          "simpleicons/48": "png/simpleicons/48/diagramsdotnet.png",
+          "simpleicons/96": "png/simpleicons/96/diagramsdotnet.png",
+          "simpleicons/192": "png/simpleicons/192/diagramsdotnet.png",
+          "simpleicons/432": "png/simpleicons/432/diagramsdotnet.png"
         }
       }
     },
@@ -75547,21 +75525,21 @@
       ],
       "color": "0049D7",
       "license": null,
-      "simpleicons_slug": "dictionarycom",
+      "simpleicons_slug": "dictionarydotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/dictionary_com.svg",
-          "simpleicons": "icons/simpleicons/svg/dictionarycom.svg"
+          "simpleicons": "icons/simpleicons/svg/dictionarydotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/dictionary_com.png",
           "96": "png/lawnicons/96/dictionary_com.png",
           "192": "png/lawnicons/192/dictionary_com.png",
           "432": "png/lawnicons/432/dictionary_com.png",
-          "simpleicons/48": "png/simpleicons/48/dictionarycom.png",
-          "simpleicons/96": "png/simpleicons/96/dictionarycom.png",
-          "simpleicons/192": "png/simpleicons/192/dictionarycom.png",
-          "simpleicons/432": "png/simpleicons/432/dictionarycom.png"
+          "simpleicons/48": "png/simpleicons/48/dictionarydotcom.png",
+          "simpleicons/96": "png/simpleicons/96/dictionarydotcom.png",
+          "simpleicons/192": "png/simpleicons/192/dictionarydotcom.png",
+          "simpleicons/432": "png/simpleicons/432/dictionarydotcom.png"
         }
       }
     },
@@ -76999,7 +76977,7 @@
         }
       }
     },
-    "discordjs": {
+    "discorddotjs": {
       "name": "discord.js",
       "sources": [
         "simpleicons"
@@ -77008,16 +76986,16 @@
       "packages": [],
       "color": "5865F2",
       "license": null,
-      "simpleicons_slug": "discordjs",
+      "simpleicons_slug": "discorddotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/discordjs.svg"
+          "simpleicons": "icons/simpleicons/svg/discorddotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/discordjs.png",
-          "simpleicons/96": "png/simpleicons/96/discordjs.png",
-          "simpleicons/192": "png/simpleicons/192/discordjs.png",
-          "simpleicons/432": "png/simpleicons/432/discordjs.png"
+          "simpleicons/48": "png/simpleicons/48/discorddotjs.png",
+          "simpleicons/96": "png/simpleicons/96/discorddotjs.png",
+          "simpleicons/192": "png/simpleicons/192/discorddotjs.png",
+          "simpleicons/432": "png/simpleicons/432/discorddotjs.png"
         }
       }
     },
@@ -78376,6 +78354,28 @@
         }
       }
     },
+    "docsdotrs": {
+      "name": "Docs.rs",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "000000",
+      "license": null,
+      "simpleicons_slug": "docsdotrs",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/docsdotrs.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/docsdotrs.png",
+          "simpleicons/96": "png/simpleicons/96/docsdotrs.png",
+          "simpleicons/192": "png/simpleicons/192/docsdotrs.png",
+          "simpleicons/432": "png/simpleicons/432/docsdotrs.png"
+        }
+      }
+    },
     "docsify": {
       "name": "Docsify",
       "sources": [
@@ -78395,28 +78395,6 @@
           "simpleicons/96": "png/simpleicons/96/docsify.png",
           "simpleicons/192": "png/simpleicons/192/docsify.png",
           "simpleicons/432": "png/simpleicons/432/docsify.png"
-        }
-      }
-    },
-    "docsrs": {
-      "name": "Docs.rs",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": null,
-      "simpleicons_slug": "docsrs",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/docsrs.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/docsrs.png",
-          "simpleicons/96": "png/simpleicons/96/docsrs.png",
-          "simpleicons/192": "png/simpleicons/192/docsrs.png",
-          "simpleicons/432": "png/simpleicons/432/docsrs.png"
         }
       }
     },
@@ -79854,6 +79832,52 @@
         }
       }
     },
+    "dotenv": {
+      "name": ".ENV",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "ECD53F",
+      "license": null,
+      "simpleicons_slug": "dotenv",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/dotenv.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/dotenv.png",
+          "simpleicons/96": "png/simpleicons/96/dotenv.png",
+          "simpleicons/192": "png/simpleicons/192/dotenv.png",
+          "simpleicons/432": "png/simpleicons/432/dotenv.png"
+        }
+      }
+    },
+    "dotnet": {
+      "name": ".NET",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "512BD4",
+      "license": {
+        "type": "CC0-1.0"
+      },
+      "simpleicons_slug": "dotnet",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/dotnet.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/dotnet.png",
+          "simpleicons/96": "png/simpleicons/96/dotnet.png",
+          "simpleicons/192": "png/simpleicons/192/dotnet.png",
+          "simpleicons/432": "png/simpleicons/432/dotnet.png"
+        }
+      }
+    },
     "dots_icons": {
       "name": "Dots Icons",
       "sources": [
@@ -80832,7 +80856,7 @@
         }
       }
     },
-    "draugiemlv": {
+    "draugiemdotlv": {
       "name": "Draugiem.lv",
       "sources": [
         "simpleicons"
@@ -80841,16 +80865,16 @@
       "packages": [],
       "color": "FF6600",
       "license": null,
-      "simpleicons_slug": "draugiemlv",
+      "simpleicons_slug": "draugiemdotlv",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/draugiemlv.svg"
+          "simpleicons": "icons/simpleicons/svg/draugiemdotlv.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/draugiemlv.png",
-          "simpleicons/96": "png/simpleicons/96/draugiemlv.png",
-          "simpleicons/192": "png/simpleicons/192/draugiemlv.png",
-          "simpleicons/432": "png/simpleicons/432/draugiemlv.png"
+          "simpleicons/48": "png/simpleicons/48/draugiemdotlv.png",
+          "simpleicons/96": "png/simpleicons/96/draugiemdotlv.png",
+          "simpleicons/192": "png/simpleicons/192/draugiemdotlv.png",
+          "simpleicons/432": "png/simpleicons/432/draugiemdotlv.png"
         }
       }
     },
@@ -83040,7 +83064,7 @@
         }
       }
     },
-    "dungeonsdragons": {
+    "dungeonsanddragons": {
       "name": "Dungeons & Dragons",
       "sources": [
         "simpleicons"
@@ -83049,16 +83073,16 @@
       "packages": [],
       "color": "ED1C24",
       "license": null,
-      "simpleicons_slug": "dungeonsdragons",
+      "simpleicons_slug": "dungeonsanddragons",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/dungeonsdragons.svg"
+          "simpleicons": "icons/simpleicons/svg/dungeonsanddragons.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/dungeonsdragons.png",
-          "simpleicons/96": "png/simpleicons/96/dungeonsdragons.png",
-          "simpleicons/192": "png/simpleicons/192/dungeonsdragons.png",
-          "simpleicons/432": "png/simpleicons/432/dungeonsdragons.png"
+          "simpleicons/48": "png/simpleicons/48/dungeonsanddragons.png",
+          "simpleicons/96": "png/simpleicons/96/dungeonsanddragons.png",
+          "simpleicons/192": "png/simpleicons/192/dungeonsanddragons.png",
+          "simpleicons/432": "png/simpleicons/432/dungeonsanddragons.png"
         }
       }
     },
@@ -85853,7 +85877,7 @@
         }
       }
     },
-    "eclipsevertx": {
+    "eclipsevertdotx": {
       "name": "Eclipse Vert.x",
       "sources": [
         "simpleicons"
@@ -85862,16 +85886,16 @@
       "packages": [],
       "color": "782A90",
       "license": null,
-      "simpleicons_slug": "eclipsevertx",
+      "simpleicons_slug": "eclipsevertdotx",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/eclipsevertx.svg"
+          "simpleicons": "icons/simpleicons/svg/eclipsevertdotx.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/eclipsevertx.png",
-          "simpleicons/96": "png/simpleicons/96/eclipsevertx.png",
-          "simpleicons/192": "png/simpleicons/192/eclipsevertx.png",
-          "simpleicons/432": "png/simpleicons/432/eclipsevertx.png"
+          "simpleicons/48": "png/simpleicons/48/eclipsevertdotx.png",
+          "simpleicons/96": "png/simpleicons/96/eclipsevertdotx.png",
+          "simpleicons/192": "png/simpleicons/192/eclipsevertdotx.png",
+          "simpleicons/432": "png/simpleicons/432/eclipsevertdotx.png"
         }
       }
     },
@@ -86659,6 +86683,28 @@
           "96": "png/lawnicons/96/edoklady_sk.png",
           "192": "png/lawnicons/192/edoklady_sk.png",
           "432": "png/lawnicons/432/edoklady_sk.png"
+        }
+      }
+    },
+    "edotleclerc": {
+      "name": "E.Leclerc",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "0066CC",
+      "license": null,
+      "simpleicons_slug": "edotleclerc",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/edotleclerc.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/edotleclerc.png",
+          "simpleicons/96": "png/simpleicons/96/edotleclerc.png",
+          "simpleicons/192": "png/simpleicons/192/edotleclerc.png",
+          "simpleicons/432": "png/simpleicons/432/edotleclerc.png"
         }
       }
     },
@@ -87631,28 +87677,6 @@
           "96": "png/lawnicons/96/eldorado.png",
           "192": "png/lawnicons/192/eldorado.png",
           "432": "png/lawnicons/432/eldorado.png"
-        }
-      }
-    },
-    "eleclerc": {
-      "name": "E.Leclerc",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "0066CC",
-      "license": null,
-      "simpleicons_slug": "eleclerc",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/eleclerc.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/eleclerc.png",
-          "simpleicons/96": "png/simpleicons/96/eleclerc.png",
-          "simpleicons/192": "png/simpleicons/192/eleclerc.png",
-          "simpleicons/432": "png/simpleicons/432/eleclerc.png"
         }
       }
     },
@@ -88757,7 +88781,7 @@
         }
       }
     },
-    "emberjs": {
+    "emberdotjs": {
       "name": "Ember.js",
       "sources": [
         "simpleicons"
@@ -88766,16 +88790,16 @@
       "packages": [],
       "color": "E04E39",
       "license": null,
-      "simpleicons_slug": "emberjs",
+      "simpleicons_slug": "emberdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/emberjs.svg"
+          "simpleicons": "icons/simpleicons/svg/emberdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/emberjs.png",
-          "simpleicons/96": "png/simpleicons/96/emberjs.png",
-          "simpleicons/192": "png/simpleicons/192/emberjs.png",
-          "simpleicons/432": "png/simpleicons/432/emberjs.png"
+          "simpleicons/48": "png/simpleicons/48/emberdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/emberdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/emberdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/emberdotjs.png"
         }
       }
     },
@@ -90073,28 +90097,6 @@
           "96": "png/lawnicons/96/entur.png",
           "192": "png/lawnicons/192/entur.png",
           "432": "png/lawnicons/432/entur.png"
-        }
-      }
-    },
-    "env": {
-      "name": ".ENV",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "ECD53F",
-      "license": null,
-      "simpleicons_slug": "env",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/env.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/env.png",
-          "simpleicons/96": "png/simpleicons/96/env.png",
-          "simpleicons/192": "png/simpleicons/192/env.png",
-          "simpleicons/432": "png/simpleicons/432/env.png"
         }
       }
     },
@@ -92674,7 +92676,7 @@
         }
       }
     },
-    "everyorg": {
+    "everydotorg": {
       "name": "Every.org",
       "sources": [
         "simpleicons"
@@ -92683,16 +92685,16 @@
       "packages": [],
       "color": "2BD7B0",
       "license": null,
-      "simpleicons_slug": "everyorg",
+      "simpleicons_slug": "everydotorg",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/everyorg.svg"
+          "simpleicons": "icons/simpleicons/svg/everydotorg.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/everyorg.png",
-          "simpleicons/96": "png/simpleicons/96/everyorg.png",
-          "simpleicons/192": "png/simpleicons/192/everyorg.png",
-          "simpleicons/432": "png/simpleicons/432/everyorg.png"
+          "simpleicons/48": "png/simpleicons/48/everydotorg.png",
+          "simpleicons/96": "png/simpleicons/96/everydotorg.png",
+          "simpleicons/192": "png/simpleicons/192/everydotorg.png",
+          "simpleicons/432": "png/simpleicons/432/everydotorg.png"
         }
       }
     },
@@ -93811,7 +93813,7 @@
         }
       }
     },
-    "expresscom": {
+    "expressdotcom": {
       "name": "Express.com",
       "sources": [
         "simpleicons"
@@ -93820,16 +93822,16 @@
       "packages": [],
       "color": "000000",
       "license": null,
-      "simpleicons_slug": "expresscom",
+      "simpleicons_slug": "expressdotcom",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/expresscom.svg"
+          "simpleicons": "icons/simpleicons/svg/expressdotcom.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/expresscom.png",
-          "simpleicons/96": "png/simpleicons/96/expresscom.png",
-          "simpleicons/192": "png/simpleicons/192/expresscom.png",
-          "simpleicons/432": "png/simpleicons/432/expresscom.png"
+          "simpleicons/48": "png/simpleicons/48/expressdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/expressdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/expressdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/expressdotcom.png"
         }
       }
     },
@@ -98094,7 +98096,7 @@
         }
       }
     },
-    "fileio": {
+    "filedotio": {
       "name": "File.io",
       "sources": [
         "simpleicons"
@@ -98103,16 +98105,16 @@
       "packages": [],
       "color": "3D3C9D",
       "license": null,
-      "simpleicons_slug": "fileio",
+      "simpleicons_slug": "filedotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/fileio.svg"
+          "simpleicons": "icons/simpleicons/svg/filedotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/fileio.png",
-          "simpleicons/96": "png/simpleicons/96/fileio.png",
-          "simpleicons/192": "png/simpleicons/192/fileio.png",
-          "simpleicons/432": "png/simpleicons/432/fileio.png"
+          "simpleicons/48": "png/simpleicons/48/filedotio.png",
+          "simpleicons/96": "png/simpleicons/96/filedotio.png",
+          "simpleicons/192": "png/simpleicons/192/filedotio.png",
+          "simpleicons/432": "png/simpleicons/432/filedotio.png"
         }
       }
     },
@@ -102432,7 +102434,7 @@
         }
       }
     },
-    "flyio": {
+    "flydotio": {
       "name": "Fly.io",
       "sources": [
         "simpleicons"
@@ -102441,16 +102443,16 @@
       "packages": [],
       "color": "24175B",
       "license": null,
-      "simpleicons_slug": "flyio",
+      "simpleicons_slug": "flydotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/flyio.svg"
+          "simpleicons": "icons/simpleicons/svg/flydotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/flyio.png",
-          "simpleicons/96": "png/simpleicons/96/flyio.png",
-          "simpleicons/192": "png/simpleicons/192/flyio.png",
-          "simpleicons/432": "png/simpleicons/432/flyio.png"
+          "simpleicons/48": "png/simpleicons/48/flydotio.png",
+          "simpleicons/96": "png/simpleicons/96/flydotio.png",
+          "simpleicons/192": "png/simpleicons/192/flydotio.png",
+          "simpleicons/432": "png/simpleicons/432/flydotio.png"
         }
       }
     },
@@ -106016,7 +106018,7 @@
         }
       }
     },
-    "freedesktoporg": {
+    "freedesktopdotorg": {
       "name": "freedesktop.org",
       "sources": [
         "simpleicons"
@@ -106027,16 +106029,16 @@
       "license": {
         "type": "GPL-2.0-or-later"
       },
-      "simpleicons_slug": "freedesktoporg",
+      "simpleicons_slug": "freedesktopdotorg",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/freedesktoporg.svg"
+          "simpleicons": "icons/simpleicons/svg/freedesktopdotorg.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/freedesktoporg.png",
-          "simpleicons/96": "png/simpleicons/96/freedesktoporg.png",
-          "simpleicons/192": "png/simpleicons/192/freedesktoporg.png",
-          "simpleicons/432": "png/simpleicons/432/freedesktoporg.png"
+          "simpleicons/48": "png/simpleicons/48/freedesktopdotorg.png",
+          "simpleicons/96": "png/simpleicons/96/freedesktopdotorg.png",
+          "simpleicons/192": "png/simpleicons/192/freedesktopdotorg.png",
+          "simpleicons/432": "png/simpleicons/432/freedesktopdotorg.png"
         }
       }
     },
@@ -114367,21 +114369,21 @@
       ],
       "color": "90E59A",
       "license": null,
-      "simpleicons_slug": "notepad",
+      "simpleicons_slug": "notepadplusplus",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/generic_notes.svg",
-          "simpleicons": "icons/simpleicons/svg/notepad.svg"
+          "simpleicons": "icons/simpleicons/svg/notepadplusplus.svg"
         },
         "png": {
           "48": "png/lawnicons/48/generic_notes.png",
           "96": "png/lawnicons/96/generic_notes.png",
           "192": "png/lawnicons/192/generic_notes.png",
           "432": "png/lawnicons/432/generic_notes.png",
-          "simpleicons/48": "png/simpleicons/48/notepad.png",
-          "simpleicons/96": "png/simpleicons/96/notepad.png",
-          "simpleicons/192": "png/simpleicons/192/notepad.png",
-          "simpleicons/432": "png/simpleicons/432/notepad.png"
+          "simpleicons/48": "png/simpleicons/48/notepadplusplus.png",
+          "simpleicons/96": "png/simpleicons/96/notepadplusplus.png",
+          "simpleicons/192": "png/simpleicons/192/notepadplusplus.png",
+          "simpleicons/432": "png/simpleicons/432/notepadplusplus.png"
         }
       }
     },
@@ -118274,7 +118276,7 @@
         }
       }
     },
-    "gitignoreio": {
+    "gitignoredotio": {
       "name": "gitignore.io",
       "sources": [
         "simpleicons"
@@ -118283,16 +118285,16 @@
       "packages": [],
       "color": "204ECF",
       "license": null,
-      "simpleicons_slug": "gitignoreio",
+      "simpleicons_slug": "gitignoredotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/gitignoreio.svg"
+          "simpleicons": "icons/simpleicons/svg/gitignoredotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/gitignoreio.png",
-          "simpleicons/96": "png/simpleicons/96/gitignoreio.png",
-          "simpleicons/192": "png/simpleicons/192/gitignoreio.png",
-          "simpleicons/432": "png/simpleicons/432/gitignoreio.png"
+          "simpleicons/48": "png/simpleicons/48/gitignoredotio.png",
+          "simpleicons/96": "png/simpleicons/96/gitignoredotio.png",
+          "simpleicons/192": "png/simpleicons/192/gitignoredotio.png",
+          "simpleicons/432": "png/simpleicons/432/gitignoredotio.png"
         }
       }
     },
@@ -118806,6 +118808,28 @@
         }
       }
     },
+    "gldotinet": {
+      "name": "GL.iNet",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "636363",
+      "license": null,
+      "simpleicons_slug": "gldotinet",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/gldotinet.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/gldotinet.png",
+          "simpleicons/96": "png/simpleicons/96/gldotinet.png",
+          "simpleicons/192": "png/simpleicons/192/gldotinet.png",
+          "simpleicons/432": "png/simpleicons/432/gldotinet.png"
+        }
+      }
+    },
     "gleam": {
       "name": "Gleam",
       "sources": [
@@ -118901,28 +118925,6 @@
           "96": "png/lawnicons/96/glidex.png",
           "192": "png/lawnicons/192/glidex.png",
           "432": "png/lawnicons/432/glidex.png"
-        }
-      }
-    },
-    "glinet": {
-      "name": "GL.iNet",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "636363",
-      "license": null,
-      "simpleicons_slug": "glinet",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/glinet.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/glinet.png",
-          "simpleicons/96": "png/simpleicons/96/glinet.png",
-          "simpleicons/192": "png/simpleicons/192/glinet.png",
-          "simpleicons/432": "png/simpleicons/432/glinet.png"
         }
       }
     },
@@ -120483,7 +120485,7 @@
         }
       }
     },
-    "gogcom": {
+    "gogdotcom": {
       "name": "GOG.com",
       "sources": [
         "simpleicons"
@@ -120492,16 +120494,16 @@
       "packages": [],
       "color": "86328A",
       "license": null,
-      "simpleicons_slug": "gogcom",
+      "simpleicons_slug": "gogdotcom",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/gogcom.svg"
+          "simpleicons": "icons/simpleicons/svg/gogdotcom.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/gogcom.png",
-          "simpleicons/96": "png/simpleicons/96/gogcom.png",
-          "simpleicons/192": "png/simpleicons/192/gogcom.png",
-          "simpleicons/432": "png/simpleicons/432/gogcom.png"
+          "simpleicons/48": "png/simpleicons/48/gogdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/gogdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/gogdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/gogdotcom.png"
         }
       }
     },
@@ -123815,7 +123817,7 @@
         }
       }
     },
-    "googledisplayvideo360": {
+    "googledisplayandvideo360": {
       "name": "Google Display & Video 360",
       "sources": [
         "simpleicons"
@@ -123824,16 +123826,16 @@
       "packages": [],
       "color": "34A853",
       "license": null,
-      "simpleicons_slug": "googledisplayvideo360",
+      "simpleicons_slug": "googledisplayandvideo360",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/googledisplayvideo360.svg"
+          "simpleicons": "icons/simpleicons/svg/googledisplayandvideo360.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/googledisplayvideo360.png",
-          "simpleicons/96": "png/simpleicons/96/googledisplayvideo360.png",
-          "simpleicons/192": "png/simpleicons/192/googledisplayvideo360.png",
-          "simpleicons/432": "png/simpleicons/432/googledisplayvideo360.png"
+          "simpleicons/48": "png/simpleicons/48/googledisplayandvideo360.png",
+          "simpleicons/96": "png/simpleicons/96/googledisplayandvideo360.png",
+          "simpleicons/192": "png/simpleicons/192/googledisplayandvideo360.png",
+          "simpleicons/432": "png/simpleicons/432/googledisplayandvideo360.png"
         }
       }
     },
@@ -126565,7 +126567,7 @@
         }
       }
     },
-    "gridai": {
+    "griddotai": {
       "name": "Grid.ai",
       "sources": [
         "simpleicons"
@@ -126574,16 +126576,16 @@
       "packages": [],
       "color": "78FF96",
       "license": null,
-      "simpleicons_slug": "gridai",
+      "simpleicons_slug": "griddotai",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/gridai.svg"
+          "simpleicons": "icons/simpleicons/svg/griddotai.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/gridai.png",
-          "simpleicons/96": "png/simpleicons/96/gridai.png",
-          "simpleicons/192": "png/simpleicons/192/gridai.png",
-          "simpleicons/432": "png/simpleicons/432/gridai.png"
+          "simpleicons/48": "png/simpleicons/48/griddotai.png",
+          "simpleicons/96": "png/simpleicons/96/griddotai.png",
+          "simpleicons/192": "png/simpleicons/192/griddotai.png",
+          "simpleicons/432": "png/simpleicons/432/griddotai.png"
         }
       }
     },
@@ -127304,7 +127306,7 @@
         }
       }
     },
-    "gsmarenacom": {
+    "gsmarenadotcom": {
       "name": "GSMArena.com",
       "sources": [
         "simpleicons"
@@ -127313,16 +127315,16 @@
       "packages": [],
       "color": "D50000",
       "license": null,
-      "simpleicons_slug": "gsmarenacom",
+      "simpleicons_slug": "gsmarenadotcom",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/gsmarenacom.svg"
+          "simpleicons": "icons/simpleicons/svg/gsmarenadotcom.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/gsmarenacom.png",
-          "simpleicons/96": "png/simpleicons/96/gsmarenacom.png",
-          "simpleicons/192": "png/simpleicons/192/gsmarenacom.png",
-          "simpleicons/432": "png/simpleicons/432/gsmarenacom.png"
+          "simpleicons/48": "png/simpleicons/48/gsmarenadotcom.png",
+          "simpleicons/96": "png/simpleicons/96/gsmarenadotcom.png",
+          "simpleicons/192": "png/simpleicons/192/gsmarenadotcom.png",
+          "simpleicons/432": "png/simpleicons/432/gsmarenadotcom.png"
         }
       }
     },
@@ -128192,21 +128194,21 @@
       ],
       "color": "E50010",
       "license": null,
-      "simpleicons_slug": "hm",
+      "simpleicons_slug": "handm",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/h_and_m.svg",
-          "simpleicons": "icons/simpleicons/svg/hm.svg"
+          "simpleicons": "icons/simpleicons/svg/handm.svg"
         },
         "png": {
           "48": "png/lawnicons/48/h_and_m.png",
           "96": "png/lawnicons/96/h_and_m.png",
           "192": "png/lawnicons/192/h_and_m.png",
           "432": "png/lawnicons/432/h_and_m.png",
-          "simpleicons/48": "png/simpleicons/48/hm.png",
-          "simpleicons/96": "png/simpleicons/96/hm.png",
-          "simpleicons/192": "png/simpleicons/192/hm.png",
-          "simpleicons/432": "png/simpleicons/432/hm.png"
+          "simpleicons/48": "png/simpleicons/48/handm.png",
+          "simpleicons/96": "png/simpleicons/96/handm.png",
+          "simpleicons/192": "png/simpleicons/192/handm.png",
+          "simpleicons/432": "png/simpleicons/432/handm.png"
         }
       }
     },
@@ -129110,7 +129112,7 @@
         }
       }
     },
-    "handlebarsjs": {
+    "handlebarsdotjs": {
       "name": "Handlebars.js",
       "sources": [
         "simpleicons"
@@ -129119,16 +129121,16 @@
       "packages": [],
       "color": "000000",
       "license": null,
-      "simpleicons_slug": "handlebarsjs",
+      "simpleicons_slug": "handlebarsdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/handlebarsjs.svg"
+          "simpleicons": "icons/simpleicons/svg/handlebarsdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/handlebarsjs.png",
-          "simpleicons/96": "png/simpleicons/96/handlebarsjs.png",
-          "simpleicons/192": "png/simpleicons/192/handlebarsjs.png",
-          "simpleicons/432": "png/simpleicons/432/handlebarsjs.png"
+          "simpleicons/48": "png/simpleicons/48/handlebarsdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/handlebarsdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/handlebarsdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/handlebarsdotjs.png"
         }
       }
     },
@@ -130927,7 +130929,7 @@
         }
       }
     },
-    "hearthisat": {
+    "hearthisdotat": {
       "name": "hearthis.at",
       "sources": [
         "simpleicons"
@@ -130936,16 +130938,16 @@
       "packages": [],
       "color": "000000",
       "license": null,
-      "simpleicons_slug": "hearthisat",
+      "simpleicons_slug": "hearthisdotat",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/hearthisat.svg"
+          "simpleicons": "icons/simpleicons/svg/hearthisdotat.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/hearthisat.png",
-          "simpleicons/96": "png/simpleicons/96/hearthisat.png",
-          "simpleicons/192": "png/simpleicons/192/hearthisat.png",
-          "simpleicons/432": "png/simpleicons/432/hearthisat.png"
+          "simpleicons/48": "png/simpleicons/48/hearthisdotat.png",
+          "simpleicons/96": "png/simpleicons/96/hearthisdotat.png",
+          "simpleicons/192": "png/simpleicons/192/hearthisdotat.png",
+          "simpleicons/432": "png/simpleicons/432/hearthisdotat.png"
         }
       }
     },
@@ -132998,7 +133000,7 @@
         }
       }
     },
-    "hiltonhotelsresorts": {
+    "hiltonhotelsandresorts": {
       "name": "Hilton Hotels & Resorts",
       "sources": [
         "simpleicons"
@@ -133007,16 +133009,16 @@
       "packages": [],
       "color": "1E4380",
       "license": null,
-      "simpleicons_slug": "hiltonhotelsresorts",
+      "simpleicons_slug": "hiltonhotelsandresorts",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/hiltonhotelsresorts.svg"
+          "simpleicons": "icons/simpleicons/svg/hiltonhotelsandresorts.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/hiltonhotelsresorts.png",
-          "simpleicons/96": "png/simpleicons/96/hiltonhotelsresorts.png",
-          "simpleicons/192": "png/simpleicons/192/hiltonhotelsresorts.png",
-          "simpleicons/432": "png/simpleicons/432/hiltonhotelsresorts.png"
+          "simpleicons/48": "png/simpleicons/48/hiltonhotelsandresorts.png",
+          "simpleicons/96": "png/simpleicons/96/hiltonhotelsandresorts.png",
+          "simpleicons/192": "png/simpleicons/192/hiltonhotelsandresorts.png",
+          "simpleicons/432": "png/simpleicons/432/hiltonhotelsandresorts.png"
         }
       }
     },
@@ -135499,21 +135501,21 @@
       ],
       "color": "EF3346",
       "license": null,
-      "simpleicons_slug": "hotelscom",
+      "simpleicons_slug": "hotelsdotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/hotels_com.svg",
-          "simpleicons": "icons/simpleicons/svg/hotelscom.svg"
+          "simpleicons": "icons/simpleicons/svg/hotelsdotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/hotels_com.png",
           "96": "png/lawnicons/96/hotels_com.png",
           "192": "png/lawnicons/192/hotels_com.png",
           "432": "png/lawnicons/432/hotels_com.png",
-          "simpleicons/48": "png/simpleicons/48/hotelscom.png",
-          "simpleicons/96": "png/simpleicons/96/hotelscom.png",
-          "simpleicons/192": "png/simpleicons/192/hotelscom.png",
-          "simpleicons/432": "png/simpleicons/432/hotelscom.png"
+          "simpleicons/48": "png/simpleicons/48/hotelsdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/hotelsdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/hotelsdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/hotelsdotcom.png"
         }
       }
     },
@@ -141151,6 +141153,28 @@
         }
       }
     },
+    "iledefrancemobilites": {
+      "name": "Île-de-France Mobilités",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "67B4E7",
+      "license": null,
+      "simpleicons_slug": "iledefrancemobilites",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/iledefrancemobilites.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/iledefrancemobilites.png",
+          "simpleicons/96": "png/simpleicons/96/iledefrancemobilites.png",
+          "simpleicons/192": "png/simpleicons/192/iledefrancemobilites.png",
+          "simpleicons/432": "png/simpleicons/432/iledefrancemobilites.png"
+        }
+      }
+    },
     "iliad_visual_voicemail": {
       "name": "Free Visual Voicemail",
       "sources": [
@@ -141381,6 +141405,28 @@
         }
       }
     },
+    "imagedotsc": {
+      "name": "Image.sc",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "039CB2",
+      "license": null,
+      "simpleicons_slug": "imagedotsc",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/imagedotsc.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/imagedotsc.png",
+          "simpleicons/96": "png/simpleicons/96/imagedotsc.png",
+          "simpleicons/192": "png/simpleicons/192/imagedotsc.png",
+          "simpleicons/432": "png/simpleicons/432/imagedotsc.png"
+        }
+      }
+    },
     "imagej": {
       "name": "ImageJ",
       "sources": [
@@ -141452,28 +141498,6 @@
           "96": "png/lawnicons/96/imagepipe.png",
           "192": "png/lawnicons/192/imagepipe.png",
           "432": "png/lawnicons/432/imagepipe.png"
-        }
-      }
-    },
-    "imagesc": {
-      "name": "Image.sc",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "039CB2",
-      "license": null,
-      "simpleicons_slug": "imagesc",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/imagesc.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/imagesc.png",
-          "simpleicons/96": "png/simpleicons/96/imagesc.png",
-          "simpleicons/192": "png/simpleicons/192/imagesc.png",
-          "simpleicons/432": "png/simpleicons/432/imagesc.png"
         }
       }
     },
@@ -147764,7 +147788,7 @@
         }
       }
     },
-    "itchio": {
+    "itchdotio": {
       "name": "Itch.io",
       "sources": [
         "simpleicons"
@@ -147773,16 +147797,16 @@
       "packages": [],
       "color": "FA5C5C",
       "license": null,
-      "simpleicons_slug": "itchio",
+      "simpleicons_slug": "itchdotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/itchio.svg"
+          "simpleicons": "icons/simpleicons/svg/itchdotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/itchio.png",
-          "simpleicons/96": "png/simpleicons/96/itchio.png",
-          "simpleicons/192": "png/simpleicons/192/itchio.png",
-          "simpleicons/432": "png/simpleicons/432/itchio.png"
+          "simpleicons/48": "png/simpleicons/48/itchdotio.png",
+          "simpleicons/96": "png/simpleicons/96/itchdotio.png",
+          "simpleicons/192": "png/simpleicons/192/itchdotio.png",
+          "simpleicons/432": "png/simpleicons/432/itchdotio.png"
         }
       }
     },
@@ -158110,7 +158134,7 @@
         }
       }
     },
-    "knexjs": {
+    "knexdotjs": {
       "name": "Knex.js",
       "sources": [
         "simpleicons"
@@ -158119,16 +158143,16 @@
       "packages": [],
       "color": "D26B38",
       "license": null,
-      "simpleicons_slug": "knexjs",
+      "simpleicons_slug": "knexdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/knexjs.svg"
+          "simpleicons": "icons/simpleicons/svg/knexdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/knexjs.png",
-          "simpleicons/96": "png/simpleicons/96/knexjs.png",
-          "simpleicons/192": "png/simpleicons/192/knexjs.png",
-          "simpleicons/432": "png/simpleicons/432/knexjs.png"
+          "simpleicons/48": "png/simpleicons/48/knexdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/knexdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/knexdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/knexdotjs.png"
         }
       }
     },
@@ -158353,28 +158377,6 @@
           "simpleicons/96": "png/simpleicons/96/koc.png",
           "simpleicons/192": "png/simpleicons/192/koc.png",
           "simpleicons/432": "png/simpleicons/432/koc.png"
-        }
-      }
-    },
-    "koda": {
-      "name": "ŠKODA",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "0E3A2F",
-      "license": null,
-      "simpleicons_slug": "koda",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/koda.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/koda.png",
-          "simpleicons/96": "png/simpleicons/96/koda.png",
-          "simpleicons/192": "png/simpleicons/192/koda.png",
-          "simpleicons/432": "png/simpleicons/432/koda.png"
         }
       }
     },
@@ -162210,21 +162212,21 @@
       ],
       "color": "D51007",
       "license": null,
-      "simpleicons_slug": "lastfm",
+      "simpleicons_slug": "lastdotfm",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/last_fm.svg",
-          "simpleicons": "icons/simpleicons/svg/lastfm.svg"
+          "simpleicons": "icons/simpleicons/svg/lastdotfm.svg"
         },
         "png": {
           "48": "png/lawnicons/48/last_fm.png",
           "96": "png/lawnicons/96/last_fm.png",
           "192": "png/lawnicons/192/last_fm.png",
           "432": "png/lawnicons/432/last_fm.png",
-          "simpleicons/48": "png/simpleicons/48/lastfm.png",
-          "simpleicons/96": "png/simpleicons/96/lastfm.png",
-          "simpleicons/192": "png/simpleicons/192/lastfm.png",
-          "simpleicons/432": "png/simpleicons/432/lastfm.png"
+          "simpleicons/48": "png/simpleicons/48/lastdotfm.png",
+          "simpleicons/96": "png/simpleicons/96/lastdotfm.png",
+          "simpleicons/192": "png/simpleicons/192/lastdotfm.png",
+          "simpleicons/432": "png/simpleicons/432/lastdotfm.png"
         }
       }
     },
@@ -163314,28 +163316,6 @@
         }
       }
     },
-    "ledefrancemobilits": {
-      "name": "Île-de-France Mobilités",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "67B4E7",
-      "license": null,
-      "simpleicons_slug": "ledefrancemobilits",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/ledefrancemobilits.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/ledefrancemobilits.png",
-          "simpleicons/96": "png/simpleicons/96/ledefrancemobilits.png",
-          "simpleicons/192": "png/simpleicons/192/ledefrancemobilits.png",
-          "simpleicons/432": "png/simpleicons/432/ledefrancemobilits.png"
-        }
-      }
-    },
     "ledger_live": {
       "name": "Ledger Live",
       "sources": [
@@ -164304,21 +164284,21 @@
       ],
       "color": "E42829",
       "license": null,
-      "simpleicons_slug": "lquipe",
+      "simpleicons_slug": "lequipe",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/lequipe.svg",
-          "simpleicons": "icons/simpleicons/svg/lquipe.svg"
+          "simpleicons": "icons/simpleicons/svg/lequipe.svg"
         },
         "png": {
           "48": "png/lawnicons/48/lequipe.png",
           "96": "png/lawnicons/96/lequipe.png",
           "192": "png/lawnicons/192/lequipe.png",
           "432": "png/lawnicons/432/lequipe.png",
-          "simpleicons/48": "png/simpleicons/48/lquipe.png",
-          "simpleicons/96": "png/simpleicons/96/lquipe.png",
-          "simpleicons/192": "png/simpleicons/192/lquipe.png",
-          "simpleicons/432": "png/simpleicons/432/lquipe.png"
+          "simpleicons/48": "png/simpleicons/48/lequipe.png",
+          "simpleicons/96": "png/simpleicons/96/lequipe.png",
+          "simpleicons/192": "png/simpleicons/192/lequipe.png",
+          "simpleicons/432": "png/simpleicons/432/lequipe.png"
         }
       }
     },
@@ -164710,21 +164690,21 @@
       ],
       "color": "788B95",
       "license": null,
-      "simpleicons_slug": "levelsfyi",
+      "simpleicons_slug": "levelsdotfyi",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/levels_fyi.svg",
-          "simpleicons": "icons/simpleicons/svg/levelsfyi.svg"
+          "simpleicons": "icons/simpleicons/svg/levelsdotfyi.svg"
         },
         "png": {
           "48": "png/lawnicons/48/levels_fyi.png",
           "96": "png/lawnicons/96/levels_fyi.png",
           "192": "png/lawnicons/192/levels_fyi.png",
           "432": "png/lawnicons/432/levels_fyi.png",
-          "simpleicons/48": "png/simpleicons/48/levelsfyi.png",
-          "simpleicons/96": "png/simpleicons/96/levelsfyi.png",
-          "simpleicons/192": "png/simpleicons/192/levelsfyi.png",
-          "simpleicons/432": "png/simpleicons/432/levelsfyi.png"
+          "simpleicons/48": "png/simpleicons/48/levelsdotfyi.png",
+          "simpleicons/96": "png/simpleicons/96/levelsdotfyi.png",
+          "simpleicons/192": "png/simpleicons/192/levelsdotfyi.png",
+          "simpleicons/432": "png/simpleicons/432/levelsdotfyi.png"
         }
       }
     },
@@ -165139,7 +165119,7 @@
         }
       }
     },
-    "liberachat": {
+    "liberadotchat": {
       "name": "Libera.Chat",
       "sources": [
         "simpleicons"
@@ -165148,16 +165128,16 @@
       "packages": [],
       "color": "FF55DD",
       "license": null,
-      "simpleicons_slug": "liberachat",
+      "simpleicons_slug": "liberadotchat",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/liberachat.svg"
+          "simpleicons": "icons/simpleicons/svg/liberadotchat.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/liberachat.png",
-          "simpleicons/96": "png/simpleicons/96/liberachat.png",
-          "simpleicons/192": "png/simpleicons/192/liberachat.png",
-          "simpleicons/432": "png/simpleicons/432/liberachat.png"
+          "simpleicons/48": "png/simpleicons/48/liberadotchat.png",
+          "simpleicons/96": "png/simpleicons/96/liberadotchat.png",
+          "simpleicons/192": "png/simpleicons/192/liberadotchat.png",
+          "simpleicons/432": "png/simpleicons/432/liberadotchat.png"
         }
       }
     },
@@ -165211,7 +165191,7 @@
         }
       }
     },
-    "librariesio": {
+    "librariesdotio": {
       "name": "Libraries.io",
       "sources": [
         "simpleicons"
@@ -165220,16 +165200,16 @@
       "packages": [],
       "color": "337AB7",
       "license": null,
-      "simpleicons_slug": "librariesio",
+      "simpleicons_slug": "librariesdotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/librariesio.svg"
+          "simpleicons": "icons/simpleicons/svg/librariesdotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/librariesio.png",
-          "simpleicons/96": "png/simpleicons/96/librariesio.png",
-          "simpleicons/192": "png/simpleicons/192/librariesio.png",
-          "simpleicons/432": "png/simpleicons/432/librariesio.png"
+          "simpleicons/48": "png/simpleicons/48/librariesdotio.png",
+          "simpleicons/96": "png/simpleicons/96/librariesdotio.png",
+          "simpleicons/192": "png/simpleicons/192/librariesdotio.png",
+          "simpleicons/432": "png/simpleicons/432/librariesdotio.png"
         }
       }
     },
@@ -175001,21 +174981,21 @@
       ],
       "color": "004788",
       "license": null,
-      "simpleicons_slug": "mailcom",
+      "simpleicons_slug": "maildotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/mail_com.svg",
-          "simpleicons": "icons/simpleicons/svg/mailcom.svg"
+          "simpleicons": "icons/simpleicons/svg/maildotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/mail_com.png",
           "96": "png/lawnicons/96/mail_com.png",
           "192": "png/lawnicons/192/mail_com.png",
           "432": "png/lawnicons/432/mail_com.png",
-          "simpleicons/48": "png/simpleicons/48/mailcom.png",
-          "simpleicons/96": "png/simpleicons/96/mailcom.png",
-          "simpleicons/192": "png/simpleicons/192/mailcom.png",
-          "simpleicons/432": "png/simpleicons/432/mailcom.png"
+          "simpleicons/48": "png/simpleicons/48/maildotcom.png",
+          "simpleicons/96": "png/simpleicons/96/maildotcom.png",
+          "simpleicons/192": "png/simpleicons/192/maildotcom.png",
+          "simpleicons/432": "png/simpleicons/432/maildotcom.png"
         }
       }
     },
@@ -175115,6 +175095,28 @@
         }
       }
     },
+    "maildotru": {
+      "name": "Mail.Ru",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "005FF9",
+      "license": null,
+      "simpleicons_slug": "maildotru",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/maildotru.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/maildotru.png",
+          "simpleicons/96": "png/simpleicons/96/maildotru.png",
+          "simpleicons/192": "png/simpleicons/192/maildotru.png",
+          "simpleicons/432": "png/simpleicons/432/maildotru.png"
+        }
+      }
+    },
     "mailgun": {
       "name": "Mailgun",
       "sources": [
@@ -175162,28 +175164,6 @@
           "96": "png/lawnicons/96/mailim.png",
           "192": "png/lawnicons/192/mailim.png",
           "432": "png/lawnicons/432/mailim.png"
-        }
-      }
-    },
-    "mailru": {
-      "name": "Mail.Ru",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "005FF9",
-      "license": null,
-      "simpleicons_slug": "mailru",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/mailru.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/mailru.png",
-          "simpleicons/96": "png/simpleicons/96/mailru.png",
-          "simpleicons/192": "png/simpleicons/192/mailru.png",
-          "simpleicons/432": "png/simpleicons/432/mailru.png"
         }
       }
     },
@@ -177975,7 +177955,7 @@
         }
       }
     },
-    "matterjs": {
+    "matterdotjs": {
       "name": "Matter.js",
       "sources": [
         "simpleicons"
@@ -177984,16 +177964,16 @@
       "packages": [],
       "color": "4B5562",
       "license": null,
-      "simpleicons_slug": "matterjs",
+      "simpleicons_slug": "matterdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/matterjs.svg"
+          "simpleicons": "icons/simpleicons/svg/matterdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/matterjs.png",
-          "simpleicons/96": "png/simpleicons/96/matterjs.png",
-          "simpleicons/192": "png/simpleicons/192/matterjs.png",
-          "simpleicons/432": "png/simpleicons/432/matterjs.png"
+          "simpleicons/48": "png/simpleicons/48/matterdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/matterdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/matterdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/matterdotjs.png"
         }
       }
     },
@@ -183268,7 +183248,7 @@
         }
       }
     },
-    "metrodelaciudaddemxico": {
+    "metrodelaciudaddemexico": {
       "name": "Metro de la Ciudad de México",
       "sources": [
         "simpleicons"
@@ -183277,16 +183257,16 @@
       "packages": [],
       "color": "F77E1C",
       "license": null,
-      "simpleicons_slug": "metrodelaciudaddemxico",
+      "simpleicons_slug": "metrodelaciudaddemexico",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/metrodelaciudaddemxico.svg"
+          "simpleicons": "icons/simpleicons/svg/metrodelaciudaddemexico.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/metrodelaciudaddemxico.png",
-          "simpleicons/96": "png/simpleicons/96/metrodelaciudaddemxico.png",
-          "simpleicons/192": "png/simpleicons/192/metrodelaciudaddemxico.png",
-          "simpleicons/432": "png/simpleicons/432/metrodelaciudaddemxico.png"
+          "simpleicons/48": "png/simpleicons/48/metrodelaciudaddemexico.png",
+          "simpleicons/96": "png/simpleicons/96/metrodelaciudaddemexico.png",
+          "simpleicons/192": "png/simpleicons/192/metrodelaciudaddemexico.png",
+          "simpleicons/432": "png/simpleicons/432/metrodelaciudaddemexico.png"
         }
       }
     },
@@ -183309,6 +183289,28 @@
           "simpleicons/96": "png/simpleicons/96/metrodemadrid.png",
           "simpleicons/192": "png/simpleicons/192/metrodemadrid.png",
           "simpleicons/432": "png/simpleicons/432/metrodemadrid.png"
+        }
+      }
+    },
+    "metrodeparis": {
+      "name": "Métro de Paris",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "003E95",
+      "license": null,
+      "simpleicons_slug": "metrodeparis",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/metrodeparis.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/metrodeparis.png",
+          "simpleicons/96": "png/simpleicons/96/metrodeparis.png",
+          "simpleicons/192": "png/simpleicons/192/metrodeparis.png",
+          "simpleicons/432": "png/simpleicons/432/metrodeparis.png"
         }
       }
     },
@@ -184689,7 +184691,7 @@
         }
       }
     },
-    "microblog": {
+    "microdotblog": {
       "name": "Micro.blog",
       "sources": [
         "simpleicons"
@@ -184698,16 +184700,16 @@
       "packages": [],
       "color": "FF8800",
       "license": null,
-      "simpleicons_slug": "microblog",
+      "simpleicons_slug": "microdotblog",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/microblog.svg"
+          "simpleicons": "icons/simpleicons/svg/microdotblog.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/microblog.png",
-          "simpleicons/96": "png/simpleicons/96/microblog.png",
-          "simpleicons/192": "png/simpleicons/192/microblog.png",
-          "simpleicons/432": "png/simpleicons/432/microblog.png"
+          "simpleicons/48": "png/simpleicons/48/microdotblog.png",
+          "simpleicons/96": "png/simpleicons/96/microdotblog.png",
+          "simpleicons/192": "png/simpleicons/192/microdotblog.png",
+          "simpleicons/432": "png/simpleicons/432/microdotblog.png"
         }
       }
     },
@@ -195217,28 +195219,6 @@
         }
       }
     },
-    "mtrodeparis": {
-      "name": "Métro de Paris",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "003E95",
-      "license": null,
-      "simpleicons_slug": "mtrodeparis",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/mtrodeparis.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/mtrodeparis.png",
-          "simpleicons/96": "png/simpleicons/96/mtrodeparis.png",
-          "simpleicons/192": "png/simpleicons/192/mtrodeparis.png",
-          "simpleicons/432": "png/simpleicons/432/mtrodeparis.png"
-        }
-      }
-    },
     "mts": {
       "name": "МТС ~~ MTS",
       "sources": [
@@ -195493,21 +195473,21 @@
       ],
       "color": "F46519",
       "license": null,
-      "simpleicons_slug": "mller",
+      "simpleicons_slug": "muller",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/muller.svg",
-          "simpleicons": "icons/simpleicons/svg/mller.svg"
+          "simpleicons": "icons/simpleicons/svg/muller.svg"
         },
         "png": {
           "48": "png/lawnicons/48/muller.png",
           "96": "png/lawnicons/96/muller.png",
           "192": "png/lawnicons/192/muller.png",
           "432": "png/lawnicons/432/muller.png",
-          "simpleicons/48": "png/simpleicons/48/mller.png",
-          "simpleicons/96": "png/simpleicons/96/mller.png",
-          "simpleicons/192": "png/simpleicons/192/mller.png",
-          "simpleicons/432": "png/simpleicons/432/mller.png"
+          "simpleicons/48": "png/simpleicons/48/muller.png",
+          "simpleicons/96": "png/simpleicons/96/muller.png",
+          "simpleicons/192": "png/simpleicons/192/muller.png",
+          "simpleicons/432": "png/simpleicons/432/muller.png"
         }
       }
     },
@@ -203448,7 +203428,7 @@
         }
       }
     },
-    "natsio": {
+    "natsdotio": {
       "name": "NATS.io",
       "sources": [
         "simpleicons"
@@ -203457,16 +203437,16 @@
       "packages": [],
       "color": "27AAE1",
       "license": null,
-      "simpleicons_slug": "natsio",
+      "simpleicons_slug": "natsdotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/natsio.svg"
+          "simpleicons": "icons/simpleicons/svg/natsdotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/natsio.png",
-          "simpleicons/96": "png/simpleicons/96/natsio.png",
-          "simpleicons/192": "png/simpleicons/192/natsio.png",
-          "simpleicons/432": "png/simpleicons/432/natsio.png"
+          "simpleicons/48": "png/simpleicons/48/natsdotio.png",
+          "simpleicons/96": "png/simpleicons/96/natsdotio.png",
+          "simpleicons/192": "png/simpleicons/192/natsdotio.png",
+          "simpleicons/432": "png/simpleicons/432/natsdotio.png"
         }
       }
     },
@@ -205657,30 +205637,6 @@
         }
       }
     },
-    "net": {
-      "name": ".NET",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "512BD4",
-      "license": {
-        "type": "CC0-1.0"
-      },
-      "simpleicons_slug": "net",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/net.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/net.png",
-          "simpleicons/96": "png/simpleicons/96/net.png",
-          "simpleicons/192": "png/simpleicons/192/net.png",
-          "simpleicons/432": "png/simpleicons/432/net.png"
-        }
-      }
-    },
     "netapp": {
       "name": "NetApp",
       "sources": [
@@ -207418,7 +207374,7 @@
         }
       }
     },
-    "nextbillionai": {
+    "nextbilliondotai": {
       "name": "NextBillion.ai",
       "sources": [
         "simpleicons"
@@ -207427,16 +207383,16 @@
       "packages": [],
       "color": "8D5A9E",
       "license": null,
-      "simpleicons_slug": "nextbillionai",
+      "simpleicons_slug": "nextbilliondotai",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/nextbillionai.svg"
+          "simpleicons": "icons/simpleicons/svg/nextbilliondotai.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/nextbillionai.png",
-          "simpleicons/96": "png/simpleicons/96/nextbillionai.png",
-          "simpleicons/192": "png/simpleicons/192/nextbillionai.png",
-          "simpleicons/432": "png/simpleicons/432/nextbillionai.png"
+          "simpleicons/48": "png/simpleicons/48/nextbilliondotai.png",
+          "simpleicons/96": "png/simpleicons/96/nextbilliondotai.png",
+          "simpleicons/192": "png/simpleicons/192/nextbilliondotai.png",
+          "simpleicons/432": "png/simpleicons/432/nextbilliondotai.png"
         }
       }
     },
@@ -207942,6 +207898,28 @@
         }
       }
     },
+    "nextdotjs": {
+      "name": "Next.js",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "000000",
+      "license": null,
+      "simpleicons_slug": "nextdotjs",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/nextdotjs.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/nextdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/nextdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/nextdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/nextdotjs.png"
+        }
+      }
+    },
     "nextflow": {
       "name": "Nextflow",
       "sources": [
@@ -208040,28 +208018,6 @@
           "96": "png/lawnicons/96/nextjoy.png",
           "192": "png/lawnicons/192/nextjoy.png",
           "432": "png/lawnicons/432/nextjoy.png"
-        }
-      }
-    },
-    "nextjs": {
-      "name": "Next.js",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": null,
-      "simpleicons_slug": "nextjs",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/nextjs.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/nextjs.png",
-          "simpleicons/96": "png/simpleicons/96/nextjs.png",
-          "simpleicons/192": "png/simpleicons/192/nextjs.png",
-          "simpleicons/432": "png/simpleicons/432/nextjs.png"
         }
       }
     },
@@ -210131,6 +210087,28 @@
         }
       }
     },
+    "nodedotjs": {
+      "name": "Node.js",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "5FA04E",
+      "license": null,
+      "simpleicons_slug": "nodedotjs",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/nodedotjs.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/nodedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/nodedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/nodedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/nodedotjs.png"
+        }
+      }
+    },
     "nodegui": {
       "name": "NodeGui",
       "sources": [
@@ -210150,28 +210128,6 @@
           "simpleicons/96": "png/simpleicons/96/nodegui.png",
           "simpleicons/192": "png/simpleicons/192/nodegui.png",
           "simpleicons/432": "png/simpleicons/432/nodegui.png"
-        }
-      }
-    },
-    "nodejs": {
-      "name": "Node.js",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "5FA04E",
-      "license": null,
-      "simpleicons_slug": "nodejs",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/nodejs.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/nodejs.png",
-          "simpleicons/96": "png/simpleicons/96/nodejs.png",
-          "simpleicons/192": "png/simpleicons/192/nodejs.png",
-          "simpleicons/432": "png/simpleicons/432/nodejs.png"
         }
       }
     },
@@ -210755,7 +210711,7 @@
         }
       }
     },
-    "normalizecss": {
+    "normalizedotcss": {
       "name": "Normalize.css",
       "sources": [
         "simpleicons"
@@ -210764,16 +210720,16 @@
       "packages": [],
       "color": "E3695F",
       "license": null,
-      "simpleicons_slug": "normalizecss",
+      "simpleicons_slug": "normalizedotcss",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/normalizecss.svg"
+          "simpleicons": "icons/simpleicons/svg/normalizedotcss.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/normalizecss.png",
-          "simpleicons/96": "png/simpleicons/96/normalizecss.png",
-          "simpleicons/192": "png/simpleicons/192/normalizecss.png",
-          "simpleicons/432": "png/simpleicons/432/normalizecss.png"
+          "simpleicons/48": "png/simpleicons/48/normalizedotcss.png",
+          "simpleicons/96": "png/simpleicons/96/normalizedotcss.png",
+          "simpleicons/192": "png/simpleicons/192/normalizedotcss.png",
+          "simpleicons/432": "png/simpleicons/432/normalizedotcss.png"
         }
       }
     },
@@ -211232,21 +211188,21 @@
       ],
       "color": "90E59A",
       "license": null,
-      "simpleicons_slug": "notepad",
+      "simpleicons_slug": "notepadplusplus",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/notepad.svg",
-          "simpleicons": "icons/simpleicons/svg/notepad.svg"
+          "simpleicons": "icons/simpleicons/svg/notepadplusplus.svg"
         },
         "png": {
           "48": "png/lawnicons/48/notepad.png",
           "96": "png/lawnicons/96/notepad.png",
           "192": "png/lawnicons/192/notepad.png",
           "432": "png/lawnicons/432/notepad.png",
-          "simpleicons/48": "png/simpleicons/48/notepad.png",
-          "simpleicons/96": "png/simpleicons/96/notepad.png",
-          "simpleicons/192": "png/simpleicons/192/notepad.png",
-          "simpleicons/432": "png/simpleicons/432/notepad.png"
+          "simpleicons/48": "png/simpleicons/48/notepadplusplus.png",
+          "simpleicons/96": "png/simpleicons/96/notepadplusplus.png",
+          "simpleicons/192": "png/simpleicons/192/notepadplusplus.png",
+          "simpleicons/432": "png/simpleicons/432/notepadplusplus.png"
         }
       }
     },
@@ -214757,6 +214713,28 @@
           "96": "png/lawnicons/96/oasis_launcher.png",
           "192": "png/lawnicons/192/oasis_launcher.png",
           "432": "png/lawnicons/432/oasis_launcher.png"
+        }
+      }
+    },
+    "obb": {
+      "name": "ÖBB",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "E40327",
+      "license": null,
+      "simpleicons_slug": "obb",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/obb.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/obb.png",
+          "simpleicons/96": "png/simpleicons/96/obb.png",
+          "simpleicons/192": "png/simpleicons/192/obb.png",
+          "simpleicons/432": "png/simpleicons/432/obb.png"
         }
       }
     },
@@ -224852,7 +224830,7 @@
         }
       }
     },
-    "p5js": {
+    "p5dotjs": {
       "name": "p5.js",
       "sources": [
         "simpleicons"
@@ -224861,16 +224839,16 @@
       "packages": [],
       "color": "ED225D",
       "license": null,
-      "simpleicons_slug": "p5js",
+      "simpleicons_slug": "p5dotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/p5js.svg"
+          "simpleicons": "icons/simpleicons/svg/p5dotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/p5js.png",
-          "simpleicons/96": "png/simpleicons/96/p5js.png",
-          "simpleicons/192": "png/simpleicons/192/p5js.png",
-          "simpleicons/432": "png/simpleicons/432/p5js.png"
+          "simpleicons/48": "png/simpleicons/48/p5dotjs.png",
+          "simpleicons/96": "png/simpleicons/96/p5dotjs.png",
+          "simpleicons/192": "png/simpleicons/192/p5dotjs.png",
+          "simpleicons/432": "png/simpleicons/432/p5dotjs.png"
         }
       }
     },
@@ -226672,21 +226650,21 @@
       ],
       "color": "0064FF",
       "license": null,
-      "simpleicons_slug": "paramount",
+      "simpleicons_slug": "paramountplus",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/paramount_plus.svg",
-          "simpleicons": "icons/simpleicons/svg/paramount.svg"
+          "simpleicons": "icons/simpleicons/svg/paramountplus.svg"
         },
         "png": {
           "48": "png/lawnicons/48/paramount_plus.png",
           "96": "png/lawnicons/96/paramount_plus.png",
           "192": "png/lawnicons/192/paramount_plus.png",
           "432": "png/lawnicons/432/paramount_plus.png",
-          "simpleicons/48": "png/simpleicons/48/paramount.png",
-          "simpleicons/96": "png/simpleicons/96/paramount.png",
-          "simpleicons/192": "png/simpleicons/192/paramount.png",
-          "simpleicons/432": "png/simpleicons/432/paramount.png"
+          "simpleicons/48": "png/simpleicons/48/paramountplus.png",
+          "simpleicons/96": "png/simpleicons/96/paramountplus.png",
+          "simpleicons/192": "png/simpleicons/192/paramountplus.png",
+          "simpleicons/432": "png/simpleicons/432/paramountplus.png"
         }
       }
     },
@@ -227259,7 +227237,7 @@
         }
       }
     },
-    "parsely": {
+    "parsedotly": {
       "name": "Parse.ly",
       "sources": [
         "simpleicons"
@@ -227268,16 +227246,16 @@
       "packages": [],
       "color": "5BA745",
       "license": null,
-      "simpleicons_slug": "parsely",
+      "simpleicons_slug": "parsedotly",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/parsely.svg"
+          "simpleicons": "icons/simpleicons/svg/parsedotly.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/parsely.png",
-          "simpleicons/96": "png/simpleicons/96/parsely.png",
-          "simpleicons/192": "png/simpleicons/192/parsely.png",
-          "simpleicons/432": "png/simpleicons/432/parsely.png"
+          "simpleicons/48": "png/simpleicons/48/parsedotly.png",
+          "simpleicons/96": "png/simpleicons/96/parsedotly.png",
+          "simpleicons/192": "png/simpleicons/192/parsedotly.png",
+          "simpleicons/432": "png/simpleicons/432/parsedotly.png"
         }
       }
     },
@@ -232443,7 +232421,7 @@
         }
       }
     },
-    "picardsurgels": {
+    "picardsurgeles": {
       "name": "Picard Surgelés",
       "sources": [
         "simpleicons"
@@ -232452,20 +232430,20 @@
       "packages": [],
       "color": "2D4999",
       "license": null,
-      "simpleicons_slug": "picardsurgels",
+      "simpleicons_slug": "picardsurgeles",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/picardsurgels.svg"
+          "simpleicons": "icons/simpleicons/svg/picardsurgeles.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/picardsurgels.png",
-          "simpleicons/96": "png/simpleicons/96/picardsurgels.png",
-          "simpleicons/192": "png/simpleicons/192/picardsurgels.png",
-          "simpleicons/432": "png/simpleicons/432/picardsurgels.png"
+          "simpleicons/48": "png/simpleicons/48/picardsurgeles.png",
+          "simpleicons/96": "png/simpleicons/96/picardsurgeles.png",
+          "simpleicons/192": "png/simpleicons/192/picardsurgeles.png",
+          "simpleicons/432": "png/simpleicons/432/picardsurgeles.png"
         }
       }
     },
-    "picartotv": {
+    "picartodottv": {
       "name": "Picarto.TV",
       "sources": [
         "simpleicons"
@@ -232474,16 +232452,16 @@
       "packages": [],
       "color": "1DA456",
       "license": null,
-      "simpleicons_slug": "picartotv",
+      "simpleicons_slug": "picartodottv",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/picartotv.svg"
+          "simpleicons": "icons/simpleicons/svg/picartodottv.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/picartotv.png",
-          "simpleicons/96": "png/simpleicons/96/picartotv.png",
-          "simpleicons/192": "png/simpleicons/192/picartotv.png",
-          "simpleicons/432": "png/simpleicons/432/picartotv.png"
+          "simpleicons/48": "png/simpleicons/48/picartodottv.png",
+          "simpleicons/96": "png/simpleicons/96/picartodottv.png",
+          "simpleicons/192": "png/simpleicons/192/picartodottv.png",
+          "simpleicons/432": "png/simpleicons/432/picartodottv.png"
         }
       }
     },
@@ -236200,6 +236178,28 @@
         }
       }
     },
+    "platformdotsh": {
+      "name": "Platform.sh",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "1A182A",
+      "license": null,
+      "simpleicons_slug": "platformdotsh",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/platformdotsh.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/platformdotsh.png",
+          "simpleicons/96": "png/simpleicons/96/platformdotsh.png",
+          "simpleicons/192": "png/simpleicons/192/platformdotsh.png",
+          "simpleicons/432": "png/simpleicons/432/platformdotsh.png"
+        }
+      }
+    },
     "platformio": {
       "name": "PlatformIO",
       "sources": [
@@ -236219,28 +236219,6 @@
           "simpleicons/96": "png/simpleicons/96/platformio.png",
           "simpleicons/192": "png/simpleicons/192/platformio.png",
           "simpleicons/432": "png/simpleicons/432/platformio.png"
-        }
-      }
-    },
-    "platformsh": {
-      "name": "Platform.sh",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "1A182A",
-      "license": null,
-      "simpleicons_slug": "platformsh",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/platformsh.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/platformsh.png",
-          "simpleicons/96": "png/simpleicons/96/platformsh.png",
-          "simpleicons/192": "png/simpleicons/192/platformsh.png",
-          "simpleicons/432": "png/simpleicons/432/platformsh.png"
         }
       }
     },
@@ -236520,6 +236498,28 @@
         }
       }
     },
+    "playerdotme": {
+      "name": "Player.me",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "C0379A",
+      "license": null,
+      "simpleicons_slug": "playerdotme",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/playerdotme.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/playerdotme.png",
+          "simpleicons/96": "png/simpleicons/96/playerdotme.png",
+          "simpleicons/192": "png/simpleicons/192/playerdotme.png",
+          "simpleicons/432": "png/simpleicons/432/playerdotme.png"
+        }
+      }
+    },
     "playerfm": {
       "name": "Player FM",
       "sources": [
@@ -236539,28 +236539,6 @@
           "simpleicons/96": "png/simpleicons/96/playerfm.png",
           "simpleicons/192": "png/simpleicons/192/playerfm.png",
           "simpleicons/432": "png/simpleicons/432/playerfm.png"
-        }
-      }
-    },
-    "playerme": {
-      "name": "Player.me",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "C0379A",
-      "license": null,
-      "simpleicons_slug": "playerme",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/playerme.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/playerme.png",
-          "simpleicons/96": "png/simpleicons/96/playerme.png",
-          "simpleicons/192": "png/simpleicons/192/playerme.png",
-          "simpleicons/432": "png/simpleicons/432/playerme.png"
         }
       }
     },
@@ -239814,7 +239792,7 @@
         }
       }
     },
-    "portableappscom": {
+    "portableappsdotcom": {
       "name": "PortableApps.com",
       "sources": [
         "simpleicons"
@@ -239823,16 +239801,16 @@
       "packages": [],
       "color": "818F95",
       "license": null,
-      "simpleicons_slug": "portableappscom",
+      "simpleicons_slug": "portableappsdotcom",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/portableappscom.svg"
+          "simpleicons": "icons/simpleicons/svg/portableappsdotcom.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/portableappscom.png",
-          "simpleicons/96": "png/simpleicons/96/portableappscom.png",
-          "simpleicons/192": "png/simpleicons/192/portableappscom.png",
-          "simpleicons/432": "png/simpleicons/432/portableappscom.png"
+          "simpleicons/48": "png/simpleicons/48/portableappsdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/portableappsdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/portableappsdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/portableappsdotcom.png"
         }
       }
     },
@@ -241121,7 +241099,7 @@
         }
       }
     },
-    "prco": {
+    "prdotco": {
       "name": "pr.co",
       "sources": [
         "simpleicons"
@@ -241130,16 +241108,16 @@
       "packages": [],
       "color": "0080FF",
       "license": null,
-      "simpleicons_slug": "prco",
+      "simpleicons_slug": "prdotco",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/prco.svg"
+          "simpleicons": "icons/simpleicons/svg/prdotco.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/prco.png",
-          "simpleicons/96": "png/simpleicons/96/prco.png",
-          "simpleicons/192": "png/simpleicons/192/prco.png",
-          "simpleicons/432": "png/simpleicons/432/prco.png"
+          "simpleicons/48": "png/simpleicons/48/prdotco.png",
+          "simpleicons/96": "png/simpleicons/96/prdotco.png",
+          "simpleicons/192": "png/simpleicons/192/prdotco.png",
+          "simpleicons/432": "png/simpleicons/432/prdotco.png"
         }
       }
     },
@@ -243414,7 +243392,7 @@
         }
       }
     },
-    "pronounspage": {
+    "pronounsdotpage": {
       "name": "Pronouns.page",
       "sources": [
         "simpleicons"
@@ -243423,16 +243401,16 @@
       "packages": [],
       "color": "C71585",
       "license": null,
-      "simpleicons_slug": "pronounspage",
+      "simpleicons_slug": "pronounsdotpage",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/pronounspage.svg"
+          "simpleicons": "icons/simpleicons/svg/pronounsdotpage.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/pronounspage.png",
-          "simpleicons/96": "png/simpleicons/96/pronounspage.png",
-          "simpleicons/192": "png/simpleicons/192/pronounspage.png",
-          "simpleicons/432": "png/simpleicons/432/pronounspage.png"
+          "simpleicons/48": "png/simpleicons/48/pronounsdotpage.png",
+          "simpleicons/96": "png/simpleicons/96/pronounsdotpage.png",
+          "simpleicons/192": "png/simpleicons/192/pronounsdotpage.png",
+          "simpleicons/432": "png/simpleicons/432/pronounsdotpage.png"
         }
       }
     },
@@ -243606,7 +243584,7 @@
         }
       }
     },
-    "protocolsio": {
+    "protocolsdotio": {
       "name": "protocols.io",
       "sources": [
         "simpleicons"
@@ -243615,20 +243593,20 @@
       "packages": [],
       "color": "4D9FE7",
       "license": null,
-      "simpleicons_slug": "protocolsio",
+      "simpleicons_slug": "protocolsdotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/protocolsio.svg"
+          "simpleicons": "icons/simpleicons/svg/protocolsdotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/protocolsio.png",
-          "simpleicons/96": "png/simpleicons/96/protocolsio.png",
-          "simpleicons/192": "png/simpleicons/192/protocolsio.png",
-          "simpleicons/432": "png/simpleicons/432/protocolsio.png"
+          "simpleicons/48": "png/simpleicons/48/protocolsdotio.png",
+          "simpleicons/96": "png/simpleicons/96/protocolsdotio.png",
+          "simpleicons/192": "png/simpleicons/192/protocolsdotio.png",
+          "simpleicons/432": "png/simpleicons/432/protocolsdotio.png"
         }
       }
     },
-    "protoio": {
+    "protodotio": {
       "name": "Proto.io",
       "sources": [
         "simpleicons"
@@ -243637,16 +243615,16 @@
       "packages": [],
       "color": "34A7C1",
       "license": null,
-      "simpleicons_slug": "protoio",
+      "simpleicons_slug": "protodotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/protoio.svg"
+          "simpleicons": "icons/simpleicons/svg/protodotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/protoio.png",
-          "simpleicons/96": "png/simpleicons/96/protoio.png",
-          "simpleicons/192": "png/simpleicons/192/protoio.png",
-          "simpleicons/432": "png/simpleicons/432/protoio.png"
+          "simpleicons/48": "png/simpleicons/48/protodotio.png",
+          "simpleicons/96": "png/simpleicons/96/protodotio.png",
+          "simpleicons/192": "png/simpleicons/192/protodotio.png",
+          "simpleicons/432": "png/simpleicons/432/protodotio.png"
         }
       }
     },
@@ -251691,7 +251669,7 @@
         }
       }
     },
-    "readcv": {
+    "readdotcv": {
       "name": "Read.cv",
       "sources": [
         "simpleicons"
@@ -251700,16 +251678,16 @@
       "packages": [],
       "color": "111111",
       "license": null,
-      "simpleicons_slug": "readcv",
+      "simpleicons_slug": "readdotcv",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/readcv.svg"
+          "simpleicons": "icons/simpleicons/svg/readdotcv.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/readcv.png",
-          "simpleicons/96": "png/simpleicons/96/readcv.png",
-          "simpleicons/192": "png/simpleicons/192/readcv.png",
-          "simpleicons/432": "png/simpleicons/432/readcv.png"
+          "simpleicons/48": "png/simpleicons/48/readdotcv.png",
+          "simpleicons/96": "png/simpleicons/96/readdotcv.png",
+          "simpleicons/192": "png/simpleicons/192/readdotcv.png",
+          "simpleicons/432": "png/simpleicons/432/readdotcv.png"
         }
       }
     },
@@ -254981,21 +254959,21 @@
       ],
       "color": "54616C",
       "license": null,
-      "simpleicons_slug": "removebg",
+      "simpleicons_slug": "removedotbg",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/remove_bg.svg",
-          "simpleicons": "icons/simpleicons/svg/removebg.svg"
+          "simpleicons": "icons/simpleicons/svg/removedotbg.svg"
         },
         "png": {
           "48": "png/lawnicons/48/remove_bg.png",
           "96": "png/lawnicons/96/remove_bg.png",
           "192": "png/lawnicons/192/remove_bg.png",
           "432": "png/lawnicons/432/remove_bg.png",
-          "simpleicons/48": "png/simpleicons/48/removebg.png",
-          "simpleicons/96": "png/simpleicons/96/removebg.png",
-          "simpleicons/192": "png/simpleicons/192/removebg.png",
-          "simpleicons/432": "png/simpleicons/432/removebg.png"
+          "simpleicons/48": "png/simpleicons/48/removedotbg.png",
+          "simpleicons/96": "png/simpleicons/96/removedotbg.png",
+          "simpleicons/192": "png/simpleicons/192/removedotbg.png",
+          "simpleicons/432": "png/simpleicons/432/removedotbg.png"
         }
       }
     },
@@ -256384,7 +256362,7 @@
         }
       }
     },
-    "revealjs": {
+    "revealdotjs": {
       "name": "reveal.js",
       "sources": [
         "simpleicons"
@@ -256393,16 +256371,16 @@
       "packages": [],
       "color": "F2E142",
       "license": null,
-      "simpleicons_slug": "revealjs",
+      "simpleicons_slug": "revealdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/revealjs.svg"
+          "simpleicons": "icons/simpleicons/svg/revealdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/revealjs.png",
-          "simpleicons/96": "png/simpleicons/96/revealjs.png",
-          "simpleicons/192": "png/simpleicons/192/revealjs.png",
-          "simpleicons/432": "png/simpleicons/432/revealjs.png"
+          "simpleicons/48": "png/simpleicons/48/revealdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/revealdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/revealdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/revealdotjs.png"
         }
       }
     },
@@ -256647,7 +256625,7 @@
         }
       }
     },
-    "revoltchat": {
+    "revoltdotchat": {
       "name": "Revolt.chat",
       "sources": [
         "simpleicons"
@@ -256656,16 +256634,16 @@
       "packages": [],
       "color": "FF4655",
       "license": null,
-      "simpleicons_slug": "revoltchat",
+      "simpleicons_slug": "revoltdotchat",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/revoltchat.svg"
+          "simpleicons": "icons/simpleicons/svg/revoltdotchat.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/revoltchat.png",
-          "simpleicons/96": "png/simpleicons/96/revoltchat.png",
-          "simpleicons/192": "png/simpleicons/192/revoltchat.png",
-          "simpleicons/432": "png/simpleicons/432/revoltchat.png"
+          "simpleicons/48": "png/simpleicons/48/revoltdotchat.png",
+          "simpleicons/96": "png/simpleicons/96/revoltdotchat.png",
+          "simpleicons/192": "png/simpleicons/192/revoltdotchat.png",
+          "simpleicons/432": "png/simpleicons/432/revoltdotchat.png"
         }
       }
     },
@@ -257859,7 +257837,7 @@
         }
       }
     },
-    "roadmapsh": {
+    "roadmapdotsh": {
       "name": "roadmap.sh",
       "sources": [
         "simpleicons"
@@ -257868,16 +257846,16 @@
       "packages": [],
       "color": "000000",
       "license": null,
-      "simpleicons_slug": "roadmapsh",
+      "simpleicons_slug": "roadmapdotsh",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/roadmapsh.svg"
+          "simpleicons": "icons/simpleicons/svg/roadmapdotsh.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/roadmapsh.png",
-          "simpleicons/96": "png/simpleicons/96/roadmapsh.png",
-          "simpleicons/192": "png/simpleicons/192/roadmapsh.png",
-          "simpleicons/432": "png/simpleicons/432/roadmapsh.png"
+          "simpleicons/48": "png/simpleicons/48/roadmapdotsh.png",
+          "simpleicons/96": "png/simpleicons/96/roadmapdotsh.png",
+          "simpleicons/192": "png/simpleicons/192/roadmapdotsh.png",
+          "simpleicons/432": "png/simpleicons/432/roadmapdotsh.png"
         }
       }
     },
@@ -258204,21 +258182,21 @@
       ],
       "color": "F5455C",
       "license": null,
-      "simpleicons_slug": "rocketchat",
+      "simpleicons_slug": "rocketdotchat",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/rocket_chat.svg",
-          "simpleicons": "icons/simpleicons/svg/rocketchat.svg"
+          "simpleicons": "icons/simpleicons/svg/rocketdotchat.svg"
         },
         "png": {
           "48": "png/lawnicons/48/rocket_chat.png",
           "96": "png/lawnicons/96/rocket_chat.png",
           "192": "png/lawnicons/192/rocket_chat.png",
           "432": "png/lawnicons/432/rocket_chat.png",
-          "simpleicons/48": "png/simpleicons/48/rocketchat.png",
-          "simpleicons/96": "png/simpleicons/96/rocketchat.png",
-          "simpleicons/192": "png/simpleicons/192/rocketchat.png",
-          "simpleicons/432": "png/simpleicons/432/rocketchat.png"
+          "simpleicons/48": "png/simpleicons/48/rocketdotchat.png",
+          "simpleicons/96": "png/simpleicons/96/rocketdotchat.png",
+          "simpleicons/192": "png/simpleicons/192/rocketdotchat.png",
+          "simpleicons/432": "png/simpleicons/432/rocketdotchat.png"
         }
       }
     },
@@ -258686,7 +258664,7 @@
         }
       }
     },
-    "rollupjs": {
+    "rollupdotjs": {
       "name": "rollup.js",
       "sources": [
         "simpleicons"
@@ -258695,16 +258673,16 @@
       "packages": [],
       "color": "EC4A3F",
       "license": null,
-      "simpleicons_slug": "rollupjs",
+      "simpleicons_slug": "rollupdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/rollupjs.svg"
+          "simpleicons": "icons/simpleicons/svg/rollupdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/rollupjs.png",
-          "simpleicons/96": "png/simpleicons/96/rollupjs.png",
-          "simpleicons/192": "png/simpleicons/192/rollupjs.png",
-          "simpleicons/432": "png/simpleicons/432/rollupjs.png"
+          "simpleicons/48": "png/simpleicons/48/rollupdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/rollupdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/rollupdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/rollupdotjs.png"
         }
       }
     },
@@ -259674,28 +259652,6 @@
         }
       }
     },
-    "rt": {
-      "name": "RTÉ",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "00A7B3",
-      "license": null,
-      "simpleicons_slug": "rt",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/rt.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/rt.png",
-          "simpleicons/96": "png/simpleicons/96/rt.png",
-          "simpleicons/192": "png/simpleicons/192/rt.png",
-          "simpleicons/432": "png/simpleicons/432/rt.png"
-        }
-      }
-    },
     "rtc_paiement": {
       "name": "RTC Paiement",
       "sources": [
@@ -259719,6 +259675,28 @@
           "96": "png/lawnicons/96/rtc_paiement.png",
           "192": "png/lawnicons/192/rtc_paiement.png",
           "432": "png/lawnicons/432/rtc_paiement.png"
+        }
+      }
+    },
+    "rte": {
+      "name": "RTÉ",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "00A7B3",
+      "license": null,
+      "simpleicons_slug": "rte",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/rte.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/rte.png",
+          "simpleicons/96": "png/simpleicons/96/rte.png",
+          "simpleicons/192": "png/simpleicons/192/rte.png",
+          "simpleicons/432": "png/simpleicons/432/rte.png"
         }
       }
     },
@@ -260381,7 +260359,7 @@
         }
       }
     },
-    "runrunit": {
+    "runrundotit": {
       "name": "Runrun.it",
       "sources": [
         "simpleicons"
@@ -260390,16 +260368,16 @@
       "packages": [],
       "color": "DB3729",
       "license": null,
-      "simpleicons_slug": "runrunit",
+      "simpleicons_slug": "runrundotit",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/runrunit.svg"
+          "simpleicons": "icons/simpleicons/svg/runrundotit.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/runrunit.png",
-          "simpleicons/96": "png/simpleicons/96/runrunit.png",
-          "simpleicons/192": "png/simpleicons/192/runrunit.png",
-          "simpleicons/432": "png/simpleicons/432/runrunit.png"
+          "simpleicons/48": "png/simpleicons/48/runrundotit.png",
+          "simpleicons/96": "png/simpleicons/96/runrundotit.png",
+          "simpleicons/192": "png/simpleicons/192/runrundotit.png",
+          "simpleicons/432": "png/simpleicons/432/runrundotit.png"
         }
       }
     },
@@ -262035,7 +262013,7 @@
         }
       }
     },
-    "sailsjs": {
+    "sailsdotjs": {
       "name": "Sails.js",
       "sources": [
         "simpleicons"
@@ -262044,16 +262022,16 @@
       "packages": [],
       "color": "14ACC2",
       "license": null,
-      "simpleicons_slug": "sailsjs",
+      "simpleicons_slug": "sailsdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/sailsjs.svg"
+          "simpleicons": "icons/simpleicons/svg/sailsdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/sailsjs.png",
-          "simpleicons/96": "png/simpleicons/96/sailsjs.png",
-          "simpleicons/192": "png/simpleicons/192/sailsjs.png",
-          "simpleicons/432": "png/simpleicons/432/sailsjs.png"
+          "simpleicons/48": "png/simpleicons/48/sailsdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/sailsdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/sailsdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/sailsdotjs.png"
         }
       }
     },
@@ -265286,21 +265264,21 @@
       ],
       "color": "004382",
       "license": null,
-      "simpleicons_slug": "sopaulometro",
+      "simpleicons_slug": "saopaulometro",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/sao_paulo_metro.svg",
-          "simpleicons": "icons/simpleicons/svg/sopaulometro.svg"
+          "simpleicons": "icons/simpleicons/svg/saopaulometro.svg"
         },
         "png": {
           "48": "png/lawnicons/48/sao_paulo_metro.png",
           "96": "png/lawnicons/96/sao_paulo_metro.png",
           "192": "png/lawnicons/192/sao_paulo_metro.png",
           "432": "png/lawnicons/432/sao_paulo_metro.png",
-          "simpleicons/48": "png/simpleicons/48/sopaulometro.png",
-          "simpleicons/96": "png/simpleicons/96/sopaulometro.png",
-          "simpleicons/192": "png/simpleicons/192/sopaulometro.png",
-          "simpleicons/432": "png/simpleicons/432/sopaulometro.png"
+          "simpleicons/48": "png/simpleicons/48/saopaulometro.png",
+          "simpleicons/96": "png/simpleicons/96/saopaulometro.png",
+          "simpleicons/192": "png/simpleicons/192/saopaulometro.png",
+          "simpleicons/432": "png/simpleicons/432/saopaulometro.png"
         }
       }
     },
@@ -272247,7 +272225,7 @@
         }
       }
     },
-    "shieldsio": {
+    "shieldsdotio": {
       "name": "Shields.io",
       "sources": [
         "simpleicons"
@@ -272256,16 +272234,16 @@
       "packages": [],
       "color": "000000",
       "license": null,
-      "simpleicons_slug": "shieldsio",
+      "simpleicons_slug": "shieldsdotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/shieldsio.svg"
+          "simpleicons": "icons/simpleicons/svg/shieldsdotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/shieldsio.png",
-          "simpleicons/96": "png/simpleicons/96/shieldsio.png",
-          "simpleicons/192": "png/simpleicons/192/shieldsio.png",
-          "simpleicons/432": "png/simpleicons/432/shieldsio.png"
+          "simpleicons/48": "png/simpleicons/48/shieldsdotio.png",
+          "simpleicons/96": "png/simpleicons/96/shieldsdotio.png",
+          "simpleicons/192": "png/simpleicons/192/shieldsdotio.png",
+          "simpleicons/432": "png/simpleicons/432/shieldsdotio.png"
         }
       }
     },
@@ -276587,6 +276565,28 @@
         }
       }
     },
+    "skoda": {
+      "name": "ŠKODA",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "0E3A2F",
+      "license": null,
+      "simpleicons_slug": "skoda",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/skoda.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/skoda.png",
+          "simpleicons/96": "png/simpleicons/96/skoda.png",
+          "simpleicons/192": "png/simpleicons/192/skoda.png",
+          "simpleicons/432": "png/simpleicons/432/skoda.png"
+        }
+      }
+    },
     "skola": {
       "name": "Škola",
       "sources": [
@@ -280288,7 +280288,7 @@
         }
       }
     },
-    "socketio": {
+    "socketdotio": {
       "name": "Socket.io",
       "sources": [
         "simpleicons"
@@ -280297,16 +280297,16 @@
       "packages": [],
       "color": "010101",
       "license": null,
-      "simpleicons_slug": "socketio",
+      "simpleicons_slug": "socketdotio",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/socketio.svg"
+          "simpleicons": "icons/simpleicons/svg/socketdotio.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/socketio.png",
-          "simpleicons/96": "png/simpleicons/96/socketio.png",
-          "simpleicons/192": "png/simpleicons/192/socketio.png",
-          "simpleicons/432": "png/simpleicons/432/socketio.png"
+          "simpleicons/48": "png/simpleicons/48/socketdotio.png",
+          "simpleicons/96": "png/simpleicons/96/socketdotio.png",
+          "simpleicons/192": "png/simpleicons/192/socketdotio.png",
+          "simpleicons/432": "png/simpleicons/432/socketdotio.png"
         }
       }
     },
@@ -280447,7 +280447,7 @@
         }
       }
     },
-    "softcatal": {
+    "softcatala": {
       "name": "Softcatalà",
       "sources": [
         "simpleicons"
@@ -280458,16 +280458,16 @@
       "license": {
         "type": "CC-BY-SA-4.0"
       },
-      "simpleicons_slug": "softcatal",
+      "simpleicons_slug": "softcatala",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/softcatal.svg"
+          "simpleicons": "icons/simpleicons/svg/softcatala.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/softcatal.png",
-          "simpleicons/96": "png/simpleicons/96/softcatal.png",
-          "simpleicons/192": "png/simpleicons/192/softcatal.png",
-          "simpleicons/432": "png/simpleicons/432/softcatal.png"
+          "simpleicons/48": "png/simpleicons/48/softcatala.png",
+          "simpleicons/96": "png/simpleicons/96/softcatala.png",
+          "simpleicons/192": "png/simpleicons/192/softcatala.png",
+          "simpleicons/432": "png/simpleicons/432/softcatala.png"
         }
       }
     },
@@ -280825,7 +280825,7 @@
         }
       }
     },
-    "solvedac": {
+    "solveddotac": {
       "name": "solved.ac",
       "sources": [
         "simpleicons"
@@ -280834,16 +280834,16 @@
       "packages": [],
       "color": "17CE3A",
       "license": null,
-      "simpleicons_slug": "solvedac",
+      "simpleicons_slug": "solveddotac",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/solvedac.svg"
+          "simpleicons": "icons/simpleicons/svg/solveddotac.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/solvedac.png",
-          "simpleicons/96": "png/simpleicons/96/solvedac.png",
-          "simpleicons/192": "png/simpleicons/192/solvedac.png",
-          "simpleicons/432": "png/simpleicons/432/solvedac.png"
+          "simpleicons/48": "png/simpleicons/48/solveddotac.png",
+          "simpleicons/96": "png/simpleicons/96/solveddotac.png",
+          "simpleicons/192": "png/simpleicons/192/solveddotac.png",
+          "simpleicons/432": "png/simpleicons/432/solveddotac.png"
         }
       }
     },
@@ -287070,7 +287070,7 @@
         }
       }
     },
-    "startgg": {
+    "startdotgg": {
       "name": "start.gg",
       "sources": [
         "simpleicons"
@@ -287079,16 +287079,16 @@
       "packages": [],
       "color": "2E75BA",
       "license": null,
-      "simpleicons_slug": "startgg",
+      "simpleicons_slug": "startdotgg",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/startgg.svg"
+          "simpleicons": "icons/simpleicons/svg/startdotgg.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/startgg.png",
-          "simpleicons/96": "png/simpleicons/96/startgg.png",
-          "simpleicons/192": "png/simpleicons/192/startgg.png",
-          "simpleicons/432": "png/simpleicons/432/startgg.png"
+          "simpleicons/48": "png/simpleicons/48/startdotgg.png",
+          "simpleicons/96": "png/simpleicons/96/startdotgg.png",
+          "simpleicons/192": "png/simpleicons/192/startdotgg.png",
+          "simpleicons/432": "png/simpleicons/432/startdotgg.png"
         }
       }
     },
@@ -293291,7 +293291,7 @@
         }
       }
     },
-    "svgjs": {
+    "svgdotjs": {
       "name": "SVG.js",
       "sources": [
         "simpleicons"
@@ -293300,16 +293300,16 @@
       "packages": [],
       "color": "FF0066",
       "license": null,
-      "simpleicons_slug": "svgjs",
+      "simpleicons_slug": "svgdotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/svgjs.svg"
+          "simpleicons": "icons/simpleicons/svg/svgdotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/svgjs.png",
-          "simpleicons/96": "png/simpleicons/96/svgjs.png",
-          "simpleicons/192": "png/simpleicons/192/svgjs.png",
-          "simpleicons/432": "png/simpleicons/432/svgjs.png"
+          "simpleicons/48": "png/simpleicons/48/svgdotjs.png",
+          "simpleicons/96": "png/simpleicons/96/svgdotjs.png",
+          "simpleicons/192": "png/simpleicons/192/svgdotjs.png",
+          "simpleicons/432": "png/simpleicons/432/svgdotjs.png"
         }
       }
     },
@@ -298795,21 +298795,21 @@
       ],
       "color": "1343FB",
       "license": null,
-      "simpleicons_slug": "tlqubec",
+      "simpleicons_slug": "telequebec",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/tele_quebec.svg",
-          "simpleicons": "icons/simpleicons/svg/tlqubec.svg"
+          "simpleicons": "icons/simpleicons/svg/telequebec.svg"
         },
         "png": {
           "48": "png/lawnicons/48/tele_quebec.png",
           "96": "png/lawnicons/96/tele_quebec.png",
           "192": "png/lawnicons/192/tele_quebec.png",
           "432": "png/lawnicons/432/tele_quebec.png",
-          "simpleicons/48": "png/simpleicons/48/tlqubec.png",
-          "simpleicons/96": "png/simpleicons/96/tlqubec.png",
-          "simpleicons/192": "png/simpleicons/192/tlqubec.png",
-          "simpleicons/432": "png/simpleicons/432/tlqubec.png"
+          "simpleicons/48": "png/simpleicons/48/telequebec.png",
+          "simpleicons/96": "png/simpleicons/96/telequebec.png",
+          "simpleicons/192": "png/simpleicons/192/telequebec.png",
+          "simpleicons/432": "png/simpleicons/432/telequebec.png"
         }
       }
     },
@@ -298944,7 +298944,7 @@
         }
       }
     },
-    "telefnica": {
+    "telefonica": {
       "name": "Telefónica",
       "sources": [
         "simpleicons"
@@ -298953,16 +298953,16 @@
       "packages": [],
       "color": "0066FF",
       "license": null,
-      "simpleicons_slug": "telefnica",
+      "simpleicons_slug": "telefonica",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/telefnica.svg"
+          "simpleicons": "icons/simpleicons/svg/telefonica.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/telefnica.png",
-          "simpleicons/96": "png/simpleicons/96/telefnica.png",
-          "simpleicons/192": "png/simpleicons/192/telefnica.png",
-          "simpleicons/432": "png/simpleicons/432/telefnica.png"
+          "simpleicons/48": "png/simpleicons/48/telefonica.png",
+          "simpleicons/96": "png/simpleicons/96/telefonica.png",
+          "simpleicons/192": "png/simpleicons/192/telefonica.png",
+          "simpleicons/432": "png/simpleicons/432/telefonica.png"
         }
       }
     },
@@ -303553,7 +303553,7 @@
         }
       }
     },
-    "threejs": {
+    "threedotjs": {
       "name": "Three.js",
       "sources": [
         "simpleicons"
@@ -303562,16 +303562,16 @@
       "packages": [],
       "color": "000000",
       "license": null,
-      "simpleicons_slug": "threejs",
+      "simpleicons_slug": "threedotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/threejs.svg"
+          "simpleicons": "icons/simpleicons/svg/threedotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/threejs.png",
-          "simpleicons/96": "png/simpleicons/96/threejs.png",
-          "simpleicons/192": "png/simpleicons/192/threejs.png",
-          "simpleicons/432": "png/simpleicons/432/threejs.png"
+          "simpleicons/48": "png/simpleicons/48/threedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/threedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/threedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/threedotjs.png"
         }
       }
     },
@@ -307590,7 +307590,7 @@
         }
       }
     },
-    "topgg": {
+    "topdotgg": {
       "name": "Top.gg",
       "sources": [
         "simpleicons"
@@ -307599,16 +307599,16 @@
       "packages": [],
       "color": "FF3366",
       "license": null,
-      "simpleicons_slug": "topgg",
+      "simpleicons_slug": "topdotgg",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/topgg.svg"
+          "simpleicons": "icons/simpleicons/svg/topdotgg.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/topgg.png",
-          "simpleicons/96": "png/simpleicons/96/topgg.png",
-          "simpleicons/192": "png/simpleicons/192/topgg.png",
-          "simpleicons/432": "png/simpleicons/432/topgg.png"
+          "simpleicons/48": "png/simpleicons/48/topdotgg.png",
+          "simpleicons/96": "png/simpleicons/96/topdotgg.png",
+          "simpleicons/192": "png/simpleicons/192/topdotgg.png",
+          "simpleicons/432": "png/simpleicons/432/topdotgg.png"
         }
       }
     },
@@ -311031,21 +311031,21 @@
       ],
       "color": "287DFA",
       "license": null,
-      "simpleicons_slug": "tripcom",
+      "simpleicons_slug": "tripdotcom",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/trip_com.svg",
-          "simpleicons": "icons/simpleicons/svg/tripcom.svg"
+          "simpleicons": "icons/simpleicons/svg/tripdotcom.svg"
         },
         "png": {
           "48": "png/lawnicons/48/trip_com.png",
           "96": "png/lawnicons/96/trip_com.png",
           "192": "png/lawnicons/192/trip_com.png",
           "432": "png/lawnicons/432/trip_com.png",
-          "simpleicons/48": "png/simpleicons/48/tripcom.png",
-          "simpleicons/96": "png/simpleicons/96/tripcom.png",
-          "simpleicons/192": "png/simpleicons/192/tripcom.png",
-          "simpleicons/432": "png/simpleicons/432/tripcom.png"
+          "simpleicons/48": "png/simpleicons/48/tripdotcom.png",
+          "simpleicons/96": "png/simpleicons/96/tripdotcom.png",
+          "simpleicons/192": "png/simpleicons/192/tripdotcom.png",
+          "simpleicons/432": "png/simpleicons/432/tripdotcom.png"
         }
       }
     },
@@ -314897,6 +314897,28 @@
         }
       }
     },
+    "udotsdotnews": {
+      "name": "U.S. News",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "005EA6",
+      "license": null,
+      "simpleicons_slug": "udotsdotnews",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/udotsdotnews.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/udotsdotnews.png",
+          "simpleicons/96": "png/simpleicons/96/udotsdotnews.png",
+          "simpleicons/192": "png/simpleicons/192/udotsdotnews.png",
+          "simpleicons/432": "png/simpleicons/432/udotsdotnews.png"
+        }
+      }
+    },
     "uds": {
       "name": "UDS",
       "sources": [
@@ -315845,7 +315867,7 @@
         }
       }
     },
-    "underscorejs": {
+    "underscoredotjs": {
       "name": "Underscore.js",
       "sources": [
         "simpleicons"
@@ -315854,16 +315876,16 @@
       "packages": [],
       "color": "0371B5",
       "license": null,
-      "simpleicons_slug": "underscorejs",
+      "simpleicons_slug": "underscoredotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/underscorejs.svg"
+          "simpleicons": "icons/simpleicons/svg/underscoredotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/underscorejs.png",
-          "simpleicons/96": "png/simpleicons/96/underscorejs.png",
-          "simpleicons/192": "png/simpleicons/192/underscorejs.png",
-          "simpleicons/432": "png/simpleicons/432/underscorejs.png"
+          "simpleicons/48": "png/simpleicons/48/underscoredotjs.png",
+          "simpleicons/96": "png/simpleicons/96/underscoredotjs.png",
+          "simpleicons/192": "png/simpleicons/192/underscoredotjs.png",
+          "simpleicons/432": "png/simpleicons/432/underscoredotjs.png"
         }
       }
     },
@@ -319035,28 +319057,6 @@
           "simpleicons/96": "png/simpleicons/96/uservoice.png",
           "simpleicons/192": "png/simpleicons/192/uservoice.png",
           "simpleicons/432": "png/simpleicons/432/uservoice.png"
-        }
-      }
-    },
-    "usnews": {
-      "name": "U.S. News",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "005EA6",
-      "license": null,
-      "simpleicons_slug": "usnews",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/usnews.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/usnews.png",
-          "simpleicons/96": "png/simpleicons/96/usnews.png",
-          "simpleicons/192": "png/simpleicons/192/usnews.png",
-          "simpleicons/432": "png/simpleicons/432/usnews.png"
         }
       }
     },
@@ -327447,7 +327447,7 @@
         }
       }
     },
-    "voipms": {
+    "voipdotms": {
       "name": "VoIP.ms",
       "sources": [
         "simpleicons"
@@ -327456,16 +327456,16 @@
       "packages": [],
       "color": "E1382D",
       "license": null,
-      "simpleicons_slug": "voipms",
+      "simpleicons_slug": "voipdotms",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/voipms.svg"
+          "simpleicons": "icons/simpleicons/svg/voipdotms.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/voipms.png",
-          "simpleicons/96": "png/simpleicons/96/voipms.png",
-          "simpleicons/192": "png/simpleicons/192/voipms.png",
-          "simpleicons/432": "png/simpleicons/432/voipms.png"
+          "simpleicons/48": "png/simpleicons/48/voipdotms.png",
+          "simpleicons/96": "png/simpleicons/96/voipdotms.png",
+          "simpleicons/192": "png/simpleicons/192/voipdotms.png",
+          "simpleicons/432": "png/simpleicons/432/voipdotms.png"
         }
       }
     },
@@ -329063,7 +329063,7 @@
         }
       }
     },
-    "vuejs": {
+    "vuedotjs": {
       "name": "Vue.js",
       "sources": [
         "simpleicons"
@@ -329074,16 +329074,16 @@
       "license": {
         "type": "CC-BY-NC-SA-4.0"
       },
-      "simpleicons_slug": "vuejs",
+      "simpleicons_slug": "vuedotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/vuejs.svg"
+          "simpleicons": "icons/simpleicons/svg/vuedotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/vuejs.png",
-          "simpleicons/96": "png/simpleicons/96/vuejs.png",
-          "simpleicons/192": "png/simpleicons/192/vuejs.png",
-          "simpleicons/432": "png/simpleicons/432/vuejs.png"
+          "simpleicons/48": "png/simpleicons/48/vuedotjs.png",
+          "simpleicons/96": "png/simpleicons/96/vuedotjs.png",
+          "simpleicons/192": "png/simpleicons/192/vuedotjs.png",
+          "simpleicons/432": "png/simpleicons/432/vuedotjs.png"
         }
       }
     },
@@ -332785,7 +332785,7 @@
         }
       }
     },
-    "web3js": {
+    "web3dotjs": {
       "name": "Web3.js",
       "sources": [
         "simpleicons"
@@ -332794,16 +332794,16 @@
       "packages": [],
       "color": "F16822",
       "license": null,
-      "simpleicons_slug": "web3js",
+      "simpleicons_slug": "web3dotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/web3js.svg"
+          "simpleicons": "icons/simpleicons/svg/web3dotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/web3js.png",
-          "simpleicons/96": "png/simpleicons/96/web3js.png",
-          "simpleicons/192": "png/simpleicons/192/web3js.png",
-          "simpleicons/432": "png/simpleicons/432/web3js.png"
+          "simpleicons/48": "png/simpleicons/48/web3dotjs.png",
+          "simpleicons/96": "png/simpleicons/96/web3dotjs.png",
+          "simpleicons/192": "png/simpleicons/192/web3dotjs.png",
+          "simpleicons/432": "png/simpleicons/432/web3dotjs.png"
         }
       }
     },
@@ -332848,21 +332848,21 @@
       ],
       "color": "FFD800",
       "license": null,
-      "simpleicons_slug": "webde",
+      "simpleicons_slug": "webdotde",
       "files": {
         "svg": {
           "lawnicons": "icons/lawnicons/svg/web_de.svg",
-          "simpleicons": "icons/simpleicons/svg/webde.svg"
+          "simpleicons": "icons/simpleicons/svg/webdotde.svg"
         },
         "png": {
           "48": "png/lawnicons/48/web_de.png",
           "96": "png/lawnicons/96/web_de.png",
           "192": "png/lawnicons/192/web_de.png",
           "432": "png/lawnicons/432/web_de.png",
-          "simpleicons/48": "png/simpleicons/48/webde.png",
-          "simpleicons/96": "png/simpleicons/96/webde.png",
-          "simpleicons/192": "png/simpleicons/192/webde.png",
-          "simpleicons/432": "png/simpleicons/432/webde.png"
+          "simpleicons/48": "png/simpleicons/48/webdotde.png",
+          "simpleicons/96": "png/simpleicons/96/webdotde.png",
+          "simpleicons/192": "png/simpleicons/192/webdotde.png",
+          "simpleicons/432": "png/simpleicons/432/webdotde.png"
         }
       }
     },
@@ -333010,7 +333010,7 @@
         }
       }
     },
-    "webcomponentsorg": {
+    "webcomponentsdotorg": {
       "name": "webcomponents.org",
       "sources": [
         "simpleicons"
@@ -333019,16 +333019,16 @@
       "packages": [],
       "color": "29ABE2",
       "license": null,
-      "simpleicons_slug": "webcomponentsorg",
+      "simpleicons_slug": "webcomponentsdotorg",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/webcomponentsorg.svg"
+          "simpleicons": "icons/simpleicons/svg/webcomponentsdotorg.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/webcomponentsorg.png",
-          "simpleicons/96": "png/simpleicons/96/webcomponentsorg.png",
-          "simpleicons/192": "png/simpleicons/192/webcomponentsorg.png",
-          "simpleicons/432": "png/simpleicons/432/webcomponentsorg.png"
+          "simpleicons/48": "png/simpleicons/48/webcomponentsdotorg.png",
+          "simpleicons/96": "png/simpleicons/96/webcomponentsdotorg.png",
+          "simpleicons/192": "png/simpleicons/192/webcomponentsdotorg.png",
+          "simpleicons/432": "png/simpleicons/432/webcomponentsdotorg.png"
         }
       }
     },
@@ -333679,7 +333679,7 @@
         }
       }
     },
-    "weightsbiases": {
+    "weightsandbiases": {
       "name": "Weights & Biases",
       "sources": [
         "simpleicons"
@@ -333688,16 +333688,16 @@
       "packages": [],
       "color": "FFBE00",
       "license": null,
-      "simpleicons_slug": "weightsbiases",
+      "simpleicons_slug": "weightsandbiases",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/weightsbiases.svg"
+          "simpleicons": "icons/simpleicons/svg/weightsandbiases.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/weightsbiases.png",
-          "simpleicons/96": "png/simpleicons/96/weightsbiases.png",
-          "simpleicons/192": "png/simpleicons/192/weightsbiases.png",
-          "simpleicons/432": "png/simpleicons/432/weightsbiases.png"
+          "simpleicons/48": "png/simpleicons/48/weightsandbiases.png",
+          "simpleicons/96": "png/simpleicons/96/weightsandbiases.png",
+          "simpleicons/192": "png/simpleicons/192/weightsandbiases.png",
+          "simpleicons/432": "png/simpleicons/432/weightsandbiases.png"
         }
       }
     },
@@ -336198,7 +336198,7 @@
         }
       }
     },
-    "wikigg": {
+    "wikidotgg": {
       "name": "wiki.gg",
       "sources": [
         "simpleicons"
@@ -336207,20 +336207,20 @@
       "packages": [],
       "color": "FF1985",
       "license": null,
-      "simpleicons_slug": "wikigg",
+      "simpleicons_slug": "wikidotgg",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/wikigg.svg"
+          "simpleicons": "icons/simpleicons/svg/wikidotgg.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/wikigg.png",
-          "simpleicons/96": "png/simpleicons/96/wikigg.png",
-          "simpleicons/192": "png/simpleicons/192/wikigg.png",
-          "simpleicons/432": "png/simpleicons/432/wikigg.png"
+          "simpleicons/48": "png/simpleicons/48/wikidotgg.png",
+          "simpleicons/96": "png/simpleicons/96/wikidotgg.png",
+          "simpleicons/192": "png/simpleicons/192/wikidotgg.png",
+          "simpleicons/432": "png/simpleicons/432/wikidotgg.png"
         }
       }
     },
-    "wikijs": {
+    "wikidotjs": {
       "name": "Wiki.js",
       "sources": [
         "simpleicons"
@@ -336229,16 +336229,16 @@
       "packages": [],
       "color": "1976D2",
       "license": null,
-      "simpleicons_slug": "wikijs",
+      "simpleicons_slug": "wikidotjs",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/wikijs.svg"
+          "simpleicons": "icons/simpleicons/svg/wikidotjs.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/wikijs.png",
-          "simpleicons/96": "png/simpleicons/96/wikijs.png",
-          "simpleicons/192": "png/simpleicons/192/wikijs.png",
-          "simpleicons/432": "png/simpleicons/432/wikijs.png"
+          "simpleicons/48": "png/simpleicons/48/wikidotjs.png",
+          "simpleicons/96": "png/simpleicons/96/wikidotjs.png",
+          "simpleicons/192": "png/simpleicons/192/wikidotjs.png",
+          "simpleicons/432": "png/simpleicons/432/wikidotjs.png"
         }
       }
     },
@@ -339097,7 +339097,7 @@
         }
       }
     },
-    "writeas": {
+    "writedotas": {
       "name": "Write.as",
       "sources": [
         "simpleicons"
@@ -339106,16 +339106,16 @@
       "packages": [],
       "color": "5AC4EE",
       "license": null,
-      "simpleicons_slug": "writeas",
+      "simpleicons_slug": "writedotas",
       "files": {
         "svg": {
-          "simpleicons": "icons/simpleicons/svg/writeas.svg"
+          "simpleicons": "icons/simpleicons/svg/writedotas.svg"
         },
         "png": {
-          "simpleicons/48": "png/simpleicons/48/writeas.png",
-          "simpleicons/96": "png/simpleicons/96/writeas.png",
-          "simpleicons/192": "png/simpleicons/192/writeas.png",
-          "simpleicons/432": "png/simpleicons/432/writeas.png"
+          "simpleicons/48": "png/simpleicons/48/writedotas.png",
+          "simpleicons/96": "png/simpleicons/96/writedotas.png",
+          "simpleicons/192": "png/simpleicons/192/writedotas.png",
+          "simpleicons/432": "png/simpleicons/432/writedotas.png"
         }
       }
     },
@@ -340157,6 +340157,28 @@
         }
       }
     },
+    "xdotorg": {
+      "name": "X.Org",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "F28834",
+      "license": null,
+      "simpleicons_slug": "xdotorg",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/xdotorg.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/xdotorg.png",
+          "simpleicons/96": "png/simpleicons/96/xdotorg.png",
+          "simpleicons/192": "png/simpleicons/192/xdotorg.png",
+          "simpleicons/432": "png/simpleicons/432/xdotorg.png"
+        }
+      }
+    },
     "xdownloader": {
       "name": "XDownloader",
       "sources": [
@@ -341082,28 +341104,6 @@
           "96": "png/lawnicons/96/xodo.png",
           "192": "png/lawnicons/192/xodo.png",
           "432": "png/lawnicons/432/xodo.png"
-        }
-      }
-    },
-    "xorg": {
-      "name": "X.Org",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "F28834",
-      "license": null,
-      "simpleicons_slug": "xorg",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/xorg.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/xorg.png",
-          "simpleicons/96": "png/simpleicons/96/xorg.png",
-          "simpleicons/192": "png/simpleicons/192/xorg.png",
-          "simpleicons/432": "png/simpleicons/432/xorg.png"
         }
       }
     },
@@ -346057,6 +346057,28 @@
         }
       }
     },
+    "zabka": {
+      "name": "Żabka",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "006420",
+      "license": null,
+      "simpleicons_slug": "zabka",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/zabka.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/zabka.png",
+          "simpleicons/96": "png/simpleicons/96/zabka.png",
+          "simpleicons/192": "png/simpleicons/192/zabka.png",
+          "simpleicons/432": "png/simpleicons/432/zabka.png"
+        }
+      }
+    },
     "zachranka": {
       "name": "Záchranka",
       "sources": [
@@ -346106,28 +346128,6 @@
           "96": "png/lawnicons/96/zahnputz.png",
           "192": "png/lawnicons/192/zahnputz.png",
           "432": "png/lawnicons/432/zahnputz.png"
-        }
-      }
-    },
-    "zai": {
-      "name": "Z.ai",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "2D2D2D",
-      "license": null,
-      "simpleicons_slug": "zai",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/zai.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/zai.png",
-          "simpleicons/96": "png/simpleicons/96/zai.png",
-          "simpleicons/192": "png/simpleicons/192/zai.png",
-          "simpleicons/432": "png/simpleicons/432/zai.png"
         }
       }
     },
@@ -346787,6 +346787,28 @@
           "simpleicons/96": "png/simpleicons/96/zdf.png",
           "simpleicons/192": "png/simpleicons/192/zdf.png",
           "simpleicons/432": "png/simpleicons/432/zdf.png"
+        }
+      }
+    },
+    "zdotai": {
+      "name": "Z.ai",
+      "sources": [
+        "simpleicons"
+      ],
+      "components": [],
+      "packages": [],
+      "color": "2D2D2D",
+      "license": null,
+      "simpleicons_slug": "zdotai",
+      "files": {
+        "svg": {
+          "simpleicons": "icons/simpleicons/svg/zdotai.svg"
+        },
+        "png": {
+          "simpleicons/48": "png/simpleicons/48/zdotai.png",
+          "simpleicons/96": "png/simpleicons/96/zdotai.png",
+          "simpleicons/192": "png/simpleicons/192/zdotai.png",
+          "simpleicons/432": "png/simpleicons/432/zdotai.png"
         }
       }
     },

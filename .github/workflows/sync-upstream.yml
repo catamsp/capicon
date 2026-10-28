@@ -37,6 +37,11 @@ jobs:
           chmod +x tools/bin/resvg
           tools/bin/resvg --version
 
+      - name: Configure upstream remotes
+        run: |
+          git remote add lawnicons https://github.com/LawnchairLauncher/lawnicons.git || true
+          git remote add simpleicons https://github.com/simple-icons/simple-icons.git || true
+
       - name: Pull lawnicons upstream
         run: |
           git fetch --depth=1 lawnicons develop
