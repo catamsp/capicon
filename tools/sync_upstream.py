@@ -15,6 +15,7 @@ Run from anywhere; all paths are resolved relative to the repo root.
 from __future__ import annotations
 
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -39,11 +40,18 @@ def die(msg: str) -> None:
 
 
 def git_last_sha(prefix: str) -> str:
-    """Last commit touching the subtree prefix == upstream tip for full-history subtrees."""
-    out = subprocess.check_output(
-        ["git", "log", "-1", "--format=%H", "--", prefix], cwd=ROOT, text=True
+    """Recover the vendored upstream commit SHA from the subtree commit message.
+
+    git subtree add/pull embeds the source SHA in the commit subject, e.g.:
+      Add 'third_party/lawnicons/' from commit 'd73df19...'
+      Merge commit 'd73df19...' into main
+      Squashed commit 'd73df19...' (<-- --squash pulls)
+    """
+    subject = subprocess.check_output(
+        ["git", "log", "-1", "--format=%s", "--", prefix], cwd=ROOT, text=True
     ).strip()
-    return out or "unknown"
+    m = re.search(r"\b[0-9a-f]{40}\b", subject)
+    return m.group(0) if m else "unknown"
 
 
 def copy_svgs(src: Path, dst: Path) -> int:

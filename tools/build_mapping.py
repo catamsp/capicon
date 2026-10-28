@@ -53,17 +53,27 @@ def parse_lawnicons() -> dict[str, dict]:
     tree = ET.parse(LAWN_APPFILTER)
     drawables: dict[str, dict] = {}
     for item in tree.getroot().findall("item"):
+        if item.get("drawableIgnore") == "true":
+            continue  # dynamic-calendar placeholders handled by launchers, not the static pack
         component = item.get("component", "")
+        # Upstream wraps components as ComponentInfo{pkg/activity}; canonical form is pkg/activity
+        m = re.fullmatch(r"ComponentInfo\{(.*)\}", component)
+        if m:
+            component = m.group(1)
         drawable = item.get("drawable", "")
         name = item.get("name", "")
         if not component or not drawable:
             continue
-        entry = drawables.setdefault(drawable, {"name": name or drawable, "components": []})
+        entry = drawables.setdefault(drawable, {"name_counts": {}, "components": []})
         entry["components"].append(component)
-        if name and not entry["name"]:
-            entry["name"] = name
+        if name:
+            entry["name_counts"][name] = entry["name_counts"].get(name, 0) + 1
     for entry in drawables.values():
         entry["components"] = sorted(set(entry["components"]))
+        # Most apps share one drawable; pick the name the upstream majority uses
+        # (first-seen wins ties, keeping output deterministic).
+        counts = entry.pop("name_counts")
+        entry["name"] = max(counts.items(), key=lambda kv: (kv[1],))[0] if counts else "?"
     return drawables
 
 
@@ -253,14 +263,17 @@ def main() -> None:
     )
 
     flagged = sorted(
-        {"key": k, "title": v["name"], "license": v["license"]}
-        for k, v in icons.items()
-        if v["sources"] == ["simpleicons"] and v.get("license")
-    , key=lambda d: d["key"])
+        (
+            {"key": k, "title": v["name"], "license": v["license"]}
+            for k, v in icons.items()
+            if v.get("license")
+        ),
+        key=lambda d: d["key"],
+    )
     (REPORTS / "license-review.json").write_text(
         json.dumps(
             {
-                "comment": "Icons carrying explicit per-icon license data from Simple Icons. Review before commercial serving; block via tools/overrides.json simpleicons_license_allowlist is the opposite (allow) - use DENYLIST.json to block.",
+                "comment": "Icons carrying explicit per-icon license data from Simple Icons. These are NOT CC0 - review each before commercial serving. Allow a reviewed icon via tools/overrides.json 'simpleicons_license_allowlist'; block it via DENYLIST.json. validate.py --strict fails on any flagged icon that is not allowlisted.",
                 "icons": flagged,
             },
             indent=2,

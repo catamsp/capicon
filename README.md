@@ -75,6 +75,31 @@ a pull request with a summary of icon changes.
 Add its mapping key to `DENYLIST.json`. It is excluded from every generated
 output at every future sync.
 
+## Commercial compliance triage
+
+`validate.py --strict` (run in CI before any release) **fails** on any icon that
+carries explicit per-icon license data and is not allowlisted. This is the
+intended gate for a commercial product, because Simple Icons is CC0 as a
+collection but many individual brand icons are **not** — see
+`third_party/simple-icons/DISCLAIMER.md`.
+
+Workflow:
+
+1. Read `metadata/reports/license-review.json` (regenerated on every build).
+2. For each icon you actually intend to serve, decide:
+   - **Clear to use** (e.g. permissive MIT / Apache / CC0 / CC-BY) → add its key
+     to `simpleicons_license_allowlist` in `tools/overrides.json`.
+   - **Risky** (`custom` license, or a share-alike/copyleft such as GPL, AGPL,
+     CC-BY-SA, MPL, EUPL) → add its key to `DENYLIST.json` so it is never served.
+3. Re-run `python tools/validate.py --strict`. It only passes once every flagged
+   icon is either allowlisted or denylisted — i.e. nothing ships un-reviewed.
+
+Note that the Lawnicons outline set is Apache-2.0 as a collection; the
+per-icon flags here come from Simple Icons' brand metadata. The brand logos
+third_party itself remains a trademark of each brand regardless of license —
+the license review is a copyright filter, not a trademark clearance.
+
+
 ## License
 
 Original tooling, mapping and capicons: MIT (see `LICENSE`).

@@ -78,7 +78,7 @@ def render(resvg: str, svg: Path, png: Path, size: int) -> None:
 
 
 def main() -> None:
-    only = sys.argv[1] if len(sys.argv) > 1 else None
+    only = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("-") else None
     force = "--force" in sys.argv
 
     resvg = find_resvg()
@@ -87,7 +87,10 @@ def main() -> None:
     if CACHE.is_file() and not force:
         cache = json.loads(CACHE.read_text(encoding="utf-8"))
 
-    rendered = skipped = 0
+    import os
+    from concurrent.futures import ThreadPoolExecutor
+
+    jobs: list[tuple[Path, int, str, str, str]] = []  # (svg, size, cache_key, png, sha)
     for source in SOURCES:
         if only and source != only:
             continue
@@ -106,15 +109,30 @@ def main() -> None:
                     and cache.get(ck, {}).get("resvg") == version
                     and png.is_file()
                 ):
-                    skipped += 1
                     continue
-                render(resvg, svg, png, size)
-                cache[ck] = {"sha": digest, "resvg": version}
-                rendered += 1
-        print(f"{source}: done")
+                jobs.append((svg, size, ck, png, digest))
+
+    if not jobs:
+        print("everything up to date, nothing to render")
+        return
+
+    workers = os.cpu_count() or 4
+
+    def work(job: tuple[Path, int, str, str, str]):
+        svg, size, ck, png, digest = job
+        render(resvg, svg, png, size)
+        return ck, digest
+
+    rendered = 0
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        for ck, digest in pool.map(work, jobs):
+            cache[ck] = {"sha": digest, "resvg": version}
+            rendered += 1
+            if rendered % 5000 == 0:
+                print(f"  {rendered}/{len(jobs)}...")
 
     CACHE.write_text(json.dumps(cache, indent=0, sort_keys=True) + "\n", encoding="utf-8")
-    print(f"rendered {rendered} pngs, skipped {skipped} cached (resvg {version})")
+    print(f"rendered {rendered} pngs with {workers} workers (resvg {version})")
 
 
 if __name__ == "__main__":

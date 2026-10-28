@@ -1,0 +1,87 @@
+name: sync-upstream
+
+on:
+  schedule:
+    # Weekly, Monday 03:00 UTC
+    - cron: '0 3 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+        fetch-depth: 0   # subtree pulls need history
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install resvg
+        run: |
+          curl -sL https://api.github.com/repos/linebender/resvg/releases/latest \
+            | grep 'browser_download_url.*linux-x86_64' \
+            | head -1 | cut -d '"' -f 4 \
+            | xargs -I{} curl -sL {} -o /tmp/resvg.tar.gz
+          mkdir -p tools/bin
+          tar -xzf /tmp/resvg.tar.gz -C tools/bin
+          chmod +x tools/bin/resvg
+          tools/bin/resvg --version
+
+      - name: Pull lawnicons upstream
+        run: |
+          git fetch --depth=1 lawnicons develop
+          SHA=$(git rev-parse FETCH_HEAD)
+          CURRENT=$(python -c "import json;print(json.load(open('upstreams.lock.json'))['lawnicons']['commit'])")
+          if [ "$SHA" != "$CURRENT" ]; then
+            git subtree pull --prefix=third_party/lawnicons lawnicons develop --message="Update third_party/lawnicons to $SHA"
+          else
+            echo "lawnicons already at $SHA"
+          fi
+
+      - name: Pull simple-icons upstream
+        run: |
+          git fetch --depth=1 simpleicons develop
+          SHA=$(git rev-parse FETCH_HEAD)
+          CURRENT=$(python -c "import json;print(json.load(open('upstreams.lock.json'))['simple-icons']['commit'])")
+          if [ "$SHA" != "$CURRENT" ]; then
+            git subtree pull --prefix=third_party/simple-icons simpleicons develop --message="Update third_party/simple-icons to $SHA"
+          else
+            echo "simple-icons already at $SHA"
+          fi
+
+      - name: Rebuild served tree
+        run: |
+          python tools/sync_upstream.py
+          python tools/build_mapping.py
+          python tools/render_png.py
+          python tools/validate.py --strict
+
+      - name: Open PR with changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          add-paths: |
+            icons/
+            png/
+            metadata/
+            upstreams.lock.json
+            third_party/
+          branch: bot/sync-upstream
+          commit-message: 'Sync upstream icons'
+          title: 'Weekly upstream icon sync'
+          body: |
+            Automated sync from Lawnicons and Simple Icons.
+
+            - `upstreams.lock.json` shows the vendored commit SHAs
+            - `metadata/reports/unmatched.json` has join statistics
+            - `metadata/reports/license-review.json` lists icons with explicit per-icon licenses
+            - `validate.py --strict` gates the PR (denylist, missing files, license review)

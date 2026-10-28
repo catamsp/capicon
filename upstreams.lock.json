@@ -2,11 +2,11 @@
   "lawnicons": {
     "url": "https://github.com/LawnchairLauncher/lawnicons",
     "branch": "develop",
-    "commit": "TBD"
+    "commit": "d73df192dc3309be8fa60c5fb069d6654d3a9029"
   },
   "simple-icons": {
     "url": "https://github.com/simple-icons/simple-icons",
     "branch": "develop",
-    "commit": "TBD"
+    "commit": "90646e4bf7f3b89df6c37e65baf3e7bc759a517c"
   }
 }
