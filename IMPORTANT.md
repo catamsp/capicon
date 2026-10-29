@@ -54,7 +54,7 @@ entries, then run the retriage line above).
       `git config user.name "..." && git config user.email "..."`
 - [ ] Create public GitHub repo + `git push -u origin main` (~430 MiB packed)
 - [ ] Actions settings: enable write permissions + "Allow GitHub Actions to create PRs"
-      (needed by `.github/workflows/sync-upstream.yml` weekly sync)
+      (needed by `.github/workflows/sync-upstream.yml` 4-monthly sync)
 - [ ] Settings → Pages → Source: **GitHub Actions** (needed by `.github/workflows/deploy-pages.yml`)
 - [ ] Verify first scheduled sync PR works end-to-end
 - [ ] Tag first release (e.g. `v2026.10.29`) for jsDelivr pinning:

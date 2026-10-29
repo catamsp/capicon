@@ -60,8 +60,8 @@ git subtree pull  --prefix=third_party/lawnicons <lawnicons-remote> develop  # l
 python tools/sync_upstream.py && python tools/build_mapping.py && python tools/render_png.py && python tools/validate.py --strict
 ```
 
-A scheduled GitHub Action (see `.github/workflows/`) runs this weekly and opens
-a pull request with a summary of icon changes.
+A scheduled GitHub Action (see `.github/workflows/`) runs every 4 months
+(January/May/September) and opens a pull request with a summary of icon changes.
 
 ### Adding your own icons (capicons)
 

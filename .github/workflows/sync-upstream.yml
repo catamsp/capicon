@@ -2,8 +2,8 @@ name: sync-upstream
 
 on:
   schedule:
-    # Weekly, Monday 03:00 UTC
-    - cron: '0 3 * * 1'
+    # Every 4 months: 03:00 UTC on the 1st of January / May / September
+    - cron: '0 3 1 */4 *'
   workflow_dispatch: {}
 
 permissions:
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-        fetch-depth: 0   # subtree pulls need history
+          fetch-depth: 0   # subtree pulls need history
 
       - uses: actions/setup-python@v5
         with:
@@ -84,7 +84,7 @@ jobs:
             third_party/
           branch: bot/sync-upstream
           commit-message: 'Sync upstream icons'
-          title: 'Weekly upstream icon sync'
+          title: 'Upstream icon sync'
           body: |
             Automated sync from Lawnicons and Simple Icons.
 
