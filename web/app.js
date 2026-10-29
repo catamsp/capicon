@@ -72,6 +72,7 @@ function render() {
   const html = [];
   for (let i = winStart; i < winEnd; i++) html.push(cell(results[i], i));
   cells.innerHTML = html.join('');
+  paintThumbs(cells);
 }
 
 function cell(key, i) {

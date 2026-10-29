@@ -43981,31 +43981,6 @@
         }
       }
     },
-    "broadcom": {
-      "name": "Broadcom",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "E31837",
-      "license": {
-        "type": "custom",
-        "url": "https://logorequest.broadcom.com/Home.aspx"
-      },
-      "simpleicons_slug": "broadcom",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/broadcom.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/broadcom.png",
-          "simpleicons/96": "png/simpleicons/96/broadcom.png",
-          "simpleicons/192": "png/simpleicons/192/broadcom.png",
-          "simpleicons/432": "png/simpleicons/432/broadcom.png"
-        }
-      }
-    },
     "broccoli": {
       "name": "Broccoli",
       "sources": [
@@ -54415,31 +54390,6 @@
         }
       }
     },
-    "chianetwork": {
-      "name": "Chia Network",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "5ECE71",
-      "license": {
-        "type": "custom",
-        "url": "https://www.chia.net/wp-content/uploads/2022/08/Chia-Trademark-Policy.pdf"
-      },
-      "simpleicons_slug": "chianetwork",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/chianetwork.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/chianetwork.png",
-          "simpleicons/96": "png/simpleicons/96/chianetwork.png",
-          "simpleicons/192": "png/simpleicons/192/chianetwork.png",
-          "simpleicons/432": "png/simpleicons/432/chianetwork.png"
-        }
-      }
-    },
     "chick_fil_a": {
       "name": "Chick-Fil-A",
       "sources": [
@@ -59749,30 +59699,6 @@
         }
       }
     },
-    "cocoapods": {
-      "name": "CocoaPods",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "EE3322",
-      "license": {
-        "type": "CC-BY-NC-4.0"
-      },
-      "simpleicons_slug": "cocoapods",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/cocoapods.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/cocoapods.png",
-          "simpleicons/96": "png/simpleicons/96/cocoapods.png",
-          "simpleicons/192": "png/simpleicons/192/cocoapods.png",
-          "simpleicons/432": "png/simpleicons/432/cocoapods.png"
-        }
-      }
-    },
     "cocos": {
       "name": "Cocos",
       "sources": [
@@ -63933,31 +63859,6 @@
         }
       }
     },
-    "contentstack": {
-      "name": "Contentstack",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "E74C3D",
-      "license": {
-        "type": "custom",
-        "url": "https://www.contentstack.com/legal/terms-of-service"
-      },
-      "simpleicons_slug": "contentstack",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/contentstack.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/contentstack.png",
-          "simpleicons/96": "png/simpleicons/96/contentstack.png",
-          "simpleicons/192": "png/simpleicons/192/contentstack.png",
-          "simpleicons/432": "png/simpleicons/432/contentstack.png"
-        }
-      }
-    },
     "continente": {
       "name": "Continente",
       "sources": [
@@ -64804,31 +64705,6 @@
           "96": "png/lawnicons/96/core.png",
           "192": "png/lawnicons/192/core.png",
           "432": "png/lawnicons/432/core.png"
-        }
-      }
-    },
-    "coreboot": {
-      "name": "Coreboot",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": {
-        "type": "custom",
-        "url": "https://coreboot.org/about.html"
-      },
-      "simpleicons_slug": "coreboot",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/coreboot.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/coreboot.png",
-          "simpleicons/96": "png/simpleicons/96/coreboot.png",
-          "simpleicons/192": "png/simpleicons/192/coreboot.png",
-          "simpleicons/432": "png/simpleicons/432/coreboot.png"
         }
       }
     },
@@ -75816,31 +75692,6 @@
         }
       }
     },
-    "dify": {
-      "name": "Dify",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "0033FF",
-      "license": {
-        "type": "custom",
-        "url": "https://dify.ai/end-user-license-agreement"
-      },
-      "simpleicons_slug": "dify",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/dify.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/dify.png",
-          "simpleicons/96": "png/simpleicons/96/dify.png",
-          "simpleicons/192": "png/simpleicons/192/dify.png",
-          "simpleicons/432": "png/simpleicons/432/dify.png"
-        }
-      }
-    },
     "digg": {
       "name": "Digg",
       "sources": [
@@ -79927,66 +79778,6 @@
           "96": "png/lawnicons/96/dott.png",
           "192": "png/lawnicons/192/dott.png",
           "432": "png/lawnicons/432/dott.png"
-        }
-      }
-    },
-    "douban": {
-      "name": "豆瓣 ~~ Douban",
-      "sources": [
-        "lawnicons",
-        "simpleicons"
-      ],
-      "components": [
-        "com.douban.frodo/com.douban.frodo.activity.SplashActivity"
-      ],
-      "packages": [
-        "com.douban.frodo"
-      ],
-      "color": "2D963D",
-      "license": {
-        "type": "custom",
-        "url": "https://www.douban.com/about/legal#info_data"
-      },
-      "simpleicons_slug": "douban",
-      "files": {
-        "svg": {
-          "lawnicons": "icons/lawnicons/svg/douban.svg",
-          "simpleicons": "icons/simpleicons/svg/douban.svg"
-        },
-        "png": {
-          "48": "png/lawnicons/48/douban.png",
-          "96": "png/lawnicons/96/douban.png",
-          "192": "png/lawnicons/192/douban.png",
-          "432": "png/lawnicons/432/douban.png",
-          "simpleicons/48": "png/simpleicons/48/douban.png",
-          "simpleicons/96": "png/simpleicons/96/douban.png",
-          "simpleicons/192": "png/simpleicons/192/douban.png",
-          "simpleicons/432": "png/simpleicons/432/douban.png"
-        }
-      }
-    },
-    "doubanread": {
-      "name": "Douban Read",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "24D2C8",
-      "license": {
-        "type": "custom",
-        "url": "https://www.douban.com/about/legal#info_data"
-      },
-      "simpleicons_slug": "doubanread",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/doubanread.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/doubanread.png",
-          "simpleicons/96": "png/simpleicons/96/doubanread.png",
-          "simpleicons/192": "png/simpleicons/192/doubanread.png",
-          "simpleicons/432": "png/simpleicons/432/doubanread.png"
         }
       }
     },
@@ -86970,31 +86761,6 @@
           "96": "png/lawnicons/96/eeszt.png",
           "192": "png/lawnicons/192/eeszt.png",
           "432": "png/lawnicons/432/eeszt.png"
-        }
-      }
-    },
-    "effect": {
-      "name": "Effect",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "FFFFFF",
-      "license": {
-        "type": "custom",
-        "url": "https://effectful.co/terms-conditions"
-      },
-      "simpleicons_slug": "effect",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/effect.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/effect.png",
-          "simpleicons/96": "png/simpleicons/96/effect.png",
-          "simpleicons/192": "png/simpleicons/192/effect.png",
-          "simpleicons/432": "png/simpleicons/432/effect.png"
         }
       }
     },
@@ -94402,41 +94168,6 @@
         }
       }
     },
-    "f_lux": {
-      "name": "f.lux",
-      "sources": [
-        "lawnicons",
-        "simpleicons"
-      ],
-      "components": [
-        "com.justgetflux.flux/com.justgetflux.flux.FluxActivity"
-      ],
-      "packages": [
-        "com.justgetflux.flux"
-      ],
-      "color": "5468FF",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
-      },
-      "simpleicons_slug": "flux",
-      "files": {
-        "svg": {
-          "lawnicons": "icons/lawnicons/svg/f_lux.svg",
-          "simpleicons": "icons/simpleicons/svg/flux.svg"
-        },
-        "png": {
-          "48": "png/lawnicons/48/f_lux.png",
-          "96": "png/lawnicons/96/f_lux.png",
-          "192": "png/lawnicons/192/f_lux.png",
-          "432": "png/lawnicons/432/f_lux.png",
-          "simpleicons/48": "png/simpleicons/48/flux.png",
-          "simpleicons/96": "png/simpleicons/96/flux.png",
-          "simpleicons/192": "png/simpleicons/192/flux.png",
-          "simpleicons/432": "png/simpleicons/432/flux.png"
-        }
-      }
-    },
     "f_secure_mobile_security": {
       "name": "F-Secure Mobile Security",
       "sources": [
@@ -96733,31 +96464,6 @@
         }
       }
     },
-    "fcc": {
-      "name": "FCC",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "1C3664",
-      "license": {
-        "type": "custom",
-        "url": "https://www.fcc.gov/licensing"
-      },
-      "simpleicons_slug": "fcc",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/fcc.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/fcc.png",
-          "simpleicons/96": "png/simpleicons/96/fcc.png",
-          "simpleicons/192": "png/simpleicons/192/fcc.png",
-          "simpleicons/432": "png/simpleicons/432/fcc.png"
-        }
-      }
-    },
     "fcitx5_for_android": {
       "name": "Fcitx5 for Android",
       "sources": [
@@ -96930,31 +96636,6 @@
           "96": "png/lawnicons/96/fedilab.png",
           "192": "png/lawnicons/192/fedilab.png",
           "432": "png/lawnicons/432/fedilab.png"
-        }
-      }
-    },
-    "fedora": {
-      "name": "Fedora",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "51A2DA",
-      "license": {
-        "type": "custom",
-        "url": "https://docs.fedoraproject.org/en-US/project/brand/"
-      },
-      "simpleicons_slug": "fedora",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/fedora.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/fedora.png",
-          "simpleicons/96": "png/simpleicons/96/fedora.png",
-          "simpleicons/192": "png/simpleicons/192/fedora.png",
-          "simpleicons/432": "png/simpleicons/432/fedora.png"
         }
       }
     },
@@ -102241,41 +101922,6 @@
           "96": "png/lawnicons/96/flutter_gallery.png",
           "192": "png/lawnicons/192/flutter_gallery.png",
           "432": "png/lawnicons/432/flutter_gallery.png"
-        }
-      }
-    },
-    "flux": {
-      "name": "Flux",
-      "sources": [
-        "lawnicons",
-        "simpleicons"
-      ],
-      "components": [
-        "de.bendix.flux/de.bendix.flux.MainActivity"
-      ],
-      "packages": [
-        "de.bendix.flux"
-      ],
-      "color": "5468FF",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
-      },
-      "simpleicons_slug": "flux",
-      "files": {
-        "svg": {
-          "lawnicons": "icons/lawnicons/svg/flux.svg",
-          "simpleicons": "icons/simpleicons/svg/flux.svg"
-        },
-        "png": {
-          "48": "png/lawnicons/48/flux.png",
-          "96": "png/lawnicons/96/flux.png",
-          "192": "png/lawnicons/192/flux.png",
-          "432": "png/lawnicons/432/flux.png",
-          "simpleicons/48": "png/simpleicons/48/flux.png",
-          "simpleicons/96": "png/simpleicons/96/flux.png",
-          "simpleicons/192": "png/simpleicons/192/flux.png",
-          "simpleicons/432": "png/simpleicons/432/flux.png"
         }
       }
     },
@@ -108806,30 +108452,6 @@
           "96": "png/lawnicons/96/game_space.png",
           "192": "png/lawnicons/192/game_space.png",
           "432": "png/lawnicons/432/game_space.png"
-        }
-      }
-    },
-    "gamebanana": {
-      "name": "GameBanana",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "FCEF40",
-      "license": {
-        "type": "CC-BY-NC-ND-4.0"
-      },
-      "simpleicons_slug": "gamebanana",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/gamebanana.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/gamebanana.png",
-          "simpleicons/96": "png/simpleicons/96/gamebanana.png",
-          "simpleicons/192": "png/simpleicons/192/gamebanana.png",
-          "simpleicons/432": "png/simpleicons/432/gamebanana.png"
         }
       }
     },
@@ -125936,31 +125558,6 @@
         }
       }
     },
-    "graphite_editor": {
-      "name": "Graphite",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "473A3A",
-      "license": {
-        "type": "custom",
-        "url": "https://graphite.art/license/#branding"
-      },
-      "simpleicons_slug": "graphite_editor",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/graphite_editor.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/graphite_editor.png",
-          "simpleicons/96": "png/simpleicons/96/graphite_editor.png",
-          "simpleicons/192": "png/simpleicons/192/graphite_editor.png",
-          "simpleicons/432": "png/simpleicons/432/graphite_editor.png"
-        }
-      }
-    },
     "graphite_icons": {
       "name": "Graphite Icons",
       "sources": [
@@ -129535,31 +129132,6 @@
           "96": "png/lawnicons/96/haraj.png",
           "192": "png/lawnicons/192/haraj.png",
           "432": "png/lawnicons/432/haraj.png"
-        }
-      }
-    },
-    "harbor": {
-      "name": "Harbor",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "60B932",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
-      },
-      "simpleicons_slug": "harbor",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/harbor.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/harbor.png",
-          "simpleicons/96": "png/simpleicons/96/harbor.png",
-          "simpleicons/192": "png/simpleicons/192/harbor.png",
-          "simpleicons/432": "png/simpleicons/432/harbor.png"
         }
       }
     },
@@ -151528,30 +151100,6 @@
         }
       }
     },
-    "jpeg": {
-      "name": "JPEG",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "8A8A8A",
-      "license": {
-        "type": "CC-BY-ND-4.0"
-      },
-      "simpleicons_slug": "jpeg",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/jpeg.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/jpeg.png",
-          "simpleicons/96": "png/simpleicons/96/jpeg.png",
-          "simpleicons/192": "png/simpleicons/192/jpeg.png",
-          "simpleicons/432": "png/simpleicons/432/jpeg.png"
-        }
-      }
-    },
     "jquery": {
       "name": "jQuery",
       "sources": [
@@ -154767,31 +154315,6 @@
         }
       }
     },
-    "kedro": {
-      "name": "Kedro",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "FFC900",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/trademark-usage"
-      },
-      "simpleicons_slug": "kedro",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/kedro.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/kedro.png",
-          "simpleicons/96": "png/simpleicons/96/kedro.png",
-          "simpleicons/192": "png/simpleicons/192/kedro.png",
-          "simpleicons/432": "png/simpleicons/432/kedro.png"
-        }
-      }
-    },
     "keenetic": {
       "name": "Keenetic",
       "sources": [
@@ -155792,31 +155315,6 @@
           "simpleicons/96": "png/simpleicons/96/keycdn.png",
           "simpleicons/192": "png/simpleicons/192/keycdn.png",
           "simpleicons/432": "png/simpleicons/432/keycdn.png"
-        }
-      }
-    },
-    "keycloak": {
-      "name": "Keycloak",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "4D4D4D",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
-      },
-      "simpleicons_slug": "keycloak",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/keycloak.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/keycloak.png",
-          "simpleicons/96": "png/simpleicons/96/keycloak.png",
-          "simpleicons/192": "png/simpleicons/192/keycloak.png",
-          "simpleicons/432": "png/simpleicons/432/keycloak.png"
         }
       }
     },
@@ -163657,31 +163155,6 @@
         }
       }
     },
-    "lemmy": {
-      "name": "Lemmy",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/LemmyNet/lemmy/blob/main/LICENSE"
-      },
-      "simpleicons_slug": "lemmy",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/lemmy.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/lemmy.png",
-          "simpleicons/96": "png/simpleicons/96/lemmy.png",
-          "simpleicons/192": "png/simpleicons/192/lemmy.png",
-          "simpleicons/432": "png/simpleicons/432/lemmy.png"
-        }
-      }
-    },
     "lemmy_redirect": {
       "name": "Lemmy Redirect",
       "sources": [
@@ -164532,30 +164005,6 @@
           "96": "png/lawnicons/96/letras.png",
           "192": "png/lawnicons/192/letras.png",
           "432": "png/lawnicons/432/letras.png"
-        }
-      }
-    },
-    "letsencrypt": {
-      "name": "Let's Encrypt",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "003A70",
-      "license": {
-        "type": "CC-BY-NC-4.0"
-      },
-      "simpleicons_slug": "letsencrypt",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/letsencrypt.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/letsencrypt.png",
-          "simpleicons/96": "png/simpleicons/96/letsencrypt.png",
-          "simpleicons/192": "png/simpleicons/192/letsencrypt.png",
-          "simpleicons/432": "png/simpleicons/432/letsencrypt.png"
         }
       }
     },
@@ -187531,44 +186980,6 @@
         }
       }
     },
-    "minimax": {
-      "name": "MiniMax",
-      "sources": [
-        "lawnicons",
-        "simpleicons"
-      ],
-      "components": [
-        "com.minimax.ai/com.xproducer.yingshi.MainActivity",
-        "com.minimax.ai/com.xproducer.yingshi.app.MainSplashActivity",
-        "com.xproducer.yingshiai/com.xproducer.yingshi.app.MainSplashActivity"
-      ],
-      "packages": [
-        "com.minimax.ai",
-        "com.xproducer.yingshiai"
-      ],
-      "color": "E73562",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/simple-icons/simple-icons/pull/13982#issuecomment-3531627803"
-      },
-      "simpleicons_slug": "minimax",
-      "files": {
-        "svg": {
-          "lawnicons": "icons/lawnicons/svg/minimax.svg",
-          "simpleicons": "icons/simpleicons/svg/minimax.svg"
-        },
-        "png": {
-          "48": "png/lawnicons/48/minimax.png",
-          "96": "png/lawnicons/96/minimax.png",
-          "192": "png/lawnicons/192/minimax.png",
-          "432": "png/lawnicons/432/minimax.png",
-          "simpleicons/48": "png/simpleicons/48/minimax.png",
-          "simpleicons/96": "png/simpleicons/96/minimax.png",
-          "simpleicons/192": "png/simpleicons/192/minimax.png",
-          "simpleicons/432": "png/simpleicons/432/minimax.png"
-        }
-      }
-    },
     "minimus_icons": {
       "name": "Minimus Icons",
       "sources": [
@@ -188316,30 +187727,6 @@
           "96": "png/lawnicons/96/missingcore_music.png",
           "192": "png/lawnicons/192/missingcore_music.png",
           "432": "png/lawnicons/432/missingcore_music.png"
-        }
-      }
-    },
-    "misskey": {
-      "name": "Misskey",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "A1CA03",
-      "license": {
-        "type": "CC-BY-NC-SA-4.0"
-      },
-      "simpleicons_slug": "misskey",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/misskey.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/misskey.png",
-          "simpleicons/96": "png/simpleicons/96/misskey.png",
-          "simpleicons/192": "png/simpleicons/192/misskey.png",
-          "simpleicons/432": "png/simpleicons/432/misskey.png"
         }
       }
     },
@@ -210060,30 +209447,6 @@
           "96": "png/lawnicons/96/node_video.png",
           "192": "png/lawnicons/192/node_video.png",
           "432": "png/lawnicons/432/node_video.png"
-        }
-      }
-    },
-    "nodebb": {
-      "name": "NodeBB",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "1E5EBC",
-      "license": {
-        "type": "CC-BY-NC-4.0"
-      },
-      "simpleicons_slug": "nodebb",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/nodebb.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/nodebb.png",
-          "simpleicons/96": "png/simpleicons/96/nodebb.png",
-          "simpleicons/192": "png/simpleicons/192/nodebb.png",
-          "simpleicons/432": "png/simpleicons/432/nodebb.png"
         }
       }
     },
@@ -236933,31 +236296,6 @@
         }
       }
     },
-    "pleroma": {
-      "name": "Pleroma",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "FBA457",
-      "license": {
-        "type": "custom",
-        "url": "https://git.pleroma.social/pleroma/pleroma/-/blob/develop/COPYING"
-      },
-      "simpleicons_slug": "pleroma",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/pleroma.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/pleroma.png",
-          "simpleicons/96": "png/simpleicons/96/pleroma.png",
-          "simpleicons/192": "png/simpleicons/192/pleroma.png",
-          "simpleicons/432": "png/simpleicons/432/pleroma.png"
-        }
-      }
-    },
     "plesk": {
       "name": "Plesk",
       "sources": [
@@ -245533,30 +244871,6 @@
         }
       }
     },
-    "pycqa": {
-      "name": "PyCQA",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "201B44",
-      "license": {
-        "type": "CC-BY-NC-ND-4.0"
-      },
-      "simpleicons_slug": "pycqa",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/pycqa.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/pycqa.png",
-          "simpleicons/96": "png/simpleicons/96/pycqa.png",
-          "simpleicons/192": "png/simpleicons/192/pycqa.png",
-          "simpleicons/432": "png/simpleicons/432/pycqa.png"
-        }
-      }
-    },
     "pydantic": {
       "name": "Pydantic",
       "sources": [
@@ -245988,31 +245302,6 @@
           "96": "png/lawnicons/96/qantas_entertainment.png",
           "192": "png/lawnicons/192/qantas_entertainment.png",
           "432": "png/lawnicons/432/qantas_entertainment.png"
-        }
-      }
-    },
-    "qase": {
-      "name": "Qase",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "4F46DC",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/simple-icons/simple-icons/pull/9907#issuecomment-1831377594"
-      },
-      "simpleicons_slug": "qase",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/qase.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/qase.png",
-          "simpleicons/96": "png/simpleicons/96/qase.png",
-          "simpleicons/192": "png/simpleicons/192/qase.png",
-          "simpleicons/432": "png/simpleicons/432/qase.png"
         }
       }
     },
@@ -247391,31 +246680,6 @@
           "simpleicons/96": "png/simpleicons/96/quarto.png",
           "simpleicons/192": "png/simpleicons/192/quarto.png",
           "simpleicons/432": "png/simpleicons/432/quarto.png"
-        }
-      }
-    },
-    "quasar": {
-      "name": "Quasar",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "050A14",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/quasarframework/quasar-art/blob/6300e95687a923cd027dc4b8c356dd4e0cea618f/LICENSE"
-      },
-      "simpleicons_slug": "quasar",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/quasar.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/quasar.png",
-          "simpleicons/96": "png/simpleicons/96/quasar.png",
-          "simpleicons/192": "png/simpleicons/192/quasar.png",
-          "simpleicons/432": "png/simpleicons/432/quasar.png"
         }
       }
     },
@@ -258058,30 +257322,6 @@
         }
       }
     },
-    "robotframework": {
-      "name": "Robot Framework",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": {
-        "type": "CC-BY-NC-SA-4.0"
-      },
-      "simpleicons_slug": "robotframework",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/robotframework.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/robotframework.png",
-          "simpleicons/96": "png/simpleicons/96/robotframework.png",
-          "simpleicons/192": "png/simpleicons/192/robotframework.png",
-          "simpleicons/432": "png/simpleicons/432/robotframework.png"
-        }
-      }
-    },
     "rock_am_ring": {
       "name": "Rock am Ring",
       "sources": [
@@ -259833,30 +259073,6 @@
         }
       }
     },
-    "rubocop": {
-      "name": "RuboCop",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "000000",
-      "license": {
-        "type": "CC-BY-NC-4.0"
-      },
-      "simpleicons_slug": "rubocop",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/rubocop.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/rubocop.png",
-          "simpleicons/96": "png/simpleicons/96/rubocop.png",
-          "simpleicons/192": "png/simpleicons/192/rubocop.png",
-          "simpleicons/432": "png/simpleicons/432/rubocop.png"
-        }
-      }
-    },
     "ruby": {
       "name": "Ruby",
       "sources": [
@@ -260776,31 +259992,6 @@
           "simpleicons/96": "png/simpleicons/96/rustdesk.png",
           "simpleicons/192": "png/simpleicons/192/rustdesk.png",
           "simpleicons/432": "png/simpleicons/432/rustdesk.png"
-        }
-      }
-    },
-    "rustfs": {
-      "name": "RustFS",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "0196D0",
-      "license": {
-        "type": "custom",
-        "url": "https://docs.rustfs.com/trademark/#trademark-usage-policy-document"
-      },
-      "simpleicons_slug": "rustfs",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/rustfs.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/rustfs.png",
-          "simpleicons/96": "png/simpleicons/96/rustfs.png",
-          "simpleicons/192": "png/simpleicons/192/rustfs.png",
-          "simpleicons/432": "png/simpleicons/432/rustfs.png"
         }
       }
     },
@@ -265376,30 +264567,6 @@
           "simpleicons/96": "png/simpleicons/96/sartorius.png",
           "simpleicons/192": "png/simpleicons/192/sartorius.png",
           "simpleicons/432": "png/simpleicons/432/sartorius.png"
-        }
-      }
-    },
-    "sass": {
-      "name": "Sass",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "CC6699",
-      "license": {
-        "type": "CC-BY-NC-SA-3.0"
-      },
-      "simpleicons_slug": "sass",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/sass.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/sass.png",
-          "simpleicons/96": "png/simpleicons/96/sass.png",
-          "simpleicons/192": "png/simpleicons/192/sass.png",
-          "simpleicons/432": "png/simpleicons/432/sass.png"
         }
       }
     },
@@ -277607,30 +276774,6 @@
           "96": "png/lawnicons/96/sling_money.png",
           "192": "png/lawnicons/192/sling_money.png",
           "432": "png/lawnicons/432/sling_money.png"
-        }
-      }
-    },
-    "slint": {
-      "name": "Slint",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "2379F4",
-      "license": {
-        "type": "CC-BY-ND-4.0"
-      },
-      "simpleicons_slug": "slint",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/slint.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/slint.png",
-          "simpleicons/96": "png/simpleicons/96/slint.png",
-          "simpleicons/192": "png/simpleicons/192/slint.png",
-          "simpleicons/432": "png/simpleicons/432/slint.png"
         }
       }
     },
@@ -297714,30 +296857,6 @@
           "96": "png/lawnicons/96/tatra_banka.png",
           "192": "png/lawnicons/192/tatra_banka.png",
           "432": "png/lawnicons/432/tatra_banka.png"
-        }
-      }
-    },
-    "tauri": {
-      "name": "Tauri",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "24C8D8",
-      "license": {
-        "type": "CC-BY-NC-ND-4.0"
-      },
-      "simpleicons_slug": "tauri",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/tauri.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/tauri.png",
-          "simpleicons/96": "png/simpleicons/96/tauri.png",
-          "simpleicons/192": "png/simpleicons/192/tauri.png",
-          "simpleicons/432": "png/simpleicons/432/tauri.png"
         }
       }
     },
@@ -329063,30 +328182,6 @@
         }
       }
     },
-    "vuedotjs": {
-      "name": "Vue.js",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "4FC08D",
-      "license": {
-        "type": "CC-BY-NC-SA-4.0"
-      },
-      "simpleicons_slug": "vuedotjs",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/vuedotjs.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/vuedotjs.png",
-          "simpleicons/96": "png/simpleicons/96/vuedotjs.png",
-          "simpleicons/192": "png/simpleicons/192/vuedotjs.png",
-          "simpleicons/432": "png/simpleicons/432/vuedotjs.png"
-        }
-      }
-    },
     "vuetify": {
       "name": "Vuetify",
       "sources": [
@@ -333080,43 +332175,6 @@
         }
       }
     },
-    "webex": {
-      "name": "Webex",
-      "sources": [
-        "lawnicons",
-        "simpleicons"
-      ],
-      "components": [
-        "com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting",
-        "com.cisco.wx2.android/com.webex.teams.WebexLauncherActivity"
-      ],
-      "packages": [
-        "com.cisco.webex.meetings",
-        "com.cisco.wx2.android"
-      ],
-      "color": "000000",
-      "license": {
-        "type": "custom",
-        "url": "https://www.cisco.com/c/en/us/about/legal/trademarks.html"
-      },
-      "simpleicons_slug": "webex",
-      "files": {
-        "svg": {
-          "lawnicons": "icons/lawnicons/svg/webex.svg",
-          "simpleicons": "icons/simpleicons/svg/webex.svg"
-        },
-        "png": {
-          "48": "png/lawnicons/48/webex.png",
-          "96": "png/lawnicons/96/webex.png",
-          "192": "png/lawnicons/192/webex.png",
-          "432": "png/lawnicons/432/webex.png",
-          "simpleicons/48": "png/simpleicons/48/webex.png",
-          "simpleicons/96": "png/simpleicons/96/webex.png",
-          "simpleicons/192": "png/simpleicons/192/webex.png",
-          "simpleicons/432": "png/simpleicons/432/webex.png"
-        }
-      }
-    },
     "webflow": {
       "name": "Webflow",
       "sources": [
@@ -333329,31 +332387,6 @@
           "96": "png/lawnicons/96/webnovel.png",
           "192": "png/lawnicons/192/webnovel.png",
           "432": "png/lawnicons/432/webnovel.png"
-        }
-      }
-    },
-    "webpack": {
-      "name": "Webpack",
-      "sources": [
-        "simpleicons"
-      ],
-      "components": [],
-      "packages": [],
-      "color": "8DD6F9",
-      "license": {
-        "type": "custom",
-        "url": "https://js.foundation/about/governance/trademark-policy"
-      },
-      "simpleicons_slug": "webpack",
-      "files": {
-        "svg": {
-          "simpleicons": "icons/simpleicons/svg/webpack.svg"
-        },
-        "png": {
-          "simpleicons/48": "png/simpleicons/48/webpack.png",
-          "simpleicons/96": "png/simpleicons/96/webpack.png",
-          "simpleicons/192": "png/simpleicons/192/webpack.png",
-          "simpleicons/432": "png/simpleicons/432/webpack.png"
         }
       }
     },

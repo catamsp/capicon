@@ -387,14 +387,6 @@
       }
     },
     {
-      "key": "broadcom",
-      "title": "Broadcom",
-      "license": {
-        "type": "custom",
-        "url": "https://logorequest.broadcom.com/Home.aspx"
-      }
-    },
-    {
       "key": "canonical",
       "title": "Canonical",
       "license": {
@@ -409,21 +401,6 @@
       }
     },
     {
-      "key": "chianetwork",
-      "title": "Chia Network",
-      "license": {
-        "type": "custom",
-        "url": "https://www.chia.net/wp-content/uploads/2022/08/Chia-Trademark-Policy.pdf"
-      }
-    },
-    {
-      "key": "cocoapods",
-      "title": "CocoaPods",
-      "license": {
-        "type": "CC-BY-NC-4.0"
-      }
-    },
-    {
       "key": "codeberg",
       "title": "Codeberg",
       "license": {
@@ -431,26 +408,10 @@
       }
     },
     {
-      "key": "contentstack",
-      "title": "Contentstack",
-      "license": {
-        "type": "custom",
-        "url": "https://www.contentstack.com/legal/terms-of-service"
-      }
-    },
-    {
       "key": "conventionalcommits",
       "title": "Conventional Commits",
       "license": {
         "type": "MIT"
-      }
-    },
-    {
-      "key": "coreboot",
-      "title": "Coreboot",
-      "license": {
-        "type": "custom",
-        "url": "https://coreboot.org/about.html"
       }
     },
     {
@@ -503,14 +464,6 @@
       }
     },
     {
-      "key": "dify",
-      "title": "Dify",
-      "license": {
-        "type": "custom",
-        "url": "https://dify.ai/end-user-license-agreement"
-      }
-    },
-    {
       "key": "dolibarr",
       "title": "Dolibarr",
       "license": {
@@ -525,30 +478,6 @@
       }
     },
     {
-      "key": "douban",
-      "title": "豆瓣 ~~ Douban",
-      "license": {
-        "type": "custom",
-        "url": "https://www.douban.com/about/legal#info_data"
-      }
-    },
-    {
-      "key": "doubanread",
-      "title": "Douban Read",
-      "license": {
-        "type": "custom",
-        "url": "https://www.douban.com/about/legal#info_data"
-      }
-    },
-    {
-      "key": "effect",
-      "title": "Effect",
-      "license": {
-        "type": "custom",
-        "url": "https://effectful.co/terms-conditions"
-      }
-    },
-    {
       "key": "exercism",
       "title": "Exercism",
       "license": {
@@ -560,30 +489,6 @@
       "title": "F-Droid",
       "license": {
         "type": "CC-BY-SA-3.0"
-      }
-    },
-    {
-      "key": "f_lux",
-      "title": "f.lux",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
-      }
-    },
-    {
-      "key": "fcc",
-      "title": "FCC",
-      "license": {
-        "type": "custom",
-        "url": "https://www.fcc.gov/licensing"
-      }
-    },
-    {
-      "key": "fedora",
-      "title": "Fedora",
-      "license": {
-        "type": "custom",
-        "url": "https://docs.fedoraproject.org/en-US/project/brand/"
       }
     },
     {
@@ -615,14 +520,6 @@
       }
     },
     {
-      "key": "flux",
-      "title": "Flux",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
-      }
-    },
-    {
       "key": "forgejo",
       "title": "Forgejo",
       "license": {
@@ -641,13 +538,6 @@
       "title": "freedesktop.org",
       "license": {
         "type": "GPL-2.0-or-later"
-      }
-    },
-    {
-      "key": "gamebanana",
-      "title": "GameBanana",
-      "license": {
-        "type": "CC-BY-NC-ND-4.0"
       }
     },
     {
@@ -749,14 +639,6 @@
       }
     },
     {
-      "key": "graphite_editor",
-      "title": "Graphite",
-      "license": {
-        "type": "custom",
-        "url": "https://graphite.art/license/#branding"
-      }
-    },
-    {
       "key": "greasyfork",
       "title": "Greasy Fork",
       "license": {
@@ -775,14 +657,6 @@
       "title": "gulp",
       "license": {
         "type": "CC0-1.0"
-      }
-    },
-    {
-      "key": "harbor",
-      "title": "Harbor",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
       }
     },
     {
@@ -870,33 +744,10 @@
       }
     },
     {
-      "key": "jpeg",
-      "title": "JPEG",
-      "license": {
-        "type": "CC-BY-ND-4.0"
-      }
-    },
-    {
       "key": "kando",
       "title": "Kando",
       "license": {
         "type": "CC-BY-4.0"
-      }
-    },
-    {
-      "key": "kedro",
-      "title": "Kedro",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/trademark-usage"
-      }
-    },
-    {
-      "key": "keycloak",
-      "title": "Keycloak",
-      "license": {
-        "type": "custom",
-        "url": "https://www.linuxfoundation.org/legal/trademark-usage"
       }
     },
     {
@@ -918,21 +769,6 @@
       "title": "Lawnicons",
       "license": {
         "type": "CC0-1.0"
-      }
-    },
-    {
-      "key": "lemmy",
-      "title": "Lemmy",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/LemmyNet/lemmy/blob/main/LICENSE"
-      }
-    },
-    {
-      "key": "letsencrypt",
-      "title": "Let's Encrypt",
-      "license": {
-        "type": "CC-BY-NC-4.0"
       }
     },
     {
@@ -1041,21 +877,6 @@
       }
     },
     {
-      "key": "minimax",
-      "title": "MiniMax",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/simple-icons/simple-icons/pull/13982#issuecomment-3531627803"
-      }
-    },
-    {
-      "key": "misskey",
-      "title": "Misskey",
-      "license": {
-        "type": "CC-BY-NC-SA-4.0"
-      }
-    },
-    {
       "key": "monero",
       "title": "Monero",
       "license": {
@@ -1109,13 +930,6 @@
       "title": "NixOS",
       "license": {
         "type": "CC-BY-4.0"
-      }
-    },
-    {
-      "key": "nodebb",
-      "title": "NodeBB",
-      "license": {
-        "type": "CC-BY-NC-4.0"
       }
     },
     {
@@ -1210,41 +1024,10 @@
       }
     },
     {
-      "key": "pleroma",
-      "title": "Pleroma",
-      "license": {
-        "type": "custom",
-        "url": "https://git.pleroma.social/pleroma/pleroma/-/blob/develop/COPYING"
-      }
-    },
-    {
       "key": "purescript",
       "title": "PureScript",
       "license": {
         "type": "CC-BY-4.0"
-      }
-    },
-    {
-      "key": "pycqa",
-      "title": "PyCQA",
-      "license": {
-        "type": "CC-BY-NC-ND-4.0"
-      }
-    },
-    {
-      "key": "qase",
-      "title": "Qase",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/simple-icons/simple-icons/pull/9907#issuecomment-1831377594"
-      }
-    },
-    {
-      "key": "quasar",
-      "title": "Quasar",
-      "license": {
-        "type": "custom",
-        "url": "https://github.com/quasarframework/quasar-art/blob/6300e95687a923cd027dc4b8c356dd4e0cea618f/LICENSE"
       }
     },
     {
@@ -1276,13 +1059,6 @@
       }
     },
     {
-      "key": "robotframework",
-      "title": "Robot Framework",
-      "license": {
-        "type": "CC-BY-NC-SA-4.0"
-      }
-    },
-    {
       "key": "rocksdb",
       "title": "RocksDB",
       "license": {
@@ -1311,13 +1087,6 @@
       }
     },
     {
-      "key": "rubocop",
-      "title": "RuboCop",
-      "license": {
-        "type": "CC-BY-NC-4.0"
-      }
-    },
-    {
       "key": "ruby",
       "title": "Ruby",
       "license": {
@@ -1329,14 +1098,6 @@
       "title": "Rust",
       "license": {
         "type": "CC-BY-SA-4.0"
-      }
-    },
-    {
-      "key": "rustfs",
-      "title": "RustFS",
-      "license": {
-        "type": "custom",
-        "url": "https://docs.rustfs.com/trademark/#trademark-usage-policy-document"
       }
     },
     {
@@ -1361,13 +1122,6 @@
       }
     },
     {
-      "key": "sass",
-      "title": "Sass",
-      "license": {
-        "type": "CC-BY-NC-SA-3.0"
-      }
-    },
-    {
       "key": "setuptools",
       "title": "Setuptools",
       "license": {
@@ -1379,13 +1133,6 @@
       "title": "Sidekiq",
       "license": {
         "type": "CC-BY-SA-4.0"
-      }
-    },
-    {
-      "key": "slint",
-      "title": "Slint",
-      "license": {
-        "type": "CC-BY-ND-4.0"
       }
     },
     {
@@ -1466,13 +1213,6 @@
       }
     },
     {
-      "key": "tauri",
-      "title": "Tauri",
-      "license": {
-        "type": "CC-BY-NC-ND-4.0"
-      }
-    },
-    {
       "key": "textual",
       "title": "Textual",
       "license": {
@@ -1522,13 +1262,6 @@
       }
     },
     {
-      "key": "vuedotjs",
-      "title": "Vue.js",
-      "license": {
-        "type": "CC-BY-NC-SA-4.0"
-      }
-    },
-    {
       "key": "vuetify",
       "title": "Vuetify",
       "license": {
@@ -1543,14 +1276,6 @@
       }
     },
     {
-      "key": "webex",
-      "title": "Webex",
-      "license": {
-        "type": "custom",
-        "url": "https://www.cisco.com/c/en/us/about/legal/trademarks.html"
-      }
-    },
-    {
       "key": "webgpu",
       "title": "WebGPU",
       "license": {
@@ -1562,14 +1287,6 @@
       "title": "Weblate",
       "license": {
         "type": "GPL-3.0-only"
-      }
-    },
-    {
-      "key": "webpack",
-      "title": "Webpack",
-      "license": {
-        "type": "custom",
-        "url": "https://js.foundation/about/governance/trademark-policy"
       }
     },
     {

@@ -58,7 +58,9 @@ def main() -> int:
     deny = json.loads((ROOT / "DENYLIST.json").read_text(encoding="utf-8"))
     overrides = json.loads((ROOT / "tools" / "overrides.json").read_text(encoding="utf-8"))
     allowlist = set(overrides.get("simpleicons_license_allowlist", []))
-    denied = set(deny.get("icons", []))
+    denied = {
+        e["key"] for e in deny.get("icons", []) if isinstance(e, dict) and "key" in e
+    }
 
     icons = mapping["icons"]
     records = []

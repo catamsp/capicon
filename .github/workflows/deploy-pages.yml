@@ -8,7 +8,7 @@ on:
       - "icons/**/svg/**"
       - "png/**/48/**"
       - "web/**"
-      - "tools/build_site.py"
+      - "tools/**"
       - "DENYLIST.json"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:

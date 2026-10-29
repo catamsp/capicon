@@ -6439,7 +6439,6 @@
     <item component="net.sunjiao.renamer/net.sunjiao.renamer.MainActivity" drawable="flut_renamer" name="Flut Renamer" />
     <item component="io.flutter.demo.gallery/io.flutter.demo.gallery.MainActivity" drawable="flutter_gallery" name="Flutter Gallery" />
     <item component="mrrfv.backup.companion/mrrfv.backup.companion.MainActivity" drawable="flutter_gallery" name="Flutter Gallery" />
-    <item component="de.bendix.flux/de.bendix.flux.MainActivity" drawable="flux" name="Flux" />
     <item component="com.flux/com.flux.MainActivity" drawable="flux_connect" name="Flux Connect" />
     <item component="com.romowtheme.fluxo/com.romowtheme.fluxo.activities.SplashActivity" drawable="fluxo_icons" name="Fluxo Icons" />
     <item component="world.fly.corp/com.google.android.archive.ReactivateActivity" drawable="fly_corp" name="Fly Corp" />
@@ -11125,9 +11124,6 @@
     <item component="umito.android.minipiano/umito.android.shared.minipiano.SplashScreenActivity" drawable="generic_piano" name="Mini Piano" />
     <item component="umito.android.minipiano/umito.android.shared.minipiano.splashscreen.SplashScreenActivity" drawable="generic_piano" name="Mini Piano" />
     <item component="umito.android.minipiano_pro/umito.android.shared.minipiano.SplashScreenActivity" drawable="generic_piano_pro" name="Mini Piano Pro" />
-    <item component="com.minimax.ai/com.xproducer.yingshi.MainActivity" drawable="minimax" name="MiniMax" />
-    <item component="com.minimax.ai/com.xproducer.yingshi.app.MainSplashActivity" drawable="minimax" name="MiniMax" />
-    <item component="com.xproducer.yingshiai/com.xproducer.yingshi.app.MainSplashActivity" drawable="minimax" name="MiniMax" />
     <item component="be.martinelli.miniflutt/be.martinelli.miniflutt.MainActivity" drawable="miniflutt" name="Miniflutt" />
     <item component="be.martinelli.miniflutt/io.flutter.embedding.android.FlutterActivity" drawable="miniflutt" name="Miniflutt" />
     <item component="tech.robogami.chess/tech.robogami.chess.activity.MainActivity" drawable="minimal_chess" name="Minimal Chess" />
@@ -20133,8 +20129,6 @@
     <item component="com.dergoogler.mmrl.wx/com.dergoogler.mmrl.wx.ui.activity.CrashHandlerActivity" drawable="webui_x" name="WebUI X" />
     <item component="com.dergoogler.mmrl.wx/com.dergoogler.mmrl.wx.ui.activity.MainActivity" drawable="webui_x" name="WebUI X" />
     <item component="es.miotek.webel/es.miotek.webel.domain.splash.SplashActivity" drawable="webel" name="Webel" />
-    <item component="com.cisco.webex.meetings/com.cisco.webex.meetings.ui.premeeting.welcome.WebExMeeting" drawable="webex" name="Webex" />
-    <item component="com.cisco.wx2.android/com.webex.teams.WebexLauncherActivity" drawable="webex" name="Webex" />
     <item component="jp.weblio.smpapp.ejje/jp.weblio.smpapp.ejje.ui.MainActivity" drawable="weblio" name="Weblio" />
     <item component="org.dayup.stocks/org.dayup.stocks.splash.SplashActivity" drawable="webull" name="Webull" />
     <item component="com.sampleb3.novel/com.sampleb3.novel.ui.NovelListActivity" drawable="web_novel_reader" name="Web小説リーダー ~~ Web Novel Reader" />
@@ -21421,7 +21415,6 @@
     <item component="com.exteragram.messenger/org.telegram.ui.LaunchActivity" drawable="exteragram" name="exteraGram" />
     <item component="org.telegram.messenger/com.exteragram.messenger.ExteraIcon" drawable="exteragram" name="exteraGram" />
     <item component="com.digitalchina.mobile.dfhfz1/com.systoon.toon.user.login.view.WelcomeActivity" drawable="e_fuzhou" name="e福州 ~~ eFuzhou" />
-    <item component="com.justgetflux.flux/com.justgetflux.flux.FluxActivity" drawable="f_lux" name="f.lux" />
     <item component="business.braid.f_wallet/business.braid.f_wallet.MainActivity" drawable="fwallet" name="fWallet" />
     <item component="moe.zhs.monochrome/moe.zhs.monochrome.ui.MainActivity" drawable="fwallet" name="fWallet" />
     <item component="de.filmfriend/FilmwerteVod.App.Android.Common.Application.MainActivity" drawable="filmfriend" name="filmfriend" />
@@ -22871,7 +22864,6 @@
     <item component="jp.seibugroup.seiburailway.seibuapp.client/jp.seibugroup.seiburailway.seibuapp.client.view.splash.SplashActivity" drawable="seibu_line" name="西武線アプリ ~~ Seibu Line" />
     <item component="jp.seibugroup.seiburailway.seibuapp.client/jp.seibugroup.seiburailway.seibuapp.client.view.splash.SplashActivity_" drawable="seibu_line" name="西武線アプリ ~~ Seibu Line" />
     <item component="info.ebstudio.bookviewer.free/info.ebstudio.bookviewer.free.BookViewerActivity" drawable="readfriend_lite" name="読書尚友 Lite ~~ Readfriend Lite" />
-    <item component="com.douban.frodo/com.douban.frodo.activity.SplashActivity" drawable="douban" name="豆瓣 ~~ Douban" />
     <item component="com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivity" drawable="tieba_lite" name="贴吧 Lite ~~ Tieba Lite" />
     <item component="com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivityIconInvert" drawable="tieba_lite" name="贴吧 Lite ~~ Tieba Lite" />
     <item component="com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivityIconThemed" drawable="tieba_lite" name="贴吧 Lite ~~ Tieba Lite" />

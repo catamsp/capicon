@@ -1,3 +1,148 @@
 {
-  "icons": []
+  "icons": [
+    {
+      "title": "Broadcom",
+      "slug": "broadcom"
+    },
+    {
+      "title": "Chia Network",
+      "slug": "chianetwork"
+    },
+    {
+      "title": "CocoaPods",
+      "slug": "cocoapods"
+    },
+    {
+      "title": "Contentstack",
+      "slug": "contentstack"
+    },
+    {
+      "title": "Coreboot",
+      "slug": "coreboot"
+    },
+    {
+      "title": "Dify",
+      "slug": "dify"
+    },
+    {
+      "title": "Douban",
+      "slug": "douban"
+    },
+    {
+      "title": "Douban Read",
+      "slug": "doubanread"
+    },
+    {
+      "title": "Effect",
+      "slug": "effect"
+    },
+    {
+      "title": "FCC",
+      "slug": "fcc"
+    },
+    {
+      "title": "Fedora",
+      "slug": "fedora"
+    },
+    {
+      "title": "Flux",
+      "slug": "flux"
+    },
+    {
+      "title": "GameBanana",
+      "slug": "gamebanana"
+    },
+    {
+      "title": "Graphite",
+      "slug": "graphite_editor"
+    },
+    {
+      "title": "Harbor",
+      "slug": "harbor"
+    },
+    {
+      "title": "JPEG",
+      "slug": "jpeg"
+    },
+    {
+      "title": "Kedro",
+      "slug": "kedro"
+    },
+    {
+      "title": "Keycloak",
+      "slug": "keycloak"
+    },
+    {
+      "title": "Lemmy",
+      "slug": "lemmy"
+    },
+    {
+      "title": "Let's Encrypt",
+      "slug": "letsencrypt"
+    },
+    {
+      "title": "MiniMax",
+      "slug": "minimax"
+    },
+    {
+      "title": "Misskey",
+      "slug": "misskey"
+    },
+    {
+      "title": "NodeBB",
+      "slug": "nodebb"
+    },
+    {
+      "title": "Pleroma",
+      "slug": "pleroma"
+    },
+    {
+      "title": "PyCQA",
+      "slug": "pycqa"
+    },
+    {
+      "title": "Qase",
+      "slug": "qase"
+    },
+    {
+      "title": "Quasar",
+      "slug": "quasar"
+    },
+    {
+      "title": "Robot Framework",
+      "slug": "robotframework"
+    },
+    {
+      "title": "RuboCop",
+      "slug": "rubocop"
+    },
+    {
+      "title": "RustFS",
+      "slug": "rustfs"
+    },
+    {
+      "title": "Sass",
+      "slug": "sass"
+    },
+    {
+      "title": "Slint",
+      "slug": "slint"
+    },
+    {
+      "title": "Tauri",
+      "slug": "tauri"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "vuedotjs"
+    },
+    {
+      "title": "Webex",
+      "slug": "webex"
+    },
+    {
+      "title": "Webpack",
+      "slug": "webpack"
+    }
+  ]
 }

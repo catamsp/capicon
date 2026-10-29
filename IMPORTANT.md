@@ -1,52 +1,50 @@
 # IMPORTANT — PENDING ACTIONS (look later)
 
-Status: repo built and committed locally (branch `main`), **not pushed**, license triage **deliberately skipped**. Nothing in this file has been executed yet.
+Status: repo built and committed locally (branch `main`), **not pushed**.
+License triage **EXECUTED** (see section 1) — `validate.py --strict` now passes: 13,066 icons, 0 warnings.
 
 ---
 
-## 1. License triage (225 flagged icons — READ before commercial launch)
+## 1. License triage — ✅ DONE (2026-10-29)
 
-Source of truth: `metadata/reports/license-review.json` (regenerated on every build).
-Gate: `python tools/validate.py --strict` currently FAILS on these (by design) — run it in lenient mode until triaged.
+Risky icons reviewed and removed automatically by `tools/triage_licenses.py`:
 
-### 🔴 Tier 1 — REMOVE: Non-commercial (`NC`) licenses, 11 icons — hard blockers
-Commercial product + NC license = direct conflict. No ambiguity.
-`cocoapods`, `gamebanana`, `letsencrypt`, `nodebb`, `pycqa`, `rubocop`, `tauri`, `misskey`, `robotframework`, `sass`, `vuedotjs`
-
-### 🟡 Tier 2 — REVIEW: `custom` ToS/EULA, 24 icons
-Each points at the brand's own logo/ToS policy (trademark-heavy). Read each or blanket-denylist until reviewed.
-`broadcom`, `chianetwork`, `contentstack`, `coreboot`, `dify`, `douban`, `doubanread`, `effect`, `f_lux`, `fcc`, `fedora`, `flux`, `graphite_editor`, `harbor`, `kedro`, `keycloak`, `lemmy`, `minimax`, `pleroma`, `qase`, `quasar`, `rustfs`, `webex`, `webpack`
-
-### 🟢 Tier 3 — KEEP (unmodified) + attribution notices, ~109 icons
-GPL/AGPL/MPL/CC-BY-SA + all permissive + CC-BY. Safe to ship **unmodified**:
-obligation is notices only (aggregation/collection principle — they do NOT make the
-app copyleft; share-alike only triggers on *modified* versions).
-Includes: LibreOffice suite, GIMP, Rust, Debian, PHP, Ruby, GTK, Inkscape, Neovim,
-Jenkins, Zig, Monero, ... (full list in license-review.json) + 23 CC-BY
-(`android`, `git`, `angular`, `godotengine`, `nixos`, `yarn`, ...) + 96 permissive (MIT/Apache/CC0/BSD).
+- 🗑️ **37 icons BLOCKED** → `DENYLIST.json` (files purged from `icons/`, `png/`, `metadata/`, `site/`):
+  - 11 non-commercial (`CC-BY-NC*`): `cocoapods`, `gamebanana`, `letsencrypt`, `nodebb`, `pycqa`, `rubocop`, `tauri`, `misskey`, `robotframework`, `sass`, `vuedotjs`
+  - 24 custom/unknown ToS: `broadcom`, `chianetwork`, `contentstack`, `coreboot`, `dify`, `douban`, `doubanread`, `effect`, `f_lux`, `fcc`, `fedora`, `flux`, `graphite_editor`, `harbor`, `kedro`, `keycloak`, `lemmy`, `minimax`, `pleroma`, `qase`, `quasar`, `rustfs`, `webex`, `webpack`
+  - 2 no-derivatives (`CC-BY-ND*`, we rasterize SVG→PNG): `jpeg`, `slint`
+- ✅ **188 icons REVIEWED & APPROVED** → `tools/overrides.json` `simpleicons_license_allowlist`
+  (permissive Apache/MIT/CC0/BSD/Unlicense/MPL + CC-BY/CC-BY-SA attribution + GPL/AGPL unmodified aggregation)
+- 🔄 **Auto-triage on every sync**: `.github/workflows/sync-upstream.yml` runs
+  `triage_licenses.py` between builds — new NC/ND/custom icons from upstream are
+  blocked without human review; new permissive/copyleft icons are allowlisted.
 
 **Rule: never modify upstream SVGs** — the "keep" verdict depends on byte-identical
-redistribution (pipeline already does this; validator check below would enforce it).
+redistribution (pipeline already does this).
+
+**Retriage / audit**: `python tools/build_mapping.py && python tools/triage_licenses.py && python tools/build_mapping.py && python tools/validate.py --strict`
 
 ### Trademark layer (separate from licenses, never solved by them)
 Every logo is its own brand's trademark. Nominative use inside an icon pack is the
 norm (Lawnicons ships on Play Store doing this), but removal requests can arrive at
-any time → `DENYLIST.json` must stay ready; honor within hours.
+any time → `DENYLIST.json` must stay ready; honor within hours (add `{"key": "..."}`
+entries, then run the retriage line above).
 
 ---
 
 ## 2. Optional work items (choose when ready — NONE executed)
 
-- [ ] **A. Populate `DENYLIST.json`** with Tier 1 (11 icons), optionally Tier 2 (24).
-      Then run: `python tools/sync_upstream.py && python tools/build_mapping.py && python tools/render_png.py && python tools/validate.py --strict`
 - [ ] **B. `ATTRIBUTIONS.md` generator** — new `tools/build_attributions.py` reading
       license fields out of `metadata/mapping.json`; link from app's licenses screen.
+      (The approved list already exists: `tools/overrides.json` + `metadata/reports/license-review.json`)
 - [ ] **C. Validator check: upstream SVGs byte-identical** — compare
       `icons/lawnicons/svg/*` and `icons/simpleicons/svg/*` against `third_party/` copies.
 - [ ] **D. Source-scoped denylist** — support entries like `"simpleicons:rust"` so a
-      flagged Simple Icons glyph can be dropped while keeping the Apache-2.0 Lawnicons
-      outline of the same brand.
-- [ ] **E. Custom-ToS review pass** — go through Tier 2 list one by one.
+      flagged Simple Icons glyph can be dropped while keeping a Lawnicons outline of
+      the same brand (5 dual-set brands were fully removed in the triage: `douban`,
+      `f_lux`, `flux`, `minimax`, `webex`).
+- [ ] ~~**A. Populate `DENYLIST.json`**~~ ✅ done (37 entries)
+- [ ] ~~**E. Custom-ToS review pass**~~ ✅ done (blanket-blocked pending individual review)
 
 ---
 
@@ -57,6 +55,7 @@ any time → `DENYLIST.json` must stay ready; honor within hours.
 - [ ] Create public GitHub repo + `git push -u origin main` (~430 MiB packed)
 - [ ] Actions settings: enable write permissions + "Allow GitHub Actions to create PRs"
       (needed by `.github/workflows/sync-upstream.yml` weekly sync)
+- [ ] Settings → Pages → Source: **GitHub Actions** (needed by `.github/workflows/deploy-pages.yml`)
 - [ ] Verify first scheduled sync PR works end-to-end
 - [ ] Tag first release (e.g. `v2026.10.29`) for jsDelivr pinning:
       `https://cdn.jsdelivr.net/gh/<you>/capicons@<tag>/png/lawnicons/192/<key>.png`

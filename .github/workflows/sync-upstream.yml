@@ -68,6 +68,8 @@ jobs:
         run: |
           python tools/sync_upstream.py
           python tools/build_mapping.py
+          python tools/triage_licenses.py
+          python tools/build_mapping.py
           python tools/render_png.py
           python tools/validate.py --strict
 
@@ -89,4 +91,5 @@ jobs:
             - `upstreams.lock.json` shows the vendored commit SHAs
             - `metadata/reports/unmatched.json` has join statistics
             - `metadata/reports/license-review.json` lists icons with explicit per-icon licenses
+            - `tools/triage_licenses.py` auto-blocks NC/ND/custom-license icons (see `DENYLIST.json`)
             - `validate.py --strict` gates the PR (denylist, missing files, license review)

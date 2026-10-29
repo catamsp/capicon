@@ -1,4 +1,190 @@
 {
   "comment": "Icon keys that must NEVER be served. Enforced by tools/build_mapping.py and tools/validate.py on every sync. Add an entry per brand removal request.",
-  "icons": []
+  "icons": [
+    {
+      "key": "broadcom",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "chianetwork",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "cocoapods",
+      "license": "CC-BY-NC-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "contentstack",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "coreboot",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "dify",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "douban",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "doubanread",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "effect",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "f_lux",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "flux",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "fcc",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "fedora",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "gamebanana",
+      "license": "CC-BY-NC-ND-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "graphite_editor",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "harbor",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "jpeg",
+      "license": "CC-BY-ND-4.0",
+      "reason": "no-derivatives license (we rasterize SVG to PNG)"
+    },
+    {
+      "key": "kedro",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "keycloak",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "lemmy",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "letsencrypt",
+      "license": "CC-BY-NC-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "minimax",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "misskey",
+      "license": "CC-BY-NC-SA-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "nodebb",
+      "license": "CC-BY-NC-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "pleroma",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "pycqa",
+      "license": "CC-BY-NC-ND-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "qase",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "quasar",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "robotframework",
+      "license": "CC-BY-NC-SA-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "rubocop",
+      "license": "CC-BY-NC-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "rustfs",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "sass",
+      "license": "CC-BY-NC-SA-3.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "slint",
+      "license": "CC-BY-ND-4.0",
+      "reason": "no-derivatives license (we rasterize SVG to PNG)"
+    },
+    {
+      "key": "tauri",
+      "license": "CC-BY-NC-ND-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "vuedotjs",
+      "license": "CC-BY-NC-SA-4.0",
+      "reason": "non-commercial license"
+    },
+    {
+      "key": "webex",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    },
+    {
+      "key": "webpack",
+      "license": "custom",
+      "reason": "custom/unknown terms - commercial redistribution not verified"
+    }
+  ]
 }
