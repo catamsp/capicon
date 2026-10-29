@@ -9,8 +9,7 @@ let ms = null;
 let ready = false;
 const MAX_RESULTS = 5000;
 
-function passes(doc, sources, tiers) {
-  if (tiers.length && !tiers.includes(doc.t)) return false;
+function passes(doc, sources) {
   if (sources.length) {
     let hit = false;
     for (const s of doc.s) { if (sources.includes(s)) { hit = true; break; } }
@@ -27,7 +26,6 @@ self.onmessage = (e) => {
     ms = new MiniSearch({
       idField: 'k',
       fields: ['n', 'k', 'p', 'comp'],
-      storeFields: ['t'],
       searchOptions: {
         prefix: true,
         fuzzy: 0.2,
@@ -35,25 +33,25 @@ self.onmessage = (e) => {
         combineWith: 'AND',
       },
     });
-    ms.addAll(docs.map(d => ({ k: d.k, n: d.n, p: d.p, comp: d.comp, t: d.t })));
+    ms.addAll(docs.map(d => ({ k: d.k, n: d.n, p: d.p, comp: d.comp })));
     ready = true;
     self.postMessage({ type: 'ready', total: docs.length });
     return;
   }
   if (msg.type !== 'search') return;
   if (!ready) { self.postMessage({ type: 'results', id: msg.id, keys: [], total: 0 }); return; }
-  const { q, sources, tiers, id } = msg;
+  const { q, sources, id } = msg;
   let keys;
   if (!q) {
     keys = [];
-    for (const d of docs) if (passes(d, sources, tiers)) keys.push(d.k);
+    for (const d of docs) if (passes(d, sources)) keys.push(d.k);
   } else {
     const hits = ms.search(q);
     keys = [];
     for (const h of hits) {
       if (keys.length >= MAX_RESULTS) break;
       const d = byKey.get(h.id);
-      if (d && passes(d, sources, tiers)) keys.push(d.k);
+      if (d && passes(d, sources)) keys.push(d.k);
     }
   }
   self.postMessage({ type: 'results', id, keys, total: keys.length });

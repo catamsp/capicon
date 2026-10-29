@@ -1,19 +1,16 @@
-/* capicons site — virtualized grid + worker search + triage console. */
+/* capicons site — virtualized grid + worker search + detail drawer. */
 'use strict';
 
 const $ = s => document.querySelector(s);
 const viewport = $('#viewport'), spacer = $('#spacer'), cells = $('#cells');
 const qInput = $('#q'), statsEl = $('#stats'), countEl = $('#count');
 const drawer = $('#drawer'), drawerBody = $('#drawerbody'), scrim = $('#scrim');
-const triageBar = $('#triagebar');
 
 let docs = [];              // name-sorted records from build_site.py
 let byKey = new Map();
 let results = [];           // array of keys, current result set
 let meta = null;
-let sel = new Set();        // triage selection
-let triageMode = false;
-let activeFilters = { sources: ['lawnicons', 'simpleicons', 'capicons'], tiers: [0, 1, 2] };
+let activeFilters = { sources: ['lawnicons', 'simpleicons', 'capicons'] };
 let msgId = 0, pending = new Map();
 
 const worker = new Worker('search.worker.js');
@@ -29,7 +26,7 @@ worker.onmessage = e => {
 function search(q, cb) {
   const id = ++msgId;
   pending.set(id, cb);
-  worker.postMessage({ type: 'search', id, q, sources: activeFilters.sources, tiers: activeFilters.tiers });
+  worker.postMessage({ type: 'search', id, q, sources: activeFilters.sources });
 }
 
 let searchTimer = null;
@@ -54,8 +51,8 @@ function updateStats(q) {
 
 /* ---------------- virtualized grid ---------------- */
 
-const CELL_W = 108, CELL_H = 118, PAD = 8;
-let cols = 1, winStart = 0, winEnd = 0;
+const CELL_W = 156, CELL_H = 168, PAD = 10;
+let cols = 1;
 
 function layout() {
   cols = Math.max(1, Math.floor(viewport.clientWidth / CELL_W));
@@ -67,10 +64,10 @@ function render() {
   layout();
   const first = Math.max(0, Math.floor(viewport.scrollTop / CELL_H) - 2);
   const last = Math.ceil((viewport.scrollTop + viewport.clientHeight) / CELL_H) + 2;
-  winStart = first * cols;
-  winEnd = Math.min(results.length, last * cols);
+  const from = first * cols;
+  const to = Math.min(results.length, last * cols);
   const html = [];
-  for (let i = winStart; i < winEnd; i++) html.push(cell(results[i], i));
+  for (let i = from; i < to; i++) html.push(cell(results[i], i));
   cells.innerHTML = html.join('');
   paintThumbs(cells);
 }
@@ -80,18 +77,16 @@ function cell(key, i) {
   if (!d) return '';
   const row = Math.floor(i / cols), col = i % cols;
   const left = col * CELL_W + PAD, top = row * CELL_H + PAD;
-  const checked = sel.has(key) ? ' checked' : '';
-  return `<div class="cell${triageMode ? ' triage' : ''}" data-k="${esc(key)}" style="left:${left}px;top:${top}px">
-    ${triageMode ? `<input type="checkbox" class="selbox" data-k="${esc(key)}"${checked}>` : ''}
-    <span class="thumb mask" data-color="${d.col ? '#' + d.col : ''}" data-src="${esc(d.f48)}"></span>
+  return `<div class="cell" data-k="${esc(key)}" style="left:${left}px;top:${top}px">
+    <span class="thumb" data-color="${d.col ? '#' + d.col : ''}" data-src="${esc(d.f48)}"></span>
     <span class="label" title="${esc(d.n)}">${esc(short(d.n))}</span>
   </div>`;
 }
 
-function short(s) { return s.length > 14 ? s.slice(0, 13) + '…' : s; }
+function short(s) { return s.length > 16 ? s.slice(0, 15) + '…' : s; }
 
 function paintThumbs(root) {
-  for (const el of (root || cells).querySelectorAll('.thumb.mask:not(.painted)')) {
+  for (const el of (root || cells).querySelectorAll('.thumb:not(.painted)')) {
     const url = `url("${el.dataset.src}")`;
     el.style.webkitMaskImage = url;
     el.style.maskImage = url;
@@ -105,11 +100,10 @@ function paintThumbs(root) {
 function openDrawer(key) {
   const d = byKey.get(key);
   if (!d) return;
-  const tierBadge = ['<span class="badge t0">✓ keep</span>', '<span class="badge t1">▲ review</span>', '<span class="badge t2">✕ block</span>'][d.t];
   const srcBadges = d.s.map(s => `<span class="badge src">${s}</span>`).join(' ');
   const lic = d.lt
-    ? `<div class="row"><span class="muted">License</span><span class="mono">${esc(d.lt)}${d.ss ? ` · <a href="https://simpleicons.org/icons/${esc(d.ss)}.svg" target="_blank" rel="noopener">upstream page</a>` : ''}</span></div>`
-    : '<div class="row"><span class="muted">License</span><span class="mono">no explicit license (see THIRD_PARTY_NOTICES.md)</span></div>';
+    ? `<div class="row"><span class="muted">License</span><span class="mono">${esc(d.lt)}${d.ss ? ` · <a href="https://simpleicons.org/icons/${esc(d.ss)}.svg" target="_blank" rel="noopener">upstream</a>` : ''}</span></div>`
+    : '';
   const pkgs = d.p.length
     ? `<div class="pkgs">${d.p.map(p => `<code class="pkg">${esc(p)}</code>`).join('')}</div>`
     : '<span class="muted">—</span>';
@@ -119,9 +113,9 @@ function openDrawer(key) {
     : '';
 
   drawerBody.innerHTML = `
-    <div class="preview mask" id="dpreview"></div>
+    <div class="preview" id="dpreview"></div>
     <h2>${esc(d.n)}</h2>
-    <div class="badges">${tierBadge} ${srcBadges} <span class="badge key mono">${esc(d.k)}</span></div>
+    <div class="badges">${srcBadges} <span class="badge key mono">${esc(d.k)}</span></div>
     <div class="row"><span class="muted">Color</span><span class="mono">${d.col ? '#' + esc(d.col) : '—'}</span></div>
     ${lic}
     <div class="row"><span class="muted">Packages</span>${pkgs}</div>
@@ -153,37 +147,6 @@ function closeDrawer() {
   document.body.classList.remove('drawer-open');
 }
 
-/* ---------------- triage console ---------------- */
-
-function setTriage(on) {
-  triageMode = on;
-  $('#triage').classList.toggle('on', on);
-  triageBar.hidden = !on;
-  updateSelCount();
-  render();
-}
-
-function updateSelCount() {
-  $('#selcount').textContent = `${sel.size} selected`;
-}
-
-function toggleSel(key, on) {
-  if (on) sel.add(key); else sel.delete(key);
-  updateSelCount();
-}
-
-$('#selallvisible').onclick = () => { for (const k of results) sel.add(k); updateSelCount(); render(); };
-$('#clearsel').onclick = () => { sel.clear(); updateSelCount(); render(); };
-
-$('#copydeny').onclick = () => {
-  const keys = [...sel].sort();
-  copy(JSON.stringify({ icons: keys }, null, 2) + '\n', `${keys.length} keys copied — paste into DENYLIST.json "icons"`);
-};
-$('#copyallow').onclick = () => {
-  const slugs = [...sel].map(k => byKey.get(k)).filter(d => d && d.ss).map(d => d.ss).sort();
-  copy(JSON.stringify(slugs, null, 2) + '\n', `${slugs.length} slugs copied — paste into tools/overrides.json "simpleicons_license_allowlist"`);
-};
-
 /* ---------------- chips / theme / misc ---------------- */
 
 document.querySelectorAll('.chipgroup').forEach(g => {
@@ -191,10 +154,7 @@ document.querySelectorAll('.chipgroup').forEach(g => {
     const chip = e.target.closest('.chip');
     if (!chip) return;
     chip.classList.toggle('on');
-    const kind = g.dataset.kind;
-    const on = [...g.querySelectorAll('.chip.on')].map(c => c.dataset.v);
-    if (kind === 'source') activeFilters.sources = on;
-    else activeFilters.tiers = on.map(Number);
+    activeFilters.sources = [...g.querySelectorAll('.chip.on')].map(c => c.dataset.v);
     runSearch();
   });
 });
@@ -206,7 +166,6 @@ $('#theme').onclick = () => {
 };
 document.documentElement.dataset.theme = localStorage.getItem('theme') || 'dark';
 
-$('#triage').onclick = () => setTriage(!triageMode);
 $('#closedrawer').onclick = closeDrawer;
 scrim.onclick = closeDrawer;
 qInput.addEventListener('input', runSearch);
@@ -219,8 +178,6 @@ document.addEventListener('keydown', e => {
 });
 
 cells.addEventListener('click', e => {
-  const box = e.target.closest('.selbox');
-  if (box) { toggleSel(box.dataset.k, box.checked); return; }
   const c = e.target.closest('.cell');
   if (c) openDrawer(c.dataset.k);
 });
