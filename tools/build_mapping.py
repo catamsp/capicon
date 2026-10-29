@@ -339,10 +339,22 @@ def main() -> None:
         encoding="utf-8",
     )
 
+    # count sources from the emitted mapping itself so the summary adds up
+    # (upstream inventory and join-slug counts differ from emitted entries:
+    # denylisted drawables are dropped, and alias drawables can share one slug)
+    src_counts: dict[str, int] = {}
+    duals = 0
+    for icon in icons.values():
+        for s in icon["sources"]:
+            src_counts[s] = src_counts.get(s, 0) + 1
+        if len(icon["sources"]) > 1:
+            duals += 1
     print(
         f"mapping.json: {len(icons)} icons "
-        f"(lawnicons {len(lawn)}, simple-icons {len(si)}, capicons {len(cap)}; "
-        f"{len(matched_si)} lawn<->si matches, {len(unmatched_lawn)} unmatched)"
+        f"(lawnicons {src_counts.get('lawnicons', 0)}, "
+        f"simple-icons {src_counts.get('simpleicons', 0)}, "
+        f"capicons {src_counts.get('capicons', 0)}; "
+        f"{duals} duals, {len(unmatched_lawn)} unmatched)"
     )
     print(f"appfilter.xml: {len(rows)} items")
     print(f"license review: {len(flagged)} icons flagged -> metadata/reports/license-review.json")
